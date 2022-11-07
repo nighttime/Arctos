@@ -1,0 +1,2930 @@
+medicine,was given to,the patient	medicine,sedated,the patient	True
+paracetamol,was given to,the patient	paracetamol,calmed,the patient	True
+paracetamol,was given to,the patient	paracetamol,subdued,the patient	True
+the tablets,were given to,the patient	the tablets,stimulated,the patient	True
+ibuprofen,was given to,the patient	ibuprofen,energized,the patient	True
+ibuprofen,was given to,the patient	ibuprofen,enlivened,the patient	True
+the tablets,were given to,the patient	the tablets,livened up,the patient	True
+paracetamol,was given to,the patient	paracetamol,invigorated,the patient	True
+paracetamol,was administered to,the patient	paracetamol,sedated,the patient	True
+the tablets,were administered to,the patient	the tablets,calmed,the patient	True
+the tablets,were administered to,the patient	the tablets,subdued,the patient	True
+drugs,were administered to,the patient	drugs,stimulated,the patient	True
+ibuprofen,was administered to,the patient	ibuprofen,energized,the patient	True
+drugs,were administered to,the patient	drugs,enlivened,the patient	True
+ibuprofen,was administered to,the patient	ibuprofen,livened up,the patient	True
+drugs,were administered to,the patient	drugs,invigorated,the patient	True
+the patient,took,the tablets	the tablets,sedated,the patient	True
+the patient,took,medicine	medicine,calmed,the patient	True
+the patient,took,ibuprofen	ibuprofen,subdued,the patient	True
+the patient,took,the tablets	the tablets,stimulated,the patient	True
+the patient,took,the tablets	the tablets,energized,the patient	True
+the patient,took,the tablets	the tablets,enlivened,the patient	True
+the patient,took,medicine	medicine,livened up,the patient	True
+the patient,took,the tablets	the tablets,invigorated,the patient	True
+elliot,was affected by,the adventure	elliot,was refreshed by,the adventure	True
+gale,was affected by,dancing	gale,was recharged by,dancing	True
+elliot,was affected by,running	elliot,was rejuvenated by,running	True
+gael,was affected by,the holiday	gael,was revitalized by,the holiday	True
+sam,was affected by,dancing	sam,was revived by,dancing	True
+morgan,was affected by,the adventure	morgan,tired of,the adventure	True
+morgan,was affected by,cycling	morgan,was bored by,cycling	True
+andy,was affected by,the trip	andy,was wearied by,the trip	True
+morgan,was affected by,cycling	morgan,was worn out by,cycling	True
+casey,went,sailing	casey,was refreshed by,sailing	True
+kelly,went,dancing	kelly,was recharged by,dancing	True
+billie,went,running	billie,was rejuvenated by,running	True
+frankie,went,swimming	frankie,was revitalized by,swimming	True
+frankie,went,dancing	frankie,was revived by,dancing	True
+jean,went,cycling	jean,tired of,cycling	True
+alex,went,dancing	alex,was bored by,dancing	True
+gael,went,dancing	gael,was wearied by,dancing	True
+bobbie,went,dancing	bobbie,was worn out by,dancing	True
+running,affected,gael	running,refreshed,gael	True
+cycling,affected,billie	cycling,recharged,billie	True
+running,affected,charlie	running,rejuvenated,charlie	True
+swimming,affected,jean	swimming,revitalized,jean	True
+dancing,affected,robin	dancing,revived,robin	True
+dancing,affected,billie	dancing,tired,billie	True
+the machine,used,the rope	the machine,relaxed,the rope	True
+casey,used,the cord	casey,slackened,the cord	True
+the machine,used,the strap	the machine,loosened,the strap	True
+ashley,used,the string	ashley,tensed,the string	True
+the machine,used,the cord	the machine,strained,the cord	True
+the machine,used,the string	the machine,tightened,the string	True
+the machine,adjusted,the string	the machine,relaxed,the string	True
+morgan,adjusted,the string	morgan,slackened,the string	True
+the machine,adjusted,the string	the machine,loosened,the string	True
+the machine,adjusted,the strap	the machine,tensed,the strap	True
+the machine,adjusted,the strap	the machine,strained,the strap	True
+charlie,adjusted,the cord	charlie,tightened,the cord	True
+morgan,heard,the sermon	morgan,cried during,the sermon	True
+billie,heard,the address	billie,wept during,the address	True
+billie,heard,the speech	billie,sobbed during,the speech	True
+charlie,heard,the sermon	charlie,laughed at,the sermon	True
+elliot,heard,the address	elliot,chortled at,the address	True
+andy,heard,the sermon	andy,chuckled at,the sermon	True
+ashley,heard,the speech	ashley,giggled at,the speech	True
+andy,heard,the speech	andy,snickered at,the speech	True
+sam,heard,the sermon	sam,cracked up at,the sermon	True
+aiden,listened to,the speech	aiden,cried during,the speech	True
+jamie,listened to,the speech	jamie,wept during,the speech	True
+alex,listened to,the address	alex,sobbed during,the address	True
+sam,listened to,the sermon	sam,laughed at,the sermon	True
+bobbie,listened to,the sermon	bobbie,chortled at,the sermon	True
+charlie,listened to,the address	charlie,chuckled at,the address	True
+aiden,listened to,the sermon	aiden,giggled at,the sermon	True
+bobbie,listened to,the address	bobbie,snickered at,the address	True
+ali,listened to,the address	ali,cracked up at,the address	True
+alex,watched,star wars	alex,cried during,star wars	True
+gale,watched,the short film	gale,wept during,the short film	True
+aiden,watched,the musical	aiden,sobbed during,the musical	True
+charlie,watched,indiana jones	charlie,laughed at,indiana jones	True
+aiden,watched,the short film	aiden,chortled at,the short film	True
+kelly,watched,the musical	kelly,chuckled at,the musical	True
+jackie,watched,the music video	jackie,giggled at,the music video	True
+jackie,watched,indiana jones	jackie,snickered at,indiana jones	True
+alex,watched,the short film	alex,cracked up at,the short film	True
+ali,saw,the film	ali,cried during,the film	True
+aiden,saw,indiana jones	aiden,wept during,indiana jones	True
+gale,saw,the short film	gale,sobbed during,the short film	True
+sam,saw,the music video	sam,laughed at,the music video	True
+ashley,saw,indiana jones	ashley,chortled at,indiana jones	True
+jamie,saw,jurassic park	jamie,chuckled at,jurassic park	True
+jamie,saw,the musical	jamie,giggled at,the musical	True
+morgan,saw,indiana jones	morgan,snickered at,indiana jones	True
+sam,saw,the musical	sam,cracked up at,the musical	True
+ali,talked to,andy	ali,irritated,andy	True
+casey,talked to,robin	casey,aggravated,robin	True
+casey,talked to,gale	casey,annoyed,gale	True
+jean,talked to,morgan	jean,bothered,morgan	True
+cameron,talked to,gael	cameron,bugged,gael	True
+gale,talked to,bobbie	gale,irked,bobbie	True
+bobbie,talked to,ashley	bobbie,vexed,ashley	True
+aiden,talked to,elliot	aiden,unsettled,elliot	True
+billie,talked to,ali	billie,soothed,ali	True
+ali,talked to,charlie	ali,appeased,charlie	True
+robin,talked to,jamie	robin,mollified,jamie	True
+billie,talked to,sam	billie,pacified,sam	True
+jackie,talked to,casey	jackie,placated,casey	True
+ashley,spoke to,jamie	ashley,irritated,jamie	True
+jackie,spoke to,charlie	jackie,aggravated,charlie	True
+sam,spoke to,andy	sam,annoyed,andy	True
+morgan,spoke to,frankie	morgan,bothered,frankie	True
+aiden,spoke to,casey	aiden,bugged,casey	True
+elliot,spoke to,kelly	elliot,irked,kelly	True
+billie,spoke to,jackie	billie,vexed,jackie	True
+sam,spoke to,alex	sam,unsettled,alex	True
+ali,spoke to,charlie	ali,soothed,charlie	True
+ashley,spoke to,jackie	ashley,appeased,jackie	True
+bobbie,spoke to,jackie	bobbie,mollified,jackie	True
+casey,spoke to,frankie	casey,pacified,frankie	True
+gale,spoke to,morgan	gale,placated,morgan	True
+frankie,interacted with,elliot	frankie,irritated,elliot	True
+charlie,interacted with,ali	charlie,aggravated,ali	True
+frankie,interacted with,aiden	frankie,annoyed,aiden	True
+bobbie,interacted with,elliot	bobbie,bothered,elliot	True
+morgan,interacted with,jackie	morgan,bugged,jackie	True
+elliot,interacted with,bobbie	elliot,irked,bobbie	True
+casey,interacted with,gael	casey,vexed,gael	True
+aiden,interacted with,kelly	aiden,unsettled,kelly	True
+aiden,interacted with,andy	aiden,soothed,andy	True
+alex,interacted with,elliot	alex,appeased,elliot	True
+casey,interacted with,bobbie	casey,mollified,bobbie	True
+elliot,interacted with,ali	elliot,pacified,ali	True
+casey,interacted with,cameron	casey,placated,cameron	True
+ford,had,funds	ford,decreased,funds	True
+bosch,had,funds	bosch,depleted,funds	True
+costco,had,funds	costco,reduced,funds	True
+nestle,had,funds	nestle,increased,funds	True
+costco,had,reserves	costco,gained,reserves	True
+samsung,owned,funds	samsung,decreased,funds	True
+volkswagen,owned,reserves	volkswagen,depleted,reserves	True
+twitter,owned,reserves	twitter,reduced,reserves	True
+apple,owned,reserves	apple,increased,reserves	True
+costco,owned,reserves	costco,gained,reserves	True
+the construction workers,changed,the fort	the construction workers,strengthened,the fort	True
+the engineer,changed,the wood	the engineer,fortified,the wood	True
+the technician,changed,the wood	the technician,toughened,the wood	True
+the builders,changed,the building	the builders,weakened,the building	True
+the construction workers,modified,the fortress	the construction workers,strengthened,the fortress	True
+the engineer,modified,the metal	the engineer,fortified,the metal	True
+the worker,modified,the steel	the worker,toughened,the steel	True
+the engineers,modified,the fortress	the engineers,weakened,the fortress	True
+the construction workers,worked on,the castle	the construction workers,strengthened,the castle	True
+the builders,worked on,the fort	the builders,fortified,the fort	True
+the construction workers,worked on,the fort	the construction workers,weakened,the fort	True
+the photographer,changed,the image	the photographer,blew up,the image	True
+the photographer,changed,the picture	the photographer,shrank,the picture	True
+the photographer,modified,the picture	the photographer,blew up,the picture	True
+the photographer,modified,the image	the photographer,shrank,the image	True
+the photographer,altered,the image	the photographer,blew up,the image	True
+the photographer,altered,the image	the photographer,shrank,the image	True
+the photographer,adjusted,the image	the photographer,blew up,the image	True
+the photographer,adjusted,the picture	the photographer,shrank,the picture	True
+the machine,changed,the gas	the machine,compressed,the gas	True
+the machine,changed,the fluid	the machine,condensed,the fluid	True
+the machine,changed,the fluid	the machine,expanded,the fluid	True
+the machine,applied force to,the volume	the machine,compressed,the volume	True
+the machine,applied force to,the volume	the machine,condensed,the volume	True
+the machine,applied force to,the gas	the machine,expanded,the gas	True
+the photographer,changed,the image	the photographer,darkened,the image	True
+the photographer,changed,the picture	the photographer,lightened,the picture	True
+the photographer,changed,the image	the photographer,brightened,the image	True
+the photographer,modified,the image	the photographer,darkened,the image	True
+the photographer,modified,the image	the photographer,lightened,the image	True
+the photographer,modified,the image	the photographer,brightened,the image	True
+the photographer,adjusted,the image	the photographer,darkened,the image	True
+the photographer,adjusted,the picture	the photographer,lightened,the picture	True
+the photographer,adjusted,the image	the photographer,brightened,the image	True
+the photographer,altered,the picture	the photographer,darkened,the picture	True
+the photographer,altered,the image	the photographer,lightened,the image	True
+the photographer,altered,the picture	the photographer,brightened,the picture	True
+the engineers,changed,the shaft	the engineers,narrowed,the shaft	True
+the builders,changed,the opening	the builders,constricted,the opening	True
+the construction workers,changed,the opening	the construction workers,restricted,the opening	True
+charlie,changed,their perspective	charlie,widened,their perspective	True
+ali,changed,their perspective	ali,broadened,their perspective	True
+the engineers,changed,the pipe	the engineers,expanded,the pipe	True
+the construction workers,modified,the opening	the construction workers,narrowed,the opening	True
+the construction workers,modified,the shaft	the construction workers,constricted,the shaft	True
+the builders,modified,the pipe	the builders,restricted,the pipe	True
+the builders,modified,the pipe	the builders,widened,the pipe	True
+the construction workers,modified,the pipe	the construction workers,broadened,the pipe	True
+the builders,modified,the tunnel	the builders,expanded,the tunnel	True
+the seamstress,changed,the material	the seamstress,let out,the material	True
+the tailor,changed,the material	the tailor,took in,the material	True
+the seamstress,modified,the fabric	the seamstress,let out,the fabric	True
+the dressmaker,modified,the material	the dressmaker,took in,the material	True
+the tailor,altered,the material	the tailor,let out,the material	True
+the dressmaker,altered,the cloth	the dressmaker,took in,the cloth	True
+the photographer,changed,the image	the photographer,blurred,the image	True
+the photographer,changed,the image	the photographer,focused,the image	True
+the photographer,modified,the picture	the photographer,blurred,the picture	True
+the photographer,modified,the image	the photographer,focused,the image	True
+the photographer,altered,the picture	the photographer,blurred,the picture	True
+the photographer,altered,the picture	the photographer,focused,the picture	True
+the technician,changed,the rod	the technician,lengthened,the rod	True
+the technician,changed,the cable	the technician,elongated,the cable	True
+the engineer,changed,the rod	the engineer,extended,the rod	True
+the engineer,changed,the cable	the engineer,shortened,the cable	True
+the worker,modified,the rod	the worker,lengthened,the rod	True
+the engineer,modified,the cable	the engineer,elongated,the cable	True
+the technician,modified,the cable	the technician,extended,the cable	True
+the technician,modified,the cable	the technician,shortened,the cable	True
+the worker,altered,the cable	the worker,lengthened,the cable	True
+the engineer,altered,the rod	the engineer,elongated,the rod	True
+the worker,altered,the cable	the worker,extended,the cable	True
+the engineer,altered,the rod	the engineer,shortened,the rod	True
+ali,changed,the holiday	ali,lengthened,the holiday	True
+aiden,changed,the visit	aiden,prolonged,the visit	True
+charlie,changed,the expedition	charlie,drew out,the expedition	True
+kelly,changed,the journey	kelly,shortened,the journey	True
+casey,changed,the journey	casey,cut short,the journey	True
+aiden,amended,the tour	aiden,lengthened,the tour	True
+andy,amended,the expedition	andy,prolonged,the expedition	True
+jamie,amended,the tour	jamie,drew out,the tour	True
+elliot,amended,the visit	elliot,shortened,the visit	True
+casey,amended,the expedition	casey,cut short,the expedition	True
+elliot,prepared,the coffee	elliot,cooled,the coffee	True
+andy,prepared,the coffee	andy,heated,the coffee	True
+kelly,changed the state of,the water	kelly,boiled,the water	True
+jamie,changed the state of,the water	jamie,froze,the water	True
+charlie,changed the temperature of,the water	charlie,boiled,the water	True
+aiden,changed the temperature of,the water	aiden,froze,the water	True
+jamie,participated in,the debate	jamie,stifled,the debate	True
+morgan,participated in,the discussion	morgan,stimulated,the discussion	True
+bosch,changed,the code	bosch,complicated,the code	True
+google,changed,the design	google,simplified,the design	True
+bosch,redeveloped,the design	bosch,complicated,the design	True
+facebook,redeveloped,the process	facebook,simplified,the process	True
+facebook,refined,the process	facebook,complicated,the process	True
+facebook,refined,the system	facebook,simplified,the system	True
+apple,altered,the code	apple,complicated,the code	True
+amazon,altered,the system	amazon,simplified,the system	True
+amazon,modified,the design	amazon,complicated,the design	True
+bosch,modified,the system	bosch,simplified,the system	True
+nestle,changed,the fees	nestle,maximized,the fees	True
+unilever,changed,the fees	unilever,minimized,the fees	True
+twitter,altered,the fees	twitter,maximized,the fees	True
+google,altered,the expenditure	google,minimized,the expenditure	True
+dyson,amended,the fees	dyson,maximized,the fees	True
+costco,amended,the expenditure	costco,minimized,the expenditure	True
+gael,changed,the sauce	gael,thickened,the sauce	True
+ali,changed,the soup	ali,thinned,the soup	True
+ashley,changed,the soup	ashley,diluted,the soup	True
+gale,modified,the sauce	gale,thickened,the sauce	True
+frankie,modified,the sauce	frankie,thinned,the sauce	True
+casey,modified,the sauce	casey,diluted,the sauce	True
+andy,cooked,the sauce	andy,thickened,the sauce	True
+elliot,cooked,the sauce	elliot,thinned,the sauce	True
+ali,cooked,the soup	ali,diluted,the soup	True
+ashley,prepared,the soup	ashley,thickened,the soup	True
+bobbie,prepared,the soup	bobbie,thinned,the soup	True
+gael,prepared,the sauce	gael,diluted,the sauce	True
+the portfolio manager,managed,the fund	the portfolio manager,diversified,the fund	True
+the broker,managed,the portfolio	the broker,varied,the portfolio	True
+the portfolio manager,managed,the portfolio	the portfolio manager,broadened,the portfolio	True
+the fund manager,managed,the fund	the fund manager,specialized,the fund	True
+the stockbroker,managed,the investments	the stockbroker,narrowed,the investments	True
+the stockbroker,amended,the investments	the stockbroker,diversified,the investments	True
+the stockbroker,amended,the portfolio	the stockbroker,varied,the portfolio	True
+the portfolio manager,amended,the fund	the portfolio manager,broadened,the fund	True
+the portfolio manager,amended,the portfolio	the portfolio manager,specialized,the portfolio	True
+the portfolio manager,amended,the fund	the portfolio manager,narrowed,the fund	True
+the portfolio manager,updated,the investments	the portfolio manager,diversified,the investments	True
+the portfolio manager,updated,the investments	the portfolio manager,varied,the investments	True
+the broker,updated,the investments	the broker,broadened,the investments	True
+the broker,updated,the investments	the broker,specialized,the investments	True
+the stockbroker,updated,the portfolio	the stockbroker,narrowed,the portfolio	True
+the fund manager,changed,the portfolio	the fund manager,diversified,the portfolio	True
+the broker,changed,the fund	the broker,varied,the fund	True
+the stockbroker,changed,the fund	the stockbroker,broadened,the fund	True
+the broker,changed,the portfolio	the broker,specialized,the portfolio	True
+the stockbroker,changed,the portfolio	the stockbroker,narrowed,the portfolio	True
+the stockbroker,altered,the portfolio	the stockbroker,diversified,the portfolio	True
+the fund manager,altered,the investments	the fund manager,varied,the investments	True
+the stockbroker,altered,the fund	the stockbroker,broadened,the fund	True
+the stockbroker,altered,the portfolio	the stockbroker,specialized,the portfolio	True
+the stockbroker,altered,the fund	the stockbroker,narrowed,the fund	True
+andy,drove,the truck	andy,accelerated,the truck	True
+ashley,drove,the train	ashley,sped up,the train	True
+the woman,drove,the car	the woman,decelerated,the car	True
+the driver,drove,the train	the driver,slowed,the train	True
+elliot,drove,the tractor	elliot,slowed down,the tractor	True
+the officer,looked at,the certificate	the officer,invalidated,the certificate	True
+the clerk,looked at,the papers	the clerk,voided,the papers	True
+the attendant,looked at,the diploma	the attendant,validated,the diploma	True
+the attendant,looked at,the diploma	the attendant,ratified,the diploma	True
+the officer,looked at,the diploma	the officer,approved,the diploma	True
+the officer,assessed,the ticket	the officer,invalidated,the ticket	True
+the officer,assessed,the diploma	the officer,voided,the diploma	True
+the officer,assessed,the certificate	the officer,validated,the certificate	True
+the clerk,assessed,the certificate	the clerk,ratified,the certificate	True
+the officer,assessed,the papers	the officer,approved,the papers	True
+the clerk,saw,the diploma	the clerk,invalidated,the diploma	True
+the clerk,saw,the ticket	the clerk,voided,the ticket	True
+the officer,saw,the diploma	the officer,validated,the diploma	True
+the clerk,saw,the diploma	the clerk,ratified,the diploma	True
+the officer,saw,the ticket	the officer,approved,the ticket	True
+the clerk,examined,the ticket	the clerk,invalidated,the ticket	True
+the officer,examined,the diploma	the officer,voided,the diploma	True
+the attendant,examined,the certificate	the attendant,validated,the certificate	True
+the attendant,examined,the diploma	the attendant,ratified,the diploma	True
+the attendant,examined,the papers	the attendant,approved,the papers	True
+the attendant,checked,the papers	the attendant,invalidated,the papers	True
+the attendant,checked,the diploma	the attendant,voided,the diploma	True
+the attendant,checked,the certificate	the attendant,validated,the certificate	True
+the clerk,checked,the certificate	the clerk,ratified,the certificate	True
+the clerk,checked,the papers	the clerk,approved,the papers	True
+casey,used,the car	casey,emptied,the car	True
+billie,used,the car	billie,cleared out,the car	True
+jackie,used,the suitcase	jackie,unpacked,the suitcase	True
+aiden,used,the car	aiden,filled,the car	True
+kelly,used,the dishwasher	kelly,loaded,the dishwasher	True
+cameron,used,the bag	cameron,packed,the bag	True
+gael,had,dinner	gael,delayed,dinner	True
+andy,had,lunch	andy,dragged out,lunch	True
+andy,had,lunch	andy,held up,lunch	True
+frankie,had,breakfast	frankie,rushed,breakfast	True
+charlie,had,dinner	charlie,hurried,dinner	True
+the police officer,followed,the woman	the police officer,kept track of,the woman	True
+the officer,followed,the man	the officer,kept an eye on,the man	True
+the police officer,followed,the thief	the police officer,lost track of,the thief	True
+jackie,learned,their posture	jackie,forgot,their posture	True
+jamie,learned,their manners	jamie,neglected,their manners	True
+kelly,learned,their posture	kelly,disregarded,their posture	True
+jean,learned,their manners	jean,minded,their manners	True
+ashley,learned,their manners	ashley,remembered,their manners	True
+billie,was responsible for,the chickens	billie,attended to,the chickens	True
+jamie,was responsible for,the chickens	jamie,neglected,the chickens	True
+elliot,was responsible for,the chickens	elliot,forgot about,the chickens	True
+frankie,was responsible for,the fish	frankie,ignored,the fish	True
+elliot,was responsible for,the dog	elliot,overlooked,the dog	True
+the community,considered,bobbie	the community,excluded,bobbie	True
+the team,considered,billie	the team,left out,billie	True
+the students,considered,charlie	the students,included,charlie	True
+the students,considered,jamie	the students,involved,jamie	True
+the team,decided about,sam	the team,excluded,sam	True
+the students,decided about,aiden	the students,left out,aiden	True
+the group,decided about,jean	the group,included,jean	True
+the group,decided about,gale	the group,involved,gale	True
+the club,decided about,elliot	the club,admitted,elliot	True
+the restaurant,decided about,cameron	the restaurant,barred,cameron	True
+princeton,evaluated,andy	princeton,admitted,andy	True
+caltech,evaluated,jean	caltech,accepted,jean	True
+harvard,evaluated,gael	harvard,let in,gael	True
+harvard,evaluated,cameron	harvard,rejected,cameron	True
+stanford,considered,jean	stanford,admitted,jean	True
+the university,considered,elliot	the university,accepted,elliot	True
+princeton,considered,morgan	princeton,let in,morgan	True
+the university,considered,robin	the university,rejected,robin	True
+yale,decided about,aiden	yale,admitted,aiden	True
+yale,decided about,robin	yale,accepted,robin	True
+the university,decided about,elliot	the university,let in,elliot	True
+the university,decided about,charlie	the university,rejected,charlie	True
+yale,assessed,gael	yale,admitted,gael	True
+the college,assessed,gael	the college,accepted,gael	True
+mit,assessed,billie	mit,let in,billie	True
+stanford,assessed,casey	stanford,rejected,casey	True
+the accusations,were made against,kelly	kelly,admitted to,the accusations	True
+the accusations,were made against,bill gates	bill gates,confirmed,the accusations	True
+the allegations,were made against,bobbie	bobbie,denied,the allegations	True
+the accusations,were made against,alex	alex,refuted,the accusations	True
+the allegations,were made against,robin	robin,negated,the allegations	True
+the accusations,were made against,jennifer lawrence	jennifer lawrence,disaffirmed,the accusations	True
+the accusations,were made against,jennifer lawrence	jennifer lawrence,disconfirmed,the accusations	True
+sam,considered,the notion	sam,accepted,the notion	True
+aiden,considered,the notion	aiden,believed,the notion	True
+ashley,considered,the idea	ashley,trusted,the idea	True
+aiden,considered,the idea	aiden,agreed with,the idea	True
+casey,considered,the conclusion	casey,rejected,the conclusion	True
+casey,considered,the conclusion	casey,disbelieved,the conclusion	True
+robin,considered,the idea	robin,disagreed with,the idea	True
+charlie,thought over,the conclusion	charlie,accepted,the conclusion	True
+bobbie,thought over,the notion	bobbie,believed,the notion	True
+ali,thought over,the idea	ali,trusted,the idea	True
+ali,thought over,the idea	ali,agreed with,the idea	True
+billie,thought over,the conclusion	billie,rejected,the conclusion	True
+casey,thought over,the notion	casey,disbelieved,the notion	True
+jean,thought over,the idea	jean,disagreed with,the idea	True
+jackie,thought about,the notion	jackie,accepted,the notion	True
+frankie,thought about,the conclusion	frankie,believed,the conclusion	True
+ali,thought about,the conclusion	ali,trusted,the conclusion	True
+elliot,thought about,the idea	elliot,agreed with,the idea	True
+sam,thought about,the idea	sam,rejected,the idea	True
+frankie,thought about,the idea	frankie,disbelieved,the idea	True
+bobbie,thought about,the idea	bobbie,disagreed with,the idea	True
+the court,made a decision on,marijuana	the court,forbade,marijuana	True
+the judge,made a decision on,gun ownership	the judge,prohibited,gun ownership	True
+germany,made a decision on,abortion	germany,disallowed,abortion	True
+singapore,made a decision on,smoking	singapore,proscribed,smoking	True
+australia,made a decision on,smoking	australia,forbade,smoking	True
+the legislators,made a decision on,the protest	the legislators,illegalized,the protest	True
+australia,made a decision on,abortion	australia,permitted,abortion	True
+singapore,made a decision on,gun ownership	singapore,allowed,gun ownership	True
+the legislators,made a decision on,alcohol	the legislators,tolerated,alcohol	True
+the ruler,made a decision on,alcohol	the ruler,accepted,alcohol	True
+the legislators,made a decision on,gun ownership	the legislators,decriminalized,gun ownership	True
+singapore,made a decision on,marijuana	singapore,sanctioned,marijuana	True
+the legislators,decided on,gun ownership	the legislators,forbade,gun ownership	True
+mexico,decided on,the protest	mexico,prohibited,the protest	True
+the judge,decided on,gun ownership	the judge,disallowed,gun ownership	True
+singapore,decided on,smoking	singapore,proscribed,smoking	True
+columbia,decided on,alcohol	columbia,forbade,alcohol	True
+australia,decided on,prostitution	australia,illegalized,prostitution	True
+mexico,decided on,the protest	mexico,permitted,the protest	True
+the legislators,decided on,smoking	the legislators,allowed,smoking	True
+the ruler,decided on,abortion	the ruler,tolerated,abortion	True
+germany,decided on,alcohol	germany,accepted,alcohol	True
+germany,decided on,abortion	germany,decriminalized,abortion	True
+singapore,decided on,abortion	singapore,sanctioned,abortion	True
+australia,thought about,abortion	australia,forbade,abortion	True
+the judge,thought about,prostitution	the judge,prohibited,prostitution	True
+australia,thought about,smoking	australia,disallowed,smoking	True
+the judge,thought about,marijuana	the judge,proscribed,marijuana	True
+mexico,thought about,gun ownership	mexico,forbade,gun ownership	True
+mexico,thought about,smoking	mexico,illegalized,smoking	True
+australia,thought about,the protest	australia,permitted,the protest	True
+singapore,thought about,abortion	singapore,allowed,abortion	True
+mexico,thought about,the protest	mexico,tolerated,the protest	True
+australia,thought about,alcohol	australia,accepted,alcohol	True
+the legislators,thought about,smoking	the legislators,decriminalized,smoking	True
+the ruler,thought about,gun ownership	the ruler,sanctioned,gun ownership	True
+columbia,ruled on,abortion	columbia,forbade,abortion	True
+the judge,ruled on,alcohol	the judge,prohibited,alcohol	True
+the legislators,ruled on,the protest	the legislators,disallowed,the protest	True
+the judge,ruled on,smoking	the judge,proscribed,smoking	True
+mexico,ruled on,gun ownership	mexico,forbade,gun ownership	True
+the court,ruled on,the protest	the court,illegalized,the protest	True
+singapore,ruled on,smoking	singapore,permitted,smoking	True
+columbia,ruled on,prostitution	columbia,allowed,prostitution	True
+the judge,ruled on,gun ownership	the judge,tolerated,gun ownership	True
+germany,ruled on,prostitution	germany,accepted,prostitution	True
+the ruler,ruled on,smoking	the ruler,decriminalized,smoking	True
+the ruler,ruled on,alcohol	the ruler,sanctioned,alcohol	True
+australia,had an opinion about,prostitution	australia,forbade,prostitution	True
+the judge,had an opinion about,prostitution	the judge,prohibited,prostitution	True
+the legislators,had an opinion about,marijuana	the legislators,disallowed,marijuana	True
+mexico,had an opinion about,the protest	mexico,proscribed,the protest	True
+the court,had an opinion about,gun ownership	the court,forbade,gun ownership	True
+the judge,had an opinion about,marijuana	the judge,illegalized,marijuana	True
+the court,had an opinion about,marijuana	the court,permitted,marijuana	True
+columbia,had an opinion about,marijuana	columbia,allowed,marijuana	True
+the ruler,had an opinion about,smoking	the ruler,tolerated,smoking	True
+mexico,had an opinion about,prostitution	mexico,accepted,prostitution	True
+the court,had an opinion about,abortion	the court,decriminalized,abortion	True
+the court,had an opinion about,the protest	the court,sanctioned,the protest	True
+the judge,took a stance on,prostitution	the judge,forbade,prostitution	True
+mexico,took a stance on,smoking	mexico,prohibited,smoking	True
+the court,took a stance on,prostitution	the court,disallowed,prostitution	True
+the court,took a stance on,the protest	the court,proscribed,the protest	True
+australia,took a stance on,alcohol	australia,forbade,alcohol	True
+the ruler,took a stance on,gun ownership	the ruler,illegalized,gun ownership	True
+the legislators,took a stance on,alcohol	the legislators,permitted,alcohol	True
+columbia,took a stance on,alcohol	columbia,allowed,alcohol	True
+germany,took a stance on,prostitution	germany,tolerated,prostitution	True
+mexico,took a stance on,alcohol	mexico,accepted,alcohol	True
+germany,took a stance on,gun ownership	germany,decriminalized,gun ownership	True
+the judge,took a stance on,gun ownership	the judge,sanctioned,gun ownership	True
+the court,passed judgement on,abortion	the court,forbade,abortion	True
+germany,passed judgement on,smoking	germany,prohibited,smoking	True
+germany,passed judgement on,marijuana	germany,disallowed,marijuana	True
+germany,passed judgement on,alcohol	germany,proscribed,alcohol	True
+the court,passed judgement on,marijuana	the court,forbade,marijuana	True
+columbia,passed judgement on,smoking	columbia,illegalized,smoking	True
+singapore,passed judgement on,gun ownership	singapore,permitted,gun ownership	True
+germany,passed judgement on,abortion	germany,allowed,abortion	True
+the judge,passed judgement on,gun ownership	the judge,tolerated,gun ownership	True
+the ruler,passed judgement on,the protest	the ruler,accepted,the protest	True
+the court,passed judgement on,gun ownership	the court,decriminalized,gun ownership	True
+the ruler,passed judgement on,abortion	the ruler,sanctioned,abortion	True
+columbia,discussed,the protest	columbia,forbade,the protest	True
+germany,discussed,prostitution	germany,prohibited,prostitution	True
+australia,discussed,prostitution	australia,disallowed,prostitution	True
+the legislators,discussed,prostitution	the legislators,proscribed,prostitution	True
+the judge,discussed,prostitution	the judge,forbade,prostitution	True
+singapore,discussed,the protest	singapore,illegalized,the protest	True
+the ruler,discussed,smoking	the ruler,permitted,smoking	True
+columbia,discussed,alcohol	columbia,allowed,alcohol	True
+germany,discussed,prostitution	germany,tolerated,prostitution	True
+the court,discussed,marijuana	the court,accepted,marijuana	True
+the legislators,discussed,abortion	the legislators,decriminalized,abortion	True
+the judge,discussed,gun ownership	the judge,sanctioned,gun ownership	True
+the judge,debated,alcohol	the judge,forbade,alcohol	True
+the court,debated,abortion	the court,prohibited,abortion	True
+the ruler,debated,prostitution	the ruler,disallowed,prostitution	True
+singapore,debated,the protest	singapore,proscribed,the protest	True
+the court,debated,abortion	the court,forbade,abortion	True
+mexico,debated,the protest	mexico,illegalized,the protest	True
+columbia,debated,gun ownership	columbia,permitted,gun ownership	True
+germany,debated,alcohol	germany,allowed,alcohol	True
+the judge,debated,marijuana	the judge,tolerated,marijuana	True
+germany,debated,abortion	germany,accepted,abortion	True
+germany,debated,marijuana	germany,decriminalized,marijuana	True
+australia,debated,prostitution	australia,sanctioned,prostitution	True
+elliot,considered,the proposal	elliot,accepted,the proposal	True
+elliot,considered,the invitation	elliot,agreed to,the invitation	True
+elliot,considered,the proposal	elliot,refused,the proposal	True
+billie,considered,the proposal	billie,declined,the proposal	True
+gael,considered,the proposal	gael,rejected,the proposal	True
+charlie,considered,the offer	charlie,turned down,the offer	True
+ashley,was given,the offer	ashley,accepted,the offer	True
+aiden,was given,the offer	aiden,agreed to,the offer	True
+andy,was given,the offer	andy,refused,the offer	True
+gale,was given,the invitation	gale,declined,the invitation	True
+sam,was given,the offer	sam,rejected,the offer	True
+gale,was given,the proposal	gale,turned down,the proposal	True
+frankie,received,the proposal	frankie,accepted,the proposal	True
+gael,received,the proposal	gael,agreed to,the proposal	True
+robin,received,the proposal	robin,refused,the proposal	True
+ali,received,the invitation	ali,declined,the invitation	True
+frankie,received,the offer	frankie,rejected,the offer	True
+gael,received,the invitation	gael,turned down,the invitation	True
+billie,responded to,the proposal	billie,accepted,the proposal	True
+cameron,responded to,the proposal	cameron,agreed to,the proposal	True
+elliot,responded to,the offer	elliot,refused,the offer	True
+jackie,responded to,the invitation	jackie,declined,the invitation	True
+bobbie,responded to,the invitation	bobbie,rejected,the invitation	True
+ashley,responded to,the offer	ashley,turned down,the offer	True
+robin,reacted to,the offer	robin,accepted,the offer	True
+bobbie,reacted to,the offer	bobbie,agreed to,the offer	True
+cameron,reacted to,the offer	cameron,refused,the offer	True
+bobbie,reacted to,the proposal	bobbie,declined,the proposal	True
+morgan,reacted to,the proposal	morgan,rejected,the proposal	True
+robin,reacted to,the proposal	robin,turned down,the proposal	True
+elliot,replied to,the invitation	elliot,accepted,the invitation	True
+cameron,replied to,the proposal	cameron,agreed to,the proposal	True
+ashley,replied to,the offer	ashley,refused,the offer	True
+billie,replied to,the invitation	billie,declined,the invitation	True
+elliot,replied to,the invitation	elliot,rejected,the invitation	True
+ali,replied to,the invitation	ali,turned down,the invitation	True
+bobbie,changed,the engine	bobbie,downgraded,the engine	True
+bobbie,changed,the computer	bobbie,upgraded,the computer	True
+aiden,changed,the computer	aiden,enhanced,the computer	True
+robin,changed,the server	robin,improved,the server	True
+kelly,modified,the car	kelly,downgraded,the car	True
+cameron,modified,the car	cameron,upgraded,the car	True
+charlie,modified,the server	charlie,enhanced,the server	True
+alex,modified,the server	alex,improved,the server	True
+sam,maintained,the server	sam,downgraded,the server	True
+aiden,maintained,the computer	aiden,upgraded,the computer	True
+ashley,maintained,the computer	ashley,enhanced,the computer	True
+sam,maintained,the server	sam,improved,the server	True
+the biologist,studied,the hypothesis	the biologist,disproved,the hypothesis	True
+the researcher,studied,the hypothesis	the researcher,refuted,the hypothesis	True
+the sociologist,studied,the conjecture	the sociologist,shot down,the conjecture	True
+the investigator,studied,the theorem	the investigator,debunked,the theorem	True
+the professor,studied,the hypothesis	the professor,discredited,the hypothesis	True
+the sociologist,studied,the theorem	the sociologist,proved,the theorem	True
+the biologist,studied,the hypothesis	the biologist,confirmed,the hypothesis	True
+the experimenter,studied,the premise	the experimenter,validated,the premise	True
+the sociologist,studied,the thesis	the sociologist,verified,the thesis	True
+the historian,considered,the premise	the historian,disproved,the premise	True
+the investigator,considered,the thesis	the investigator,refuted,the thesis	True
+the sociologist,considered,the conjecture	the sociologist,shot down,the conjecture	True
+the investigator,considered,the conjecture	the investigator,debunked,the conjecture	True
+the biologist,considered,the premise	the biologist,discredited,the premise	True
+the professor,considered,the premise	the professor,proved,the premise	True
+the historian,considered,the hypothesis	the historian,confirmed,the hypothesis	True
+the student,considered,the premise	the student,validated,the premise	True
+the investigator,considered,the hypothesis	the investigator,verified,the hypothesis	True
+the mathematician,tried out,the hypothesis	the mathematician,disproved,the hypothesis	True
+the investigator,tried out,the theory	the investigator,refuted,the theory	True
+the professor,tried out,the conjecture	the professor,shot down,the conjecture	True
+the student,tried out,the conjecture	the student,debunked,the conjecture	True
+the biologist,tried out,the premise	the biologist,discredited,the premise	True
+the historian,tried out,the thesis	the historian,proved,the thesis	True
+the historian,tried out,the hypothesis	the historian,confirmed,the hypothesis	True
+the sociologist,tried out,the premise	the sociologist,validated,the premise	True
+the student,tried out,the theory	the student,verified,the theory	True
+the investigator,evaluated,the premise	the investigator,disproved,the premise	True
+the investigator,evaluated,the premise	the investigator,refuted,the premise	True
+the investigator,evaluated,the hypothesis	the investigator,shot down,the hypothesis	True
+the mathematician,evaluated,the theorem	the mathematician,debunked,the theorem	True
+the professor,evaluated,the thesis	the professor,discredited,the thesis	True
+the mathematician,evaluated,the conjecture	the mathematician,proved,the conjecture	True
+the investigator,evaluated,the premise	the investigator,confirmed,the premise	True
+the sociologist,evaluated,the premise	the sociologist,validated,the premise	True
+the biologist,evaluated,the thesis	the biologist,verified,the thesis	True
+the professor,researched,the thesis	the professor,disproved,the thesis	True
+the student,researched,the thesis	the student,refuted,the thesis	True
+the student,researched,the theory	the student,shot down,the theory	True
+the historian,researched,the hypothesis	the historian,debunked,the hypothesis	True
+the historian,researched,the conjecture	the historian,discredited,the conjecture	True
+the student,researched,the theory	the student,proved,the theory	True
+the mathematician,researched,the conjecture	the mathematician,confirmed,the conjecture	True
+the biologist,researched,the hypothesis	the biologist,validated,the hypothesis	True
+the student,researched,the hypothesis	the student,verified,the hypothesis	True
+the biologist,thought about,the premise	the biologist,disproved,the premise	True
+the historian,thought about,the conjecture	the historian,refuted,the conjecture	True
+the sociologist,thought about,the hypothesis	the sociologist,shot down,the hypothesis	True
+the researcher,thought about,the thesis	the researcher,debunked,the thesis	True
+the professor,thought about,the hypothesis	the professor,discredited,the hypothesis	True
+the student,thought about,the hypothesis	the student,proved,the hypothesis	True
+the professor,thought about,the thesis	the professor,confirmed,the thesis	True
+the biologist,thought about,the theorem	the biologist,validated,the theorem	True
+the biologist,thought about,the theory	the biologist,verified,the theory	True
+casey,thought about,the notion	casey,affirmed,the notion	True
+cameron,thought about,the idea	cameron,asserted,the idea	True
+morgan,thought about,the conclusion	morgan,confirmed,the conclusion	True
+morgan,thought about,the notion	morgan,negated,the notion	True
+robin,thought about,the conclusion	robin,disclaimed,the conclusion	True
+elliot,thought about,the notion	elliot,rejected,the notion	True
+cameron,thought about,the idea	cameron,contradicted,the idea	True
+jackie,thought about,the theorem	jackie,denied,the theorem	True
+aiden,thought about,the notion	aiden,refuted,the notion	True
+casey,thought over,the notion	casey,believed,the notion	True
+kelly,thought over,the idea	kelly,accepted,the idea	True
+cameron,thought over,the idea	cameron,credited,the idea	True
+andy,thought over,the idea	andy,trusted,the idea	True
+alex,thought over,the idea	alex,disbelieved,the idea	True
+cameron,thought over,the notion	cameron,discredited,the notion	True
+andy,thought over,the notion	andy,rejected,the notion	True
+sam,thought about,the conclusion	sam,believed,the conclusion	True
+sam,thought about,the conclusion	sam,accepted,the conclusion	True
+aiden,thought about,the conclusion	aiden,credited,the conclusion	True
+sam,thought about,the idea	sam,trusted,the idea	True
+jackie,thought about,the idea	jackie,disbelieved,the idea	True
+aiden,thought about,the idea	aiden,discredited,the idea	True
+sam,thought about,the idea	sam,rejected,the idea	True
+billie,considered,the conclusion	billie,believed,the conclusion	True
+gale,considered,the idea	gale,accepted,the idea	True
+alex,considered,the idea	alex,credited,the idea	True
+charlie,considered,the conclusion	charlie,trusted,the conclusion	True
+morgan,considered,the idea	morgan,disbelieved,the idea	True
+morgan,considered,the idea	morgan,discredited,the idea	True
+andy,considered,the conclusion	andy,rejected,the conclusion	True
+robin,knew,cameron	robin,distrusted,cameron	True
+andy,knew,elliot	andy,mistrusted,elliot	True
+gael,knew,elliot	gael,doubted,elliot	True
+jamie,knew,andy	jamie,suspected,andy	True
+jamie,knew,sam	jamie,disbelieved,sam	True
+alex,knew,billie	alex,trusted,billie	True
+jamie,knew,andy	jamie,believed,andy	True
+aiden,thought about,frankie	aiden,distrusted,frankie	True
+morgan,thought about,gael	morgan,mistrusted,gael	True
+jamie,thought about,ali	jamie,doubted,ali	True
+kelly,thought about,charlie	kelly,suspected,charlie	True
+elliot,thought about,alex	elliot,disbelieved,alex	True
+andy,thought about,morgan	andy,trusted,morgan	True
+billie,thought about,charlie	billie,believed,charlie	True
+jackie,knew,charlie	jackie,disrespected,charlie	True
+elliot,knew,aiden	elliot,looked down on,aiden	True
+ashley,knew,jean	ashley,respected,jean	True
+billie,knew,jean	billie,looked up to,jean	True
+ali,had an opinion of,gale	ali,disrespected,gale	True
+cameron,had an opinion of,jamie	cameron,looked down on,jamie	True
+robin,had an opinion of,jean	robin,respected,jean	True
+ali,had an opinion of,aiden	ali,looked up to,aiden	True
+ashley,judged,jackie	ashley,disrespected,jackie	True
+aiden,judged,morgan	aiden,looked down on,morgan	True
+cameron,judged,sam	cameron,respected,sam	True
+jackie,judged,alex	jackie,looked up to,alex	True
+aiden,interacted with,sam	aiden,disrespected,sam	True
+alex,interacted with,gael	alex,looked down on,gael	True
+kelly,interacted with,gael	kelly,respected,gael	True
+jamie,interacted with,ashley	jamie,looked up to,ashley	True
+frankie,had an opinion of,ali	frankie,dishonored,ali	True
+jackie,had an opinion of,casey	jackie,shamed,casey	True
+ashley,had an opinion of,jamie	ashley,disreputed,jamie	True
+morgan,had an opinion of,jackie	morgan,disrespected,jackie	True
+jamie,had an opinion of,ashley	jamie,honored,ashley	True
+gael,had an opinion of,morgan	gael,respected,morgan	True
+andy,had an opinion of,casey	andy,admired,casey	True
+jamie,knew,aiden	jamie,dishonored,aiden	True
+jackie,knew,ali	jackie,shamed,ali	True
+morgan,knew,robin	morgan,disreputed,robin	True
+charlie,knew,frankie	charlie,disrespected,frankie	True
+andy,knew,robin	andy,honored,robin	True
+jamie,knew,charlie	jamie,respected,charlie	True
+andy,knew,bobbie	andy,admired,bobbie	True
+samsung,had,an agreement	samsung,dishonored,an agreement	True
+nestle,had,an agreement	nestle,disrespected,an agreement	True
+donald trump,had,an agreement	donald trump,honored,an agreement	True
+samsung,had,an agreement	samsung,respected,an agreement	True
+ashley,discussed with,jamie	ashley,dissuaded,jamie	True
+jackie,discussed with,frankie	jackie,discouraged,frankie	True
+casey,discussed with,billie	casey,persuaded,billie	True
+jamie,discussed with,billie	jamie,convinced,billie	True
+gale,discussed with,alex	gale,won over,alex	True
+sam,talked to,elliot	sam,dissuaded,elliot	True
+ali,talked to,sam	ali,discouraged,sam	True
+billie,talked to,charlie	billie,persuaded,charlie	True
+bobbie,talked to,jean	bobbie,convinced,jean	True
+elliot,talked to,alex	elliot,won over,alex	True
+andy,argued with,ali	andy,dissuaded,ali	True
+billie,argued with,jackie	billie,discouraged,jackie	True
+morgan,argued with,billie	morgan,persuaded,billie	True
+charlie,argued with,cameron	charlie,convinced,cameron	True
+kelly,argued with,robin	kelly,won over,robin	True
+charlie,reasoned with,jamie	charlie,dissuaded,jamie	True
+elliot,reasoned with,jean	elliot,discouraged,jean	True
+elliot,reasoned with,gale	elliot,persuaded,gale	True
+andy,reasoned with,gale	andy,convinced,gale	True
+billie,reasoned with,robin	billie,won over,robin	True
+alex,was aware of,a problem	alex,avoided,a problem	True
+alex,was aware of,an obstacle	alex,confronted,an obstacle	True
+ashley,was aware of,the issue	ashley,faced,the issue	True
+morgan,was aware of,the issue	morgan,contended with,the issue	True
+aiden,singled out,frankie	aiden,criticized,frankie	True
+ali,singled out,morgan	ali,put down,morgan	True
+bobbie,singled out,morgan	bobbie,reprimanded,morgan	True
+frankie,singled out,aiden	frankie,rebuked,aiden	True
+frankie,singled out,ali	frankie,praised,ali	True
+morgan,singled out,casey	morgan,applauded,casey	True
+elliot,singled out,jean	elliot,commended,jean	True
+kelly,singled out,billie	kelly,hailed,billie	True
+casey,singled out,morgan	casey,lauded,morgan	True
+elliot,made mention of,kelly	elliot,criticized,kelly	True
+frankie,made mention of,robin	frankie,put down,robin	True
+kelly,made mention of,billie	kelly,reprimanded,billie	True
+kelly,made mention of,jamie	kelly,rebuked,jamie	True
+ashley,made mention of,morgan	ashley,praised,morgan	True
+alex,made mention of,bobbie	alex,applauded,bobbie	True
+ashley,made mention of,casey	ashley,commended,casey	True
+aiden,made mention of,andy	aiden,hailed,andy	True
+bobbie,made mention of,elliot	bobbie,lauded,elliot	True
+kelly,mentioned,gale	kelly,criticized,gale	True
+casey,mentioned,bobbie	casey,put down,bobbie	True
+gale,mentioned,cameron	gale,reprimanded,cameron	True
+jamie,mentioned,gael	jamie,rebuked,gael	True
+cameron,mentioned,ashley	cameron,praised,ashley	True
+sam,mentioned,ali	sam,applauded,ali	True
+aiden,mentioned,gale	aiden,commended,gale	True
+ali,mentioned,sam	ali,hailed,sam	True
+ali,mentioned,casey	ali,lauded,casey	True
+sam,commented on,ali	sam,criticized,ali	True
+elliot,commented on,sam	elliot,put down,sam	True
+robin,commented on,elliot	robin,reprimanded,elliot	True
+gale,commented on,cameron	gale,rebuked,cameron	True
+elliot,commented on,morgan	elliot,praised,morgan	True
+casey,commented on,morgan	casey,applauded,morgan	True
+sam,commented on,gale	sam,commended,gale	True
+frankie,commented on,kelly	frankie,hailed,kelly	True
+jamie,commented on,jean	jamie,lauded,jean	True
+elliot,noticed,andy	elliot,criticized,andy	True
+aiden,noticed,billie	aiden,put down,billie	True
+aiden,noticed,kelly	aiden,reprimanded,kelly	True
+cameron,noticed,alex	cameron,rebuked,alex	True
+cameron,noticed,ashley	cameron,praised,ashley	True
+jamie,noticed,andy	jamie,applauded,andy	True
+sam,noticed,andy	sam,commended,andy	True
+morgan,noticed,frankie	morgan,hailed,frankie	True
+alex,noticed,ali	alex,lauded,ali	True
+jackie,passed judgement on,casey	jackie,criticized,casey	True
+robin,passed judgement on,morgan	robin,put down,morgan	True
+andy,passed judgement on,sam	andy,reprimanded,sam	True
+jackie,passed judgement on,charlie	jackie,rebuked,charlie	True
+andy,passed judgement on,charlie	andy,praised,charlie	True
+jamie,passed judgement on,jean	jamie,applauded,jean	True
+ali,passed judgement on,jackie	ali,commended,jackie	True
+ali,passed judgement on,billie	ali,hailed,billie	True
+ali,passed judgement on,aiden	ali,lauded,aiden	True
+billie,judged,gale	billie,criticized,gale	True
+andy,judged,morgan	andy,put down,morgan	True
+jackie,judged,alex	jackie,reprimanded,alex	True
+gael,judged,morgan	gael,rebuked,morgan	True
+charlie,judged,cameron	charlie,praised,cameron	True
+charlie,judged,ali	charlie,applauded,ali	True
+cameron,judged,billie	cameron,commended,billie	True
+kelly,judged,gale	kelly,hailed,gale	True
+billie,judged,charlie	billie,lauded,charlie	True
+the court,dealt with,kelly	the court,absolved,kelly	True
+the court,dealt with,ashley	the court,blamed,ashley	True
+the judge,dealt with,jean	the judge,accused,jean	True
+the court,knew about,jamie	the court,absolved,jamie	True
+the judge,knew about,morgan	the judge,blamed,morgan	True
+the court,knew about,ashley	the court,accused,ashley	True
+the judge,judged,aiden	the judge,absolved,aiden	True
+the court,judged,robin	the court,blamed,robin	True
+the judge,judged,casey	the judge,accused,casey	True
+the judge,decided about,jackie	the judge,absolved,jackie	True
+the judge,decided about,morgan	the judge,blamed,morgan	True
+the court,decided about,robin	the court,accused,robin	True
+jackie,talked to,cameron	jackie,disparaged,cameron	True
+robin,talked to,frankie	robin,belittled,frankie	True
+frankie,talked to,sam	frankie,flattered,sam	True
+morgan,gave an opinion of,sam	morgan,disparaged,sam	True
+sam,gave an opinion of,gael	sam,belittled,gael	True
+kelly,gave an opinion of,bobbie	kelly,flattered,bobbie	True
+the witch,affected,elliot	the witch,blessed,elliot	True
+the witch,affected,robin	the witch,cursed,robin	True
+the witch,thought about,frankie	the witch,blessed,frankie	True
+the witch,thought about,gale	the witch,cursed,gale	True
+the judge,indicted,casey	the judge,acquitted,casey	True
+the judge,indicted,sam	the judge,absolved,sam	True
+the court,indicted,casey	the court,cleared,casey	True
+the court,indicted,ashley	the court,exonerated,ashley	True
+the court,indicted,alex	the court,convicted,alex	True
+the judge,indicted,billie	the judge,incriminated,billie	True
+the judge,charged,cameron	the judge,acquitted,cameron	True
+the court,charged,frankie	the court,absolved,frankie	True
+the court,charged,jamie	the court,cleared,jamie	True
+the court,charged,robin	the court,exonerated,robin	True
+the judge,charged,frankie	the judge,convicted,frankie	True
+the court,charged,kelly	the court,incriminated,kelly	True
+the court,accused,morgan	the court,acquitted,morgan	True
+the court,accused,billie	the court,absolved,billie	True
+the judge,accused,jackie	the judge,cleared,jackie	True
+the court,accused,robin	the court,exonerated,robin	True
+the judge,accused,ashley	the judge,convicted,ashley	True
+the court,accused,andy	the court,incriminated,andy	True
+the court,judged,frankie	the court,acquitted,frankie	True
+the judge,judged,ali	the judge,absolved,ali	True
+the court,judged,aiden	the court,cleared,aiden	True
+the court,judged,cameron	the court,exonerated,cameron	True
+the judge,judged,alex	the judge,convicted,alex	True
+the judge,judged,kelly	the judge,incriminated,kelly	True
+the court,made a decisioned about,gael	the court,acquitted,gael	True
+the judge,made a decisioned about,ashley	the judge,absolved,ashley	True
+the judge,made a decisioned about,bobbie	the judge,cleared,bobbie	True
+the judge,made a decisioned about,billie	the judge,exonerated,billie	True
+the court,made a decisioned about,elliot	the court,convicted,elliot	True
+the judge,made a decisioned about,gale	the judge,incriminated,gale	True
+the court,examined,frankie	the court,acquitted,frankie	True
+the judge,examined,elliot	the judge,absolved,elliot	True
+the judge,examined,alex	the judge,cleared,alex	True
+the judge,examined,bobbie	the judge,exonerated,bobbie	True
+the judge,examined,casey	the judge,convicted,casey	True
+the judge,examined,alex	the judge,incriminated,alex	True
+the court,addressed,frankie	the court,acquitted,frankie	True
+the court,addressed,alex	the court,absolved,alex	True
+the court,addressed,aiden	the court,cleared,aiden	True
+the court,addressed,aiden	the court,exonerated,aiden	True
+the judge,addressed,jamie	the judge,convicted,jamie	True
+the court,addressed,ali	the court,incriminated,ali	True
+casey,stood trial for,the crime	casey,was acquitted of,the crime	True
+ali,stood trial for,kidnapping	ali,was absolved of,kidnapping	True
+ashley,stood trial for,the crime	ashley,was cleared of,the crime	True
+morgan,stood trial for,fraud	morgan,was exonerated of,fraud	True
+frankie,stood trial for,fraud	frankie,was convicted of,fraud	True
+frankie,was arrested for,the crime	frankie,was acquitted of,the crime	True
+ali,was arrested for,arson	ali,was absolved of,arson	True
+robin,was arrested for,the theft	robin,was cleared of,the theft	True
+aiden,was arrested for,fraud	aiden,was exonerated of,fraud	True
+morgan,was arrested for,manslaughter	morgan,was convicted of,manslaughter	True
+robin,was indicted for,kidnapping	robin,was acquitted of,kidnapping	True
+robin,was indicted for,kidnapping	robin,was absolved of,kidnapping	True
+sam,was indicted for,forgery	sam,was cleared of,forgery	True
+alex,was indicted for,arson	alex,was exonerated of,arson	True
+alex,was indicted for,burglary	alex,was convicted of,burglary	True
+sam,was charged with,kidnapping	sam,was acquitted of,kidnapping	True
+morgan,was charged with,the theft	morgan,was absolved of,the theft	True
+jamie,was charged with,murder	jamie,was cleared of,murder	True
+frankie,was charged with,fraud	frankie,was exonerated of,fraud	True
+robin,was charged with,the crime	robin,was convicted of,the crime	True
+jean,was accused of,burglary	jean,was acquitted of,burglary	True
+elliot,was accused of,forgery	elliot,was absolved of,forgery	True
+sam,was accused of,burglary	sam,was cleared of,burglary	True
+bobbie,was accused of,the theft	bobbie,was exonerated of,the theft	True
+ali,was accused of,forgery	ali,was convicted of,forgery	True
+elliot,was apprehended for,vandalism	elliot,was acquitted of,vandalism	True
+aiden,was apprehended for,murder	aiden,was absolved of,murder	True
+gale,was apprehended for,the theft	gale,was cleared of,the theft	True
+jackie,was apprehended for,the robbery	jackie,was exonerated of,the robbery	True
+elliot,was apprehended for,vandalism	elliot,was convicted of,vandalism	True
+jean,said,the command	jean,shouted,the command	True
+sam,said,an insult	sam,yelled,an insult	True
+bobbie,said,an insult	bobbie,called out,an insult	True
+andy,said,the command	andy,whispered,the command	True
+alex,said,the question	alex,murmured,the question	True
+bobbie,communicated,the command	bobbie,shouted,the command	True
+bobbie,communicated,the response	bobbie,yelled,the response	True
+jean,communicated,an insult	jean,called out,an insult	True
+aiden,communicated,the question	aiden,whispered,the question	True
+robin,communicated,the response	robin,murmured,the response	True
+kelly,verbalized,an insult	kelly,shouted,an insult	True
+jackie,verbalized,the question	jackie,yelled,the question	True
+gale,verbalized,the response	gale,called out,the response	True
+cameron,verbalized,the response	cameron,whispered,the response	True
+kelly,verbalized,the question	kelly,murmured,the question	True
+gale,uttered,an insult	gale,shouted,an insult	True
+elliot,uttered,the question	elliot,yelled,the question	True
+billie,uttered,the response	billie,called out,the response	True
+kelly,uttered,an insult	kelly,whispered,an insult	True
+cameron,uttered,the command	cameron,murmured,the command	True
+gael,talked about,the truth	gael,clarified,the truth	True
+casey,talked about,the issues	casey,cleared up,the issues	True
+aiden,talked about,the meaning	aiden,explained,the meaning	True
+cameron,talked about,the truth	cameron,spelled out,the truth	True
+morgan,talked about,the truth	morgan,obfuscated,the truth	True
+morgan,talked about,the issues	morgan,obscured,the issues	True
+andy,knew,the meaning	andy,clarified,the meaning	True
+cameron,knew,the facts	cameron,cleared up,the facts	True
+jackie,knew,the details	jackie,explained,the details	True
+jamie,knew,the truth	jamie,spelled out,the truth	True
+sam,knew,the facts	sam,obfuscated,the facts	True
+gale,knew,the issues	gale,obscured,the issues	True
+the professor,described,the concept	the professor,generalized,the concept	True
+the sociologist,described,the category	the sociologist,specified,the category	True
+the sociologist,modified,the idea	the sociologist,generalized,the idea	True
+the experimenter,modified,the idea	the experimenter,specified,the idea	True
+the experimenter,understood,the idea	the experimenter,generalized,the idea	True
+the professor,understood,the idea	the professor,specified,the idea	True
+america,interacted with,france	america,made peace with,france	True
+america,interacted with,great britain	america,warred against,great britain	True
+france,interacted with,america	france,fought,america	True
+iran,interacted with,france	iran,battled,france	True
+iraq,interacted with,france	iraq,attacked,france	True
+great britain,interacted with,iraq	great britain,went to war with,iraq	True
+bruce lee,interacted with,floyd mayweather	bruce lee,resisted,floyd mayweather	True
+michelle yeoh,interacted with,muhammad ali	michelle yeoh,fought,muhammad ali	True
+floyd mayweather,interacted with,chuck norris	floyd mayweather,held off,chuck norris	True
+muhammad ali,interacted with,chuck norris	muhammad ali,battled,chuck norris	True
+muhammad ali,interacted with,floyd mayweather	muhammad ali,faced,floyd mayweather	True
+jackie chan,interacted with,floyd mayweather	jackie chan,opposed,floyd mayweather	True
+bruce lee,interacted with,floyd mayweather	bruce lee,withstood,floyd mayweather	True
+michelle yeoh,interacted with,jackie chan	michelle yeoh,surrendered to,jackie chan	True
+michelle yeoh,interacted with,chuck norris	michelle yeoh,forfeited to,chuck norris	True
+jackie chan,interacted with,michelle yeoh	jackie chan,ceded to,michelle yeoh	True
+muhammad ali,interacted with,floyd mayweather	muhammad ali,gave up against,floyd mayweather	True
+muhammad ali,interacted with,mike tyson	muhammad ali,gave in to,mike tyson	True
+mike tyson,interacted with,jackie chan	mike tyson,succumbed to,jackie chan	True
+michelle yeoh,interacted with,muhammad ali	michelle yeoh,capitulate to,muhammad ali	True
+jackie chan,interacted with,muhammad ali	jackie chan,yielded to,muhammad ali	True
+michelle yeoh,competed with,muhammad ali	michelle yeoh,resisted,muhammad ali	True
+mike tyson,competed with,muhammad ali	mike tyson,fought,muhammad ali	True
+floyd mayweather,competed with,chuck norris	floyd mayweather,held off,chuck norris	True
+jackie chan,competed with,floyd mayweather	jackie chan,battled,floyd mayweather	True
+bruce lee,competed with,floyd mayweather	bruce lee,faced,floyd mayweather	True
+chuck norris,competed with,floyd mayweather	chuck norris,opposed,floyd mayweather	True
+michelle yeoh,competed with,jackie chan	michelle yeoh,withstood,jackie chan	True
+floyd mayweather,competed with,michelle yeoh	floyd mayweather,surrendered to,michelle yeoh	True
+floyd mayweather,competed with,chuck norris	floyd mayweather,forfeited to,chuck norris	True
+muhammad ali,competed with,floyd mayweather	muhammad ali,ceded to,floyd mayweather	True
+michelle yeoh,competed with,chuck norris	michelle yeoh,gave up against,chuck norris	True
+bruce lee,competed with,jackie chan	bruce lee,gave in to,jackie chan	True
+chuck norris,competed with,muhammad ali	chuck norris,succumbed to,muhammad ali	True
+jackie chan,competed with,chuck norris	jackie chan,capitulate to,chuck norris	True
+floyd mayweather,competed with,muhammad ali	floyd mayweather,yielded to,muhammad ali	True
+andy,had an opinion about,alcohol	andy,abstained from,alcohol	True
+casey,had an opinion about,drugs	casey,consumed,drugs	True
+bobbie,had an opinion about,alcohol	bobbie,ingested,alcohol	True
+alex,took aim at,the objective	alex,hit,the objective	True
+aiden,took aim at,the objective	aiden,achieved,the objective	True
+aiden,took aim at,the goal	aiden,attained,the goal	True
+ali,took aim at,the target	ali,missed,the target	True
+cameron,took aim at,the goal	cameron,fell short of,the goal	True
+kelly,took aim at,the goal	kelly,failed,the goal	True
+cameron,tried for,the target	cameron,hit,the target	True
+sam,tried for,the goal	sam,achieved,the goal	True
+billie,tried for,the goal	billie,attained,the goal	True
+bobbie,tried for,the target	bobbie,missed,the target	True
+andy,tried for,the objective	andy,fell short of,the objective	True
+billie,tried for,the objective	billie,failed,the objective	True
+sam,changed,the knife	sam,dulled,the knife	True
+jean,changed,the sword	jean,blunted,the sword	True
+morgan,changed,the blade	morgan,sharpened,the blade	True
+frankie,changed,the bayonet	frankie,whetted,the bayonet	True
+cameron,changed,the blade	cameron,honed,the blade	True
+robin,altered,the knife	robin,dulled,the knife	True
+elliot,altered,the knife	elliot,blunted,the knife	True
+ali,altered,the blade	ali,sharpened,the blade	True
+billie,altered,the blade	billie,whetted,the blade	True
+andy,altered,the knife	andy,honed,the knife	True
+ali,affected,the bayonet	ali,dulled,the bayonet	True
+ashley,affected,the blade	ashley,blunted,the blade	True
+aiden,affected,the knife	aiden,sharpened,the knife	True
+morgan,affected,the sword	morgan,whetted,the sword	True
+elliot,affected,a dagger	elliot,honed,a dagger	True
+kelly,modified,the knife	kelly,dulled,the knife	True
+ali,modified,the knife	ali,blunted,the knife	True
+jamie,modified,a dagger	jamie,sharpened,a dagger	True
+ashley,modified,the knife	ashley,whetted,the knife	True
+bobbie,modified,the blade	bobbie,honed,the blade	True
+gale,changed,the surface	gale,roughened,the surface	True
+robin,changed,the edge	robin,abraded,the edge	True
+billie,changed,the edge	billie,smoothed,the edge	True
+casey,altered,the edge	casey,roughened,the edge	True
+morgan,altered,the wood	morgan,abraded,the wood	True
+kelly,altered,the surface	kelly,smoothed,the surface	True
+billie,affected,the wood	billie,roughened,the wood	True
+bobbie,affected,the wood	bobbie,abraded,the wood	True
+ashley,affected,the stone	ashley,smoothed,the stone	True
+morgan,modified,the edge	morgan,roughened,the edge	True
+bobbie,modified,the surface	bobbie,abraded,the surface	True
+frankie,modified,the edge	frankie,smoothed,the edge	True
+jackie,owned,the feed	jackie,gathered,the feed	True
+jean,owned,the seeds	jean,collected,the seeds	True
+aiden,owned,the feed	aiden,spread,the feed	True
+aiden,owned,the seeds	aiden,scattered,the seeds	True
+morgan,owned,the seeds	morgan,dispersed,the seeds	True
+robin,had,the seeds	robin,gathered,the seeds	True
+billie,had,the feed	billie,collected,the feed	True
+elliot,had,the seeds	elliot,spread,the seeds	True
+kelly,had,the seeds	kelly,scattered,the seeds	True
+billie,had,the feed	billie,dispersed,the feed	True
+ashley,moved,the game console	ashley,brought,the game console	True
+ashley,moved,the television	ashley,delivered,the television	True
+casey,moved,the instrument	casey,took away,the instrument	True
+charlie,moved,the game console	charlie,removed,the game console	True
+sam,transported,the instrument	sam,brought,the instrument	True
+jackie,transported,the instrument	jackie,delivered,the instrument	True
+jean,transported,the game console	jean,took away,the game console	True
+cameron,transported,the game console	cameron,removed,the game console	True
+the machine,moved,the car	the machine,pulled,the car	True
+the machine,moved,the carriage	the machine,dragged,the carriage	True
+the machine,moved,the carriage	the machine,hauled,the carriage	True
+the train,moved,the cart	the train,towed,the cart	True
+the machine,moved,the carriage	the machine,pushed,the carriage	True
+the machine,propelled,the cart	the machine,pulled,the cart	True
+the machine,propelled,the carriage	the machine,dragged,the carriage	True
+the tractor,propelled,the cart	the tractor,hauled,the cart	True
+the car,propelled,the cart	the car,towed,the cart	True
+the train,propelled,the cart	the train,pushed,the cart	True
+the authorities,affected,morgan	the authorities,freed,morgan	True
+elliot,affected,jean	elliot,liberated,jean	True
+the government,affected,ashley	the government,released,ashley	True
+the movement,affected,morgan	the movement,unchained,morgan	True
+the political party,affected,sam	the political party,obstructed,sam	True
+the movement,affected,charlie	the movement,hampered,charlie	True
+the authorities,affected,frankie	the authorities,hindered,frankie	True
+the authorities,affected,ali	the authorities,held back,ali	True
+gael,affected,jackie	gael,attracted,jackie	True
+kelly,affected,casey	kelly,enticed,casey	True
+jamie,affected,jackie	jamie,lured in,jackie	True
+alex,affected,charlie	alex,drew in,charlie	True
+jamie,affected,sam	jamie,repelled,sam	True
+casey,affected,gale	casey,repulsed,gale	True
+gael,affected,morgan	gael,pushed back,morgan	True
+frankie,affected,ali	frankie,warded off,ali	True
+jackie,affected,elliot	jackie,agitated,elliot	True
+the idea,affected,gael	the idea,enticed,gael	True
+the idea,affected,bobbie	the idea,lured in,bobbie	True
+the notion,affected,robin	the notion,drew in,robin	True
+the notion,affected,sam	the notion,calmed,sam	True
+the conclusion,affected,elliot	the conclusion,soothed,elliot	True
+the idea,affected,morgan	the idea,comforted,morgan	True
+sam,affected,jean	sam,relaxed,jean	True
+billie,affected,elliot	billie,pacified,elliot	True
+jackie,affected,sam	jackie,reassured,sam	True
+the idea,impacted,elliot	the idea,agitated,elliot	True
+the notion,impacted,ashley	the notion,enticed,ashley	True
+gael,impacted,sam	gael,lured in,sam	True
+the conclusion,impacted,charlie	the conclusion,drew in,charlie	True
+jean,impacted,frankie	jean,calmed,frankie	True
+cameron,impacted,gael	cameron,soothed,gael	True
+elliot,impacted,gael	elliot,comforted,gael	True
+the conclusion,impacted,ali	the conclusion,relaxed,ali	True
+the notion,impacted,jean	the notion,pacified,jean	True
+the conclusion,impacted,kelly	the conclusion,reassured,kelly	True
+bobbie,affected,aiden	bobbie,reassured,aiden	True
+andy,affected,ashley	andy,calmed,ashley	True
+billie,affected,charlie	billie,soothed,charlie	True
+morgan,affected,robin	morgan,appeased,robin	True
+elliot,affected,jamie	elliot,comforted,jamie	True
+ashley,affected,ali	ashley,worried,ali	True
+elliot,affected,robin	elliot,bothered,robin	True
+ali,affected,casey	ali,disturbed,casey	True
+gael,affected,casey	gael,perturbed,casey	True
+charlie,affected,robin	charlie,upset,robin	True
+casey,interacted with,kelly	casey,reassured,kelly	True
+frankie,interacted with,gale	frankie,calmed,gale	True
+jean,interacted with,sam	jean,soothed,sam	True
+casey,interacted with,elliot	casey,appeased,elliot	True
+frankie,interacted with,kelly	frankie,comforted,kelly	True
+andy,interacted with,cameron	andy,worried,cameron	True
+billie,interacted with,frankie	billie,bothered,frankie	True
+casey,interacted with,elliot	casey,disturbed,elliot	True
+morgan,interacted with,jean	morgan,perturbed,jean	True
+elliot,interacted with,robin	elliot,upset,robin	True
+gael,thought about,jeff bezos	gael,hated,jeff bezos	True
+ali,thought about,ashley	ali,detested,ashley	True
+jamie,thought about,andy	jamie,loathed,andy	True
+charlie,thought about,gale	charlie,despised,gale	True
+ashley,thought about,jamie	ashley,loved,jamie	True
+robin,had an opinion about,serena williams	robin,hated,serena williams	True
+jamie,had an opinion about,bill gates	jamie,detested,bill gates	True
+morgan,had an opinion about,serena williams	morgan,loathed,serena williams	True
+sam,had an opinion about,kelly	sam,despised,kelly	True
+jamie,had an opinion about,sam	jamie,loved,sam	True
+jean,thought about,ford	jean,disliked,ford	True
+andy,thought about,bill gates	andy,liked,bill gates	True
+bobbie,thought about,heinz	bobbie,cared for,heinz	True
+kelly,thought about,dancing	kelly,enjoyed,dancing	True
+sam,thought about,bobbie	sam,favoured,bobbie	True
+alex,thought about,sailing	alex,delighted in,sailing	True
+kelly,had an opinion about,running	kelly,disliked,running	True
+cameron,had an opinion about,sailing	cameron,liked,sailing	True
+frankie,had an opinion about,heinz	frankie,cared for,heinz	True
+jamie,had an opinion about,running	jamie,enjoyed,running	True
+jean,had an opinion about,jennifer lawrence	jean,favoured,jennifer lawrence	True
+gale,had an opinion about,sailing	gale,delighted in,sailing	True
+ashley,thought about,the future	ashley,despaired about,the future	True
+bobbie,thought about,the future	bobbie,agonized over,the future	True
+casey,thought about,the future	casey,had hope for,the future	True
+the idea,affected,frankie	the idea,cheered up,frankie	True
+the conclusion,affected,kelly	the conclusion,excited,kelly	True
+the idea,affected,charlie	the idea,delighted,charlie	True
+the conclusion,affected,aiden	the conclusion,weighed down,aiden	True
+the conclusion,affected,kelly	the conclusion,demoralized,kelly	True
+the conclusion,affected,casey	the conclusion,deflated,casey	True
+ali,affected,bobbie	ali,discouraged,bobbie	True
+gael,affected,ali	gael,disheartened,ali	True
+elliot,affected,jackie	elliot,demoralized,jackie	True
+gael,affected,ashley	gael,encouraged,ashley	True
+ashley,affected,jamie	ashley,inspired,jamie	True
+gael,was affected by,the idea	gael,was discouraged by,the idea	True
+bobbie,was affected by,the conclusion	bobbie,was disheartened by,the conclusion	True
+jamie,was affected by,the conclusion	jamie,was demoralized by,the conclusion	True
+jamie,was affected by,the conclusion	jamie,was dismayed by,the conclusion	True
+kelly,was affected by,the notion	kelly,was dispirited by,the notion	True
+elliot,was affected by,the conclusion	elliot,was encouraged by,the conclusion	True
+kelly,was affected by,the idea	kelly,was heartened by,the idea	True
+charlie,was affected by,the notion	charlie,was inspired by,the notion	True
+aiden,was affected by,the notion	aiden,was boosted by,the notion	True
+billie,was affected by,the conclusion	billie,was energized by,the conclusion	True
+gael,was affected by,bill gates	gael,was bored by,bill gates	True
+alex,was affected by,serena williams	alex,tired of,serena williams	True
+sam,was affected by,jeff bezos	sam,was interested in,jeff bezos	True
+aiden,was affected by,jennifer lawrence	aiden,was absorbed by,jennifer lawrence	True
+frankie,was affected by,swimming	frankie,was engaged in,swimming	True
+cameron,was affected by,jennifer lawrence	cameron,was fascinated by,jennifer lawrence	True
+robin,was affected by,sailing	robin,was intrigued by,sailing	True
+ali,was affected by,swimming	ali,captivated by,swimming	True
+alex,knew about,donald trump	alex,was bored by,donald trump	True
+jean,knew about,angela merkel	jean,tired of,angela merkel	True
+jackie,knew about,jennifer lawrence	jackie,was interested in,jennifer lawrence	True
+cameron,knew about,serena williams	cameron,was absorbed by,serena williams	True
+charlie,knew about,angela merkel	charlie,was fascinated by,angela merkel	True
+cameron,knew about,angela merkel	cameron,was intrigued by,angela merkel	True
+billie,knew about,jeff bezos	billie,captivated by,jeff bezos	True
+ali,held an opinion of,sam	ali,admired,sam	True
+frankie,held an opinion of,billie	frankie,appreciated,billie	True
+jamie,held an opinion of,morgan	jamie,respected,morgan	True
+cameron,held an opinion of,walmart	cameron,liked,walmart	True
+morgan,held an opinion of,robin	morgan,looked down on,robin	True
+jean,held an opinion of,serena williams	jean,disapproved of,serena williams	True
+gale,held an opinion of,unilever	gale,disliked,unilever	True
+sam,knew the location of,the school	sam,came to,the school	True
+elliot,knew the location of,the school	elliot,approached,the school	True
+kelly,knew the location of,the square	kelly,went away from,the square	True
+ali,knew the location of,the office	ali,left,the office	True
+gale,knew the location of,the square	gale,departed from,the square	True
+gael,moved to,the square	gael,rode to,the square	True
+robin,moved to,the train station	robin,walked to,the train station	True
+gael,travelled to,the office	gael,rode to,the office	True
+kelly,travelled to,the train station	kelly,walked to,the train station	True
+apple,changed,the price	apple,lowered,the price	True
+dyson,changed,the requirements	dyson,dropped,the requirements	True
+costco,changed,the criteria	costco,raised,the criteria	True
+heinz,changed,the salaries	heinz,boosted,the salaries	True
+dyson,changed,the cost	dyson,elevated,the cost	True
+walmart,changed,the salaries	walmart,hiked up,the salaries	True
+samsung,changed,the salaries	samsung,lifted,the salaries	True
+samsung,amended,the salaries	samsung,lowered,the salaries	True
+unilever,amended,the criteria	unilever,dropped,the criteria	True
+unilever,amended,the cost	unilever,raised,the cost	True
+costco,amended,the salaries	costco,boosted,the salaries	True
+apple,amended,the cost	apple,elevated,the cost	True
+dyson,amended,the cost	dyson,hiked up,the cost	True
+ford,amended,the cost	ford,lifted,the cost	True
+ashley,was in,australia	ashley,departed from,australia	True
+robin,was in,australia	robin,left,australia	True
+frankie,was in,iran	frankie,stayed in,iran	True
+jackie,was in,australia	jackie,remained in,australia	True
+bobbie,was at,the university	bobbie,departed from,the university	True
+ali,was at,the square	ali,left,the square	True
+frankie,was at,the train station	frankie,exited,the train station	True
+jean,was at,the school	jean,stayed in,the school	True
+ashley,was at,the office	ashley,remained at,the office	True
+the worker,affected,the metal	the worker,bent,the metal	True
+the worker,affected,the metal	the worker,curved,the metal	True
+the technician,affected,the steel	the technician,arched,the steel	True
+the technician,affected,the metal	the technician,straightened,the metal	True
+the worker,affected,the steel	the worker,unbent,the steel	True
+the worker,changed,the steel	the worker,bent,the steel	True
+the worker,changed,the wood	the worker,curved,the wood	True
+the engineer,changed,the wood	the engineer,arched,the wood	True
+the technician,changed,the wood	the technician,straightened,the wood	True
+the technician,changed,the wood	the technician,unbent,the wood	True
+the technician,modified,the wood	the technician,bent,the wood	True
+the engineer,modified,the wood	the engineer,curved,the wood	True
+the worker,modified,the metal	the worker,arched,the metal	True
+the engineer,modified,the metal	the engineer,straightened,the metal	True
+the engineer,modified,the metal	the engineer,unbent,the metal	True
+gale,read,the novel	gale,enjoyed,the novel	True
+cameron,read,the poem	cameron,delighted in,the poem	True
+jean,read,the book	jean,liked,the book	True
+jackie,read,the novel	jackie,appreciated,the novel	True
+gael,read,the novel	gael,suffered through,the novel	True
+kelly,watched,jurassic park	kelly,enjoyed,jurassic park	True
+billie,watched,the film	billie,delighted in,the film	True
+cameron,watched,the musical	cameron,liked,the musical	True
+billie,watched,the film	billie,appreciated,the film	True
+robin,watched,jurassic park	robin,suffered through,jurassic park	True
+sam,saw,indiana jones	sam,enjoyed,indiana jones	True
+gael,saw,star wars	gael,delighted in,star wars	True
+cameron,saw,the film	cameron,liked,the film	True
+jamie,saw,jurassic park	jamie,appreciated,jurassic park	True
+casey,saw,indiana jones	casey,suffered through,indiana jones	True
+the attendant,was aware of,the problem	the attendant,ignored,the problem	True
+the attendant,was aware of,the issue	the attendant,disregarded,the issue	True
+charlie,was aware of,the imperfection	charlie,overlooked,the imperfection	True
+the officer,was aware of,the imperfection	the officer,noticed,the imperfection	True
+jamie,was aware of,the flaws	jamie,took note of,the flaws	True
+the police officer,was aware of,the imperfection	the police officer,observed,the imperfection	True
+ali,owned,the wallet	ali,hid,the wallet	True
+cameron,owned,the wallet	cameron,concealed,the wallet	True
+jackie,owned,a knife	jackie,showed,a knife	True
+cameron,owned,a knife	cameron,exposed,a knife	True
+sam,owned,the drugs	sam,revealed,the drugs	True
+elliot,owned,the cash	elliot,displayed,the cash	True
+charlie,had,the cash	charlie,hid,the cash	True
+charlie,had,a knife	charlie,concealed,a knife	True
+elliot,had,the wallet	elliot,showed,the wallet	True
+aiden,had,the gun	aiden,exposed,the gun	True
+jamie,had,a knife	jamie,revealed,a knife	True
+gael,had,a knife	gael,displayed,a knife	True
+gael,knew,the truth	gael,hid,the truth	True
+ashley,knew,the details	ashley,concealed,the details	True
+charlie,knew,the information	charlie,showed,the information	True
+andy,knew,the facts	andy,exposed,the facts	True
+kelly,knew,the details	kelly,revealed,the details	True
+morgan,knew,the facts	morgan,uncovered,the facts	True
+sam,modified,the effect	sam,sharpened,the effect	True
+andy,modified,the blow	andy,worsened,the blow	True
+casey,modified,the blow	casey,softened,the blow	True
+ashley,modified,the effect	ashley,weakened,the effect	True
+charlie,modified,the blow	charlie,tempered,the blow	True
+elliot,modified,the blow	elliot,alleviated,the blow	True
+jamie,changed,the blow	jamie,sharpened,the blow	True
+morgan,changed,the blow	morgan,worsened,the blow	True
+gale,changed,the effect	gale,softened,the effect	True
+elliot,changed,the blow	elliot,weakened,the blow	True
+ashley,changed,the blow	ashley,tempered,the blow	True
+morgan,changed,the effect	morgan,alleviated,the effect	True
+billie,altered,the blow	billie,sharpened,the blow	True
+kelly,altered,the effect	kelly,worsened,the effect	True
+ashley,altered,the effect	ashley,softened,the effect	True
+jamie,altered,the blow	jamie,weakened,the blow	True
+robin,altered,the blow	robin,tempered,the blow	True
+gael,altered,the blow	gael,alleviated,the blow	True
+volkswagen,traded in,products	volkswagen,bought,products	True
+heinz,traded in,products	heinz,purchased,products	True
+costco,traded in,goods	costco,sold,goods	True
+twitter,traded in,goods	twitter,dealt in,goods	True
+facebook,traded in,products	facebook,retailed,products	True
+dyson,signed an agreement with,google	dyson,bought,google	True
+walmart,signed an agreement with,microsoft	walmart,purchased,microsoft	True
+apple,signed an agreement with,volkswagen	apple,sold,volkswagen	True
+walmart,had an agreement with,facebook	walmart,bought,facebook	True
+samsung,had an agreement with,toyota	samsung,purchased,toyota	True
+apple,had an agreement with,toyota	apple,sold,toyota	True
+elliot,transferred,products	elliot,exported,products	True
+morgan,transferred,products	morgan,imported,products	True
+charlie,moved,products	charlie,exported,products	True
+ashley,moved,products	ashley,imported,products	True
+costco,traded in,goods	costco,exported,goods	True
+unilever,traded in,goods	unilever,imported,goods	True
+sam,transferred,the dataset	sam,downloaded,the dataset	True
+casey,transferred,the data	casey,uploaded,the data	True
+jean,had access to,the data	jean,downloaded,the data	True
+elliot,had access to,the file	elliot,uploaded,the file	True
+walmart,had,a loan	walmart,defaulted on,a loan	True
+robin,had,a loan	robin,repaid,a loan	True
+microsoft,took out,a loan	microsoft,defaulted on,a loan	True
+walmart,took out,a loan	walmart,repaid,a loan	True
+shell,used,coal	shell,conserved,coal	True
+bp,used,oil	bp,saved,oil	True
+gael,used,electricity	gael,preserved,electricity	True
+chevron,used,coal	chevron,wasted,coal	True
+bobbie,used,electricity	bobbie,consumed,electricity	True
+shell,used,coal	shell,depleted,coal	True
+exxon mobil,used,coal	exxon mobil,drained,coal	True
+bp,used,oil	bp,exhausted,oil	True
+bp,used,fossil fuels	bp,expended,fossil fuels	True
+ali,used,electricity	ali,used up,electricity	True
+gazprom,needed,coal	gazprom,conserved,coal	True
+ali,needed,water	ali,saved,water	True
+jean,needed,electricity	jean,preserved,electricity	True
+billie,needed,water	billie,wasted,water	True
+charlie,needed,fuel	charlie,consumed,fuel	True
+exxon mobil,needed,natural gas	exxon mobil,depleted,natural gas	True
+shell,needed,oil	shell,drained,oil	True
+bp,needed,natural gas	bp,exhausted,natural gas	True
+casey,needed,gas	casey,expended,gas	True
+robin,needed,electricity	robin,used up,electricity	True
+the broker,traded,the bonds	the broker,divested,the bonds	True
+the stockbroker,traded,the bonds	the stockbroker,sold,the bonds	True
+the broker,traded,the stocks	the broker,invested in,the stocks	True
+the farming practices,impacted,the land	the farming practices,enriched,the land	True
+the farmers,impacted,the land	the farmers,improved,the land	True
+the spending,impacted,the nation	the spending,developed,the nation	True
+the farmers,impacted,the soil	the farmers,cultivated,the soil	True
+the spending,impacted,china	the spending,impoverished,china	True
+the expenditure,impacted,the nation	the expenditure,deprived,the nation	True
+the farming practices,changed,the land	the farming practices,enriched,the land	True
+the farmers,changed,the land	the farmers,improved,the land	True
+government expenditure,changed,the nation	government expenditure,developed,the nation	True
+the farming practices,changed,the soil	the farming practices,cultivated,the soil	True
+the spending,changed,china	the spending,impoverished,china	True
+the spending,changed,the nation	the spending,deprived,the nation	True
+government expenditure,affected,china	government expenditure,enriched,china	True
+the farming practices,affected,the land	the farming practices,improved,the land	True
+the spending,affected,the united states of america	the spending,developed,the united states of america	True
+the farmers,affected,the soil	the farmers,cultivated,the soil	True
+government expenditure,affected,china	government expenditure,impoverished,china	True
+governnment spending,affected,china	governnment spending,deprived,china	True
+cameron,was aware of,global warming	cameron,acted on,global warming	True
+frankie,was aware of,global warming	frankie,took action on,global warming	True
+jackie,was aware of,homelessness	jackie,ignored,homelessness	True
+robin,knew about,climate change	robin,acted on,climate change	True
+andy,knew about,global warming	andy,took action on,global warming	True
+alex,knew about,global warming	alex,ignored,global warming	True
+apple,employed,billie	apple,demoted,billie	True
+facebook,employed,jamie	facebook,promoted,jamie	True
+barack obama,governed,the country	barack obama,divided,the country	True
+justin trudeau,governed,the state	justin trudeau,split,the state	True
+angela merkel,governed,the country	angela merkel,split up,the country	True
+barack obama,governed,the country	barack obama,united,the country	True
+hillary clinton,governed,the state	hillary clinton,unified,the state	True
+jacinda ardern,changed,the country	jacinda ardern,divided,the country	True
+hillary clinton,changed,the state	hillary clinton,split,the state	True
+barack obama,changed,the state	barack obama,split up,the state	True
+jacinda ardern,changed,the state	jacinda ardern,united,the state	True
+jacinda ardern,changed,the state	jacinda ardern,unified,the state	True
+donald trump,controlled,the country	donald trump,divided,the country	True
+jacinda ardern,controlled,the nation	jacinda ardern,split,the nation	True
+hillary clinton,controlled,the nation	hillary clinton,split up,the nation	True
+emmanuel macron,controlled,the country	emmanuel macron,united,the country	True
+hillary clinton,controlled,the nation	hillary clinton,unified,the nation	True
+angela merkel,affected,the nation	angela merkel,divided,the nation	True
+emmanuel macron,affected,the nation	emmanuel macron,split,the nation	True
+barack obama,affected,the state	barack obama,split up,the state	True
+justin trudeau,affected,the state	justin trudeau,united,the state	True
+justin trudeau,affected,the state	justin trudeau,unified,the state	True
+donald trump,thought about,the regulations	donald trump,disobeyed,the regulations	True
+andy,thought about,the rules	andy,defied,the rules	True
+gale,thought about,the law	gale,rebelled against,the law	True
+alex,thought about,the policy	alex,violated,the policy	True
+donald trump,thought about,the rules	donald trump,infringed upon,the rules	True
+jamie,thought about,the law	jamie,transgressed,the law	True
+jennifer lawrence,thought about,the regulations	jennifer lawrence,disrespected,the regulations	True
+gale,thought about,the policy	gale,obeyed,the policy	True
+donald trump,thought about,the regulations	donald trump,accepted,the regulations	True
+jamie,thought about,the policy	jamie,acceded to,the policy	True
+gale,thought about,the policy	gale,observed,the policy	True
+charlie,thought about,the policy	charlie,cooperated with,the policy	True
+aiden,thought about,the regulations	aiden,conceded to,the regulations	True
+kelly,thought about,the regulations	kelly,heeded,the regulations	True
+donald trump,thought about,the policy	donald trump,followed,the policy	True
+donald trump,thought about,the policy	donald trump,conformed to,the policy	True
+gael,thought about,the law	gael,complied with,the law	True
+casey,thought about,the rules	casey,adhered to,the rules	True
+donald trump,thought about,the policy	donald trump,minded,the policy	True
+donald trump,thought about,the policy	donald trump,respected,the policy	True
+jeff bezos,knew,the law	jeff bezos,disobeyed,the law	True
+robin,knew,the rules	robin,defied,the rules	True
+donald trump,knew,the law	donald trump,rebelled against,the law	True
+jeff bezos,knew,the law	jeff bezos,violated,the law	True
+bill gates,knew,the rules	bill gates,infringed upon,the rules	True
+andy,knew,the law	andy,transgressed,the law	True
+jackie,knew,the law	jackie,disrespected,the law	True
+ashley,knew,the policy	ashley,obeyed,the policy	True
+ali,knew,the rules	ali,accepted,the rules	True
+angela merkel,knew,the rules	angela merkel,acceded to,the rules	True
+robin,knew,the regulations	robin,observed,the regulations	True
+angela merkel,knew,the regulations	angela merkel,cooperated with,the regulations	True
+serena williams,knew,the policy	serena williams,conceded to,the policy	True
+angela merkel,knew,the law	angela merkel,heeded,the law	True
+serena williams,knew,the policy	serena williams,followed,the policy	True
+sam,knew,the regulations	sam,conformed to,the regulations	True
+ashley,knew,the regulations	ashley,complied with,the regulations	True
+angela merkel,knew,the policy	angela merkel,adhered to,the policy	True
+aiden,knew,the policy	aiden,minded,the policy	True
+ashley,knew,the law	ashley,respected,the law	True
+bill gates,was aware of,the law	bill gates,disobeyed,the law	True
+andy,was aware of,the law	andy,defied,the law	True
+charlie,was aware of,the rules	charlie,rebelled against,the rules	True
+gael,was aware of,the policy	gael,violated,the policy	True
+frankie,was aware of,the regulations	frankie,infringed upon,the regulations	True
+angela merkel,was aware of,the regulations	angela merkel,transgressed,the regulations	True
+serena williams,was aware of,the regulations	serena williams,disrespected,the regulations	True
+serena williams,was aware of,the rules	serena williams,obeyed,the rules	True
+robin,was aware of,the law	robin,accepted,the law	True
+bill gates,was aware of,the policy	bill gates,acceded to,the policy	True
+gale,was aware of,the regulations	gale,observed,the regulations	True
+angela merkel,was aware of,the regulations	angela merkel,cooperated with,the regulations	True
+donald trump,was aware of,the law	donald trump,conceded to,the law	True
+bill gates,was aware of,the rules	bill gates,heeded,the rules	True
+angela merkel,was aware of,the law	angela merkel,followed,the law	True
+ashley,was aware of,the law	ashley,conformed to,the law	True
+angela merkel,was aware of,the policy	angela merkel,complied with,the policy	True
+angela merkel,was aware of,the law	angela merkel,adhered to,the law	True
+bobbie,was aware of,the rules	bobbie,minded,the rules	True
+bill gates,was aware of,the policy	bill gates,respected,the policy	True
+the police officer,knew,the policy	the police officer,enforced,the policy	True
+the attendant,knew,the rules	the attendant,imposed,the rules	True
+the attendant,knew,the rules	the attendant,implemented,the rules	True
+the attendant,knew,the policy	the attendant,applied,the policy	True
+the police officer,knew,the law	the police officer,ignored,the law	True
+the police officer,knew,the policy	the police officer,glossed over,the policy	True
+the police officer,knew,the policy	the police officer,turned a blind eye to,the policy	True
+the police officer,was aware of,the policy	the police officer,enforced,the policy	True
+the officer,was aware of,the law	the officer,imposed,the law	True
+the officer,was aware of,the regulations	the officer,implemented,the regulations	True
+the officer,was aware of,the law	the officer,applied,the law	True
+the attendant,was aware of,the regulations	the attendant,ignored,the regulations	True
+the attendant,was aware of,the policy	the attendant,glossed over,the policy	True
+the attendant,was aware of,the rules	the attendant,turned a blind eye to,the rules	True
+the people,dealt with,the earthquake	the people,succumbed to,the earthquake	True
+gael,dealt with,heart disease	gael,gave in to,heart disease	True
+jean,dealt with,cancer	jean,died from,cancer	True
+the villagers,dealt with,the floods	the villagers,yielded to,the floods	True
+jamie,dealt with,depression	jamie,was killed by,depression	True
+charlie,dealt with,heart disease	charlie,survived,heart disease	True
+the villagers,dealt with,the blizzard	the villagers,endured,the blizzard	True
+the people,dealt with,the floods	the people,held up against,the floods	True
+the people,dealt with,the hurricane	the people,withstood,the hurricane	True
+andy,dealt with,heart disease	andy,overcame,heart disease	True
+the people,faced,the blizzard	the people,succumbed to,the blizzard	True
+aiden,faced,cancer	aiden,gave in to,cancer	True
+casey,faced,depression	casey,died from,depression	True
+the people,faced,the floods	the people,yielded to,the floods	True
+jean,faced,cancer	jean,was killed by,cancer	True
+the villagers,faced,the earthquake	the villagers,survived,the earthquake	True
+the villagers,faced,the hurricane	the villagers,endured,the hurricane	True
+the villagers,faced,the blizzard	the villagers,held up against,the blizzard	True
+the villagers,faced,the hurricane	the villagers,withstood,the hurricane	True
+robin,faced,cancer	robin,overcame,cancer	True
+jamie,confronted,cancer	jamie,succumbed to,cancer	True
+frankie,confronted,heart disease	frankie,gave in to,heart disease	True
+billie,confronted,depression	billie,died from,depression	True
+gael,confronted,cancer	gael,yielded to,cancer	True
+kelly,confronted,cancer	kelly,was killed by,cancer	True
+billie,confronted,heart disease	billie,survived,heart disease	True
+jean,confronted,depression	jean,overcame,depression	True
+the people,battled,the hurricane	the people,succumbed to,the hurricane	True
+ali,battled,depression	ali,gave in to,depression	True
+ashley,battled,depression	ashley,died from,depression	True
+elliot,battled,heart disease	elliot,yielded to,heart disease	True
+morgan,battled,depression	morgan,was killed by,depression	True
+the population,battled,the floods	the population,survived,the floods	True
+the population,battled,the floods	the population,endured,the floods	True
+the population,battled,the earthquake	the population,held up against,the earthquake	True
+the people,battled,the blizzard	the people,withstood,the blizzard	True
+the people,battled,the floods	the people,overcame,the floods	True
+the table,was assessed against,the guidelines	the table,conformed with,the guidelines	True
+the instrument,was assessed against,the criteria	the instrument,complied with,the criteria	True
+the television,was assessed against,the standards	the television,conformed to,the standards	True
+bobbie,was assessed against,the criteria	bobbie,adhered to,the criteria	True
+the instrument,was assessed against,the guidelines	the instrument,deviated from,the guidelines	True
+the car,was assessed against,the criteria	the car,diverged from,the criteria	True
+the table,was evaluated against,the guidelines	the table,conformed with,the guidelines	True
+jean,was evaluated against,the guidelines	jean,complied with,the guidelines	True
+the instrument,was evaluated against,the standards	the instrument,conformed to,the standards	True
+jackie,was evaluated against,the guidelines	jackie,adhered to,the guidelines	True
+the instrument,was evaluated against,the standards	the instrument,deviated from,the standards	True
+the television,was evaluated against,the criteria	the television,diverged from,the criteria	True
+volkswagen,was compared to,mitsubishi	volkswagen,differed from,mitsubishi	True
+ford,was compared to,ferrari	ford,was different from,ferrari	True
+ferrari,was compared to,nissan	ferrari,was equal to,nissan	True
+mitsubishi,was compared to,ferrari	mitsubishi,was the same as,ferrari	True
+mitsubishi,was compared to,audi	mitsubishi,was identical to,audi	True
+ibuprofen,sedated,the patient	ibuprofen,was given to,the patient	False
+ibuprofen,calmed,the patient	ibuprofen,was given to,the patient	False
+drugs,subdued,the patient	drugs,were given to,the patient	False
+the tablets,stimulated,the patient	the tablets,were given to,the patient	False
+the tablets,energized,the patient	the tablets,were given to,the patient	False
+the tablets,enlivened,the patient	the tablets,were given to,the patient	False
+the tablets,livened up,the patient	the tablets,were given to,the patient	False
+medicine,invigorated,the patient	medicine,was given to,the patient	False
+ibuprofen,sedated,the patient	ibuprofen,was administered to,the patient	False
+ibuprofen,calmed,the patient	ibuprofen,was administered to,the patient	False
+the tablets,subdued,the patient	the tablets,were administered to,the patient	False
+medicine,stimulated,the patient	medicine,was administered to,the patient	False
+paracetamol,energized,the patient	paracetamol,was administered to,the patient	False
+the tablets,enlivened,the patient	the tablets,were administered to,the patient	False
+drugs,livened up,the patient	drugs,were administered to,the patient	False
+paracetamol,invigorated,the patient	paracetamol,was administered to,the patient	False
+drugs,sedated,the patient	the patient,took,drugs	False
+medicine,calmed,the patient	the patient,took,medicine	False
+paracetamol,subdued,the patient	the patient,took,paracetamol	False
+drugs,stimulated,the patient	the patient,took,drugs	False
+paracetamol,energized,the patient	the patient,took,paracetamol	False
+ibuprofen,enlivened,the patient	the patient,took,ibuprofen	False
+paracetamol,livened up,the patient	the patient,took,paracetamol	False
+paracetamol,invigorated,the patient	the patient,took,paracetamol	False
+aiden,was refreshed by,the trip	aiden,was affected by,the trip	False
+kelly,was recharged by,swimming	kelly,was affected by,swimming	False
+morgan,was rejuvenated by,swimming	morgan,was affected by,swimming	False
+ashley,was revitalized by,the holiday	ashley,was affected by,the holiday	False
+bobbie,was revived by,the visit	bobbie,was affected by,the visit	False
+charlie,tired of,the holiday	charlie,was affected by,the holiday	False
+jackie,was bored by,the holiday	jackie,was affected by,the holiday	False
+aiden,was wearied by,running	aiden,was affected by,running	False
+casey,was worn out by,cycling	casey,was affected by,cycling	False
+billie,was refreshed by,swimming	billie,went,swimming	False
+jean,was recharged by,running	jean,went,running	False
+charlie,was rejuvenated by,cycling	charlie,went,cycling	False
+kelly,was revitalized by,cycling	kelly,went,cycling	False
+andy,was revived by,dancing	andy,went,dancing	False
+ashley,tired of,cycling	ashley,went,cycling	False
+gale,was bored by,running	gale,went,running	False
+sam,was wearied by,cycling	sam,went,cycling	False
+kelly,was worn out by,sailing	kelly,went,sailing	False
+running,refreshed,jean	running,affected,jean	False
+sailing,recharged,elliot	sailing,affected,elliot	False
+sailing,rejuvenated,cameron	sailing,affected,cameron	False
+swimming,revitalized,gale	swimming,affected,gale	False
+running,revived,gale	running,affected,gale	False
+cycling,tired,robin	cycling,affected,robin	False
+jackie,relaxed,the string	jackie,used,the string	False
+the machine,slackened,the string	the machine,used,the string	False
+billie,loosened,the strap	billie,used,the strap	False
+the machine,tensed,the rope	the machine,used,the rope	False
+charlie,strained,the strap	charlie,used,the strap	False
+the machine,tightened,the cord	the machine,used,the cord	False
+andy,relaxed,the strap	andy,adjusted,the strap	False
+the machine,slackened,the string	the machine,adjusted,the string	False
+the machine,loosened,the strap	the machine,adjusted,the strap	False
+ali,tensed,the strap	ali,adjusted,the strap	False
+ali,strained,the rope	ali,adjusted,the rope	False
+the machine,tightened,the strap	the machine,adjusted,the strap	False
+jackie,cried during,the sermon	jackie,heard,the sermon	False
+billie,wept during,the speech	billie,heard,the speech	False
+gael,sobbed during,the sermon	gael,heard,the sermon	False
+kelly,laughed at,the speech	kelly,heard,the speech	False
+bobbie,chortled at,the address	bobbie,heard,the address	False
+sam,chuckled at,the address	sam,heard,the address	False
+elliot,giggled at,the address	elliot,heard,the address	False
+bobbie,snickered at,the speech	bobbie,heard,the speech	False
+andy,cracked up at,the sermon	andy,heard,the sermon	False
+alex,cried during,the address	alex,listened to,the address	False
+aiden,wept during,the address	aiden,listened to,the address	False
+casey,sobbed during,the address	casey,listened to,the address	False
+aiden,laughed at,the address	aiden,listened to,the address	False
+andy,chortled at,the sermon	andy,listened to,the sermon	False
+ali,chuckled at,the address	ali,listened to,the address	False
+aiden,giggled at,the sermon	aiden,listened to,the sermon	False
+morgan,snickered at,the speech	morgan,listened to,the speech	False
+jamie,cracked up at,the speech	jamie,listened to,the speech	False
+sam,cried during,star wars	sam,watched,star wars	False
+frankie,wept during,jurassic park	frankie,watched,jurassic park	False
+frankie,sobbed during,star wars	frankie,watched,star wars	False
+gale,laughed at,the music video	gale,watched,the music video	False
+aiden,chortled at,the film	aiden,watched,the film	False
+sam,chuckled at,the film	sam,watched,the film	False
+jamie,giggled at,indiana jones	jamie,watched,indiana jones	False
+alex,snickered at,the film	alex,watched,the film	False
+robin,cracked up at,jurassic park	robin,watched,jurassic park	False
+gale,cried during,jurassic park	gale,saw,jurassic park	False
+elliot,wept during,the musical	elliot,saw,the musical	False
+jackie,sobbed during,the film	jackie,saw,the film	False
+jackie,laughed at,the music video	jackie,saw,the music video	False
+ali,chortled at,star wars	ali,saw,star wars	False
+ali,chuckled at,star wars	ali,saw,star wars	False
+bobbie,giggled at,the short film	bobbie,saw,the short film	False
+charlie,snickered at,the short film	charlie,saw,the short film	False
+cameron,cracked up at,star wars	cameron,saw,star wars	False
+jean,irritated,gael	jean,talked to,gael	False
+kelly,aggravated,gael	kelly,talked to,gael	False
+bobbie,annoyed,ali	bobbie,talked to,ali	False
+charlie,bothered,ali	charlie,talked to,ali	False
+aiden,bugged,ali	aiden,talked to,ali	False
+gale,irked,gael	gale,talked to,gael	False
+alex,vexed,cameron	alex,talked to,cameron	False
+billie,unsettled,kelly	billie,talked to,kelly	False
+jean,soothed,cameron	jean,talked to,cameron	False
+jean,appeased,kelly	jean,talked to,kelly	False
+billie,mollified,alex	billie,talked to,alex	False
+jamie,pacified,elliot	jamie,talked to,elliot	False
+gael,placated,jackie	gael,talked to,jackie	False
+alex,irritated,gael	alex,spoke to,gael	False
+ali,aggravated,robin	ali,spoke to,robin	False
+morgan,annoyed,jamie	morgan,spoke to,jamie	False
+morgan,bothered,casey	morgan,spoke to,casey	False
+elliot,bugged,cameron	elliot,spoke to,cameron	False
+gale,irked,elliot	gale,spoke to,elliot	False
+aiden,vexed,casey	aiden,spoke to,casey	False
+billie,unsettled,bobbie	billie,spoke to,bobbie	False
+kelly,soothed,aiden	kelly,spoke to,aiden	False
+aiden,appeased,charlie	aiden,spoke to,charlie	False
+aiden,mollified,robin	aiden,spoke to,robin	False
+elliot,pacified,bobbie	elliot,spoke to,bobbie	False
+robin,placated,casey	robin,spoke to,casey	False
+bobbie,irritated,andy	bobbie,interacted with,andy	False
+charlie,aggravated,ali	charlie,interacted with,ali	False
+kelly,annoyed,jean	kelly,interacted with,jean	False
+cameron,bothered,sam	cameron,interacted with,sam	False
+ashley,bugged,alex	ashley,interacted with,alex	False
+frankie,irked,cameron	frankie,interacted with,cameron	False
+ali,vexed,charlie	ali,interacted with,charlie	False
+bobbie,unsettled,kelly	bobbie,interacted with,kelly	False
+frankie,soothed,morgan	frankie,interacted with,morgan	False
+jackie,appeased,gale	jackie,interacted with,gale	False
+elliot,mollified,robin	elliot,interacted with,robin	False
+cameron,pacified,elliot	cameron,interacted with,elliot	False
+gael,placated,casey	gael,interacted with,casey	False
+unilever,decreased,reserves	unilever,had,reserves	False
+toyota,depleted,reserves	toyota,had,reserves	False
+microsoft,reduced,funds	microsoft,had,funds	False
+microsoft,increased,reserves	microsoft,had,reserves	False
+bosch,gained,reserves	bosch,had,reserves	False
+bosch,decreased,funds	bosch,owned,funds	False
+twitter,depleted,funds	twitter,owned,funds	False
+amazon,reduced,reserves	amazon,owned,reserves	False
+unilever,increased,reserves	unilever,owned,reserves	False
+heinz,gained,reserves	heinz,owned,reserves	False
+the engineers,strengthened,the castle	the engineers,changed,the castle	False
+the construction workers,fortified,the building	the construction workers,changed,the building	False
+the engineer,toughened,the wood	the engineer,changed,the wood	False
+the construction workers,weakened,the castle	the construction workers,changed,the castle	False
+the engineer,strengthened,the metal	the engineer,modified,the metal	False
+the worker,fortified,the steel	the worker,modified,the steel	False
+the worker,toughened,the steel	the worker,modified,the steel	False
+the construction workers,weakened,the castle	the construction workers,modified,the castle	False
+the construction workers,strengthened,the building	the construction workers,worked on,the building	False
+the builders,fortified,the castle	the builders,worked on,the castle	False
+the builders,weakened,the fortress	the builders,worked on,the fortress	False
+the photographer,blew up,the picture	the photographer,changed,the picture	False
+the photographer,shrank,the image	the photographer,changed,the image	False
+the photographer,blew up,the image	the photographer,modified,the image	False
+the photographer,shrank,the image	the photographer,modified,the image	False
+the photographer,blew up,the image	the photographer,altered,the image	False
+the photographer,shrank,the picture	the photographer,altered,the picture	False
+the photographer,blew up,the image	the photographer,adjusted,the image	False
+the photographer,shrank,the picture	the photographer,adjusted,the picture	False
+the machine,compressed,the volume	the machine,changed,the volume	False
+the machine,condensed,the fluid	the machine,changed,the fluid	False
+the machine,expanded,the volume	the machine,changed,the volume	False
+the machine,compressed,the gas	the machine,applied force to,the gas	False
+the machine,condensed,the gas	the machine,applied force to,the gas	False
+the machine,expanded,the fluid	the machine,applied force to,the fluid	False
+the photographer,darkened,the picture	the photographer,changed,the picture	False
+the photographer,lightened,the picture	the photographer,changed,the picture	False
+the photographer,brightened,the picture	the photographer,changed,the picture	False
+the photographer,darkened,the picture	the photographer,modified,the picture	False
+the photographer,lightened,the image	the photographer,modified,the image	False
+the photographer,brightened,the image	the photographer,modified,the image	False
+the photographer,darkened,the picture	the photographer,adjusted,the picture	False
+the photographer,lightened,the image	the photographer,adjusted,the image	False
+the photographer,brightened,the picture	the photographer,adjusted,the picture	False
+the photographer,darkened,the picture	the photographer,altered,the picture	False
+the photographer,lightened,the picture	the photographer,altered,the picture	False
+the photographer,brightened,the picture	the photographer,altered,the picture	False
+gael,narrowed,their perspective	gael,changed,their perspective	False
+the construction workers,constricted,the pipe	the construction workers,changed,the pipe	False
+the engineers,restricted,the shaft	the engineers,changed,the shaft	False
+charlie,widened,their perspective	charlie,changed,their perspective	False
+the construction workers,broadened,the tunnel	the construction workers,changed,the tunnel	False
+the builders,expanded,the tunnel	the builders,changed,the tunnel	False
+the construction workers,narrowed,the tunnel	the construction workers,modified,the tunnel	False
+the engineers,constricted,the shaft	the engineers,modified,the shaft	False
+the construction workers,restricted,the tunnel	the construction workers,modified,the tunnel	False
+the engineers,widened,the opening	the engineers,modified,the opening	False
+the construction workers,broadened,the opening	the construction workers,modified,the opening	False
+the engineers,expanded,the opening	the engineers,modified,the opening	False
+the seamstress,let out,the fabric	the seamstress,changed,the fabric	False
+the dressmaker,took in,the cloth	the dressmaker,changed,the cloth	False
+the tailor,let out,the fabric	the tailor,modified,the fabric	False
+the seamstress,took in,the cloth	the seamstress,modified,the cloth	False
+the tailor,let out,the fabric	the tailor,altered,the fabric	False
+the dressmaker,took in,the material	the dressmaker,altered,the material	False
+the photographer,blurred,the picture	the photographer,changed,the picture	False
+the photographer,focused,the picture	the photographer,changed,the picture	False
+the photographer,blurred,the image	the photographer,modified,the image	False
+the photographer,focused,the picture	the photographer,modified,the picture	False
+the photographer,blurred,the image	the photographer,altered,the image	False
+the photographer,focused,the image	the photographer,altered,the image	False
+the worker,lengthened,the cable	the worker,changed,the cable	False
+the technician,elongated,the cable	the technician,changed,the cable	False
+the worker,extended,the cable	the worker,changed,the cable	False
+the engineer,shortened,the cable	the engineer,changed,the cable	False
+the worker,lengthened,the cable	the worker,modified,the cable	False
+the worker,elongated,the rod	the worker,modified,the rod	False
+the worker,extended,the rod	the worker,modified,the rod	False
+the engineer,shortened,the cable	the engineer,modified,the cable	False
+the technician,lengthened,the rod	the technician,altered,the rod	False
+the engineer,elongated,the cable	the engineer,altered,the cable	False
+the engineer,extended,the rod	the engineer,altered,the rod	False
+the technician,shortened,the rod	the technician,altered,the rod	False
+jamie,lengthened,the journey	jamie,changed,the journey	False
+charlie,prolonged,the excursion	charlie,changed,the excursion	False
+bobbie,drew out,the holiday	bobbie,changed,the holiday	False
+gael,shortened,the expedition	gael,changed,the expedition	False
+bobbie,cut short,the holiday	bobbie,changed,the holiday	False
+billie,lengthened,the tour	billie,amended,the tour	False
+kelly,prolonged,the journey	kelly,amended,the journey	False
+aiden,drew out,the visit	aiden,amended,the visit	False
+robin,shortened,the holiday	robin,amended,the holiday	False
+elliot,cut short,the excursion	elliot,amended,the excursion	False
+billie,cooled,the tea	billie,prepared,the tea	False
+frankie,heated,the soup	frankie,prepared,the soup	False
+billie,boiled,the water	billie,changed the state of,the water	False
+elliot,froze,the water	elliot,changed the state of,the water	False
+bobbie,boiled,the water	bobbie,changed the temperature of,the water	False
+bobbie,froze,the water	bobbie,changed the temperature of,the water	False
+jackie,stifled,the conversation	jackie,participated in,the conversation	False
+gale,stimulated,the conversation	gale,participated in,the conversation	False
+google,complicated,the code	google,changed,the code	False
+amazon,simplified,the system	amazon,changed,the system	False
+facebook,complicated,the process	facebook,redeveloped,the process	False
+microsoft,simplified,the code	microsoft,redeveloped,the code	False
+amazon,complicated,the instructions	amazon,refined,the instructions	False
+microsoft,simplified,the process	microsoft,refined,the process	False
+facebook,complicated,the process	facebook,altered,the process	False
+bosch,simplified,the code	bosch,altered,the code	False
+bosch,complicated,the code	bosch,modified,the code	False
+facebook,simplified,the instructions	facebook,modified,the instructions	False
+costco,maximized,the expenditure	costco,changed,the expenditure	False
+amazon,minimized,the expenditure	amazon,changed,the expenditure	False
+nestle,maximized,the charges	nestle,altered,the charges	False
+bosch,minimized,the expenditure	bosch,altered,the expenditure	False
+toyota,maximized,the charges	toyota,amended,the charges	False
+dyson,minimized,the fees	dyson,amended,the fees	False
+charlie,thickened,the sauce	charlie,changed,the sauce	False
+cameron,thinned,the sauce	cameron,changed,the sauce	False
+frankie,diluted,the sauce	frankie,changed,the sauce	False
+sam,thickened,the soup	sam,modified,the soup	False
+aiden,thinned,the sauce	aiden,modified,the sauce	False
+jamie,diluted,the soup	jamie,modified,the soup	False
+billie,thickened,the sauce	billie,cooked,the sauce	False
+cameron,thinned,the sauce	cameron,cooked,the sauce	False
+bobbie,diluted,the sauce	bobbie,cooked,the sauce	False
+jamie,thickened,the sauce	jamie,prepared,the sauce	False
+kelly,thinned,the sauce	kelly,prepared,the sauce	False
+kelly,diluted,the soup	kelly,prepared,the soup	False
+the portfolio manager,diversified,the investments	the portfolio manager,managed,the investments	False
+the portfolio manager,varied,the fund	the portfolio manager,managed,the fund	False
+the portfolio manager,broadened,the fund	the portfolio manager,managed,the fund	False
+the portfolio manager,specialized,the fund	the portfolio manager,managed,the fund	False
+the portfolio manager,narrowed,the fund	the portfolio manager,managed,the fund	False
+the fund manager,diversified,the investments	the fund manager,amended,the investments	False
+the fund manager,varied,the investments	the fund manager,amended,the investments	False
+the stockbroker,broadened,the fund	the stockbroker,amended,the fund	False
+the stockbroker,specialized,the portfolio	the stockbroker,amended,the portfolio	False
+the fund manager,narrowed,the investments	the fund manager,amended,the investments	False
+the fund manager,diversified,the investments	the fund manager,updated,the investments	False
+the stockbroker,varied,the investments	the stockbroker,updated,the investments	False
+the stockbroker,broadened,the portfolio	the stockbroker,updated,the portfolio	False
+the portfolio manager,specialized,the fund	the portfolio manager,updated,the fund	False
+the broker,narrowed,the investments	the broker,updated,the investments	False
+the portfolio manager,diversified,the investments	the portfolio manager,changed,the investments	False
+the stockbroker,varied,the portfolio	the stockbroker,changed,the portfolio	False
+the stockbroker,broadened,the investments	the stockbroker,changed,the investments	False
+the stockbroker,specialized,the investments	the stockbroker,changed,the investments	False
+the broker,narrowed,the fund	the broker,changed,the fund	False
+the broker,diversified,the investments	the broker,altered,the investments	False
+the broker,varied,the investments	the broker,altered,the investments	False
+the portfolio manager,broadened,the fund	the portfolio manager,altered,the fund	False
+the broker,specialized,the fund	the broker,altered,the fund	False
+the broker,narrowed,the portfolio	the broker,altered,the portfolio	False
+jamie,accelerated,the truck	jamie,drove,the truck	False
+the driver,sped up,the car	the driver,drove,the car	False
+sam,decelerated,the truck	sam,drove,the truck	False
+alex,slowed,the train	alex,drove,the train	False
+bobbie,slowed down,the tractor	bobbie,drove,the tractor	False
+the officer,invalidated,the diploma	the officer,looked at,the diploma	False
+the attendant,voided,the ticket	the attendant,looked at,the ticket	False
+the officer,validated,the diploma	the officer,looked at,the diploma	False
+the attendant,ratified,the diploma	the attendant,looked at,the diploma	False
+the officer,approved,the certificate	the officer,looked at,the certificate	False
+the clerk,invalidated,the diploma	the clerk,assessed,the diploma	False
+the attendant,voided,the certificate	the attendant,assessed,the certificate	False
+the clerk,validated,the papers	the clerk,assessed,the papers	False
+the officer,ratified,the ticket	the officer,assessed,the ticket	False
+the clerk,approved,the ticket	the clerk,assessed,the ticket	False
+the clerk,invalidated,the ticket	the clerk,saw,the ticket	False
+the attendant,voided,the diploma	the attendant,saw,the diploma	False
+the attendant,validated,the papers	the attendant,saw,the papers	False
+the officer,ratified,the certificate	the officer,saw,the certificate	False
+the clerk,approved,the papers	the clerk,saw,the papers	False
+the attendant,invalidated,the diploma	the attendant,examined,the diploma	False
+the officer,voided,the papers	the officer,examined,the papers	False
+the attendant,validated,the ticket	the attendant,examined,the ticket	False
+the attendant,ratified,the certificate	the attendant,examined,the certificate	False
+the attendant,approved,the papers	the attendant,examined,the papers	False
+the officer,invalidated,the ticket	the officer,checked,the ticket	False
+the officer,voided,the ticket	the officer,checked,the ticket	False
+the clerk,validated,the certificate	the clerk,checked,the certificate	False
+the officer,ratified,the certificate	the officer,checked,the certificate	False
+the clerk,approved,the diploma	the clerk,checked,the diploma	False
+andy,emptied,the dishwasher	andy,used,the dishwasher	False
+casey,cleared out,the dishwasher	casey,used,the dishwasher	False
+ashley,unpacked,the suitcase	ashley,used,the suitcase	False
+billie,filled,the crate	billie,used,the crate	False
+frankie,loaded,the dishwasher	frankie,used,the dishwasher	False
+jackie,packed,the suitcase	jackie,used,the suitcase	False
+kelly,delayed,lunch	kelly,had,lunch	False
+alex,dragged out,dinner	alex,had,dinner	False
+charlie,held up,supper	charlie,had,supper	False
+ali,rushed,breakfast	ali,had,breakfast	False
+gale,hurried,supper	gale,had,supper	False
+the attendant,kept track of,the suspect	the attendant,followed,the suspect	False
+the police officer,kept an eye on,the pickpocket	the police officer,followed,the pickpocket	False
+the officer,lost track of,the thief	the officer,followed,the thief	False
+gael,forgot,their manners	gael,learned,their manners	False
+robin,neglected,their posture	robin,learned,their posture	False
+jackie,disregarded,their manners	jackie,learned,their manners	False
+kelly,minded,their posture	kelly,learned,their posture	False
+alex,remembered,their posture	alex,learned,their posture	False
+ali,attended to,the dog	ali,was responsible for,the dog	False
+casey,neglected,the fish	casey,was responsible for,the fish	False
+gael,forgot about,the cat	gael,was responsible for,the cat	False
+frankie,ignored,the fish	frankie,was responsible for,the fish	False
+gael,overlooked,the fish	gael,was responsible for,the fish	False
+the students,excluded,gale	the students,considered,gale	False
+the team,left out,billie	the team,considered,billie	False
+the group,included,jamie	the group,considered,jamie	False
+the group,involved,kelly	the group,considered,kelly	False
+the group,excluded,frankie	the group,decided about,frankie	False
+the students,left out,casey	the students,decided about,casey	False
+the group,included,alex	the group,decided about,alex	False
+the team,involved,jean	the team,decided about,jean	False
+the pub,admitted,elliot	the pub,decided about,elliot	False
+the club,barred,ali	the club,decided about,ali	False
+the academy,admitted,aiden	the academy,evaluated,aiden	False
+harvard,accepted,ali	harvard,evaluated,ali	False
+the college,let in,morgan	the college,evaluated,morgan	False
+the school,rejected,jackie	the school,evaluated,jackie	False
+harvard,admitted,andy	harvard,considered,andy	False
+the school,accepted,cameron	the school,considered,cameron	False
+caltech,let in,aiden	caltech,considered,aiden	False
+mit,rejected,elliot	mit,considered,elliot	False
+the school,admitted,elliot	the school,decided about,elliot	False
+the academy,accepted,robin	the academy,decided about,robin	False
+princeton,let in,ashley	princeton,decided about,ashley	False
+cambridge,rejected,gale	cambridge,decided about,gale	False
+oxford,admitted,alex	oxford,assessed,alex	False
+princeton,accepted,morgan	princeton,assessed,morgan	False
+the college,let in,gael	the college,assessed,gael	False
+harvard,rejected,charlie	harvard,assessed,charlie	False
+bill gates,admitted to,the allegations	the allegations,were made against,bill gates	False
+alex,confirmed,the allegations	the allegations,were made against,alex	False
+angela merkel,denied,the accusations	the accusations,were made against,angela merkel	False
+charlie,refuted,the allegations	the allegations,were made against,charlie	False
+ali,negated,the accusations	the accusations,were made against,ali	False
+serena williams,disaffirmed,the accusations	the accusations,were made against,serena williams	False
+angela merkel,disconfirmed,the allegations	the allegations,were made against,angela merkel	False
+andy,accepted,the idea	andy,considered,the idea	False
+ashley,believed,the notion	ashley,considered,the notion	False
+casey,trusted,the idea	casey,considered,the idea	False
+sam,agreed with,the conclusion	sam,considered,the conclusion	False
+cameron,rejected,the conclusion	cameron,considered,the conclusion	False
+billie,disbelieved,the notion	billie,considered,the notion	False
+gael,disagreed with,the idea	gael,considered,the idea	False
+ali,accepted,the notion	ali,thought over,the notion	False
+billie,believed,the idea	billie,thought over,the idea	False
+jackie,trusted,the conclusion	jackie,thought over,the conclusion	False
+ashley,agreed with,the conclusion	ashley,thought over,the conclusion	False
+jean,rejected,the notion	jean,thought over,the notion	False
+jackie,disbelieved,the conclusion	jackie,thought over,the conclusion	False
+ali,disagreed with,the idea	ali,thought over,the idea	False
+gael,accepted,the notion	gael,thought about,the notion	False
+charlie,believed,the notion	charlie,thought about,the notion	False
+billie,trusted,the idea	billie,thought about,the idea	False
+ali,agreed with,the idea	ali,thought about,the idea	False
+robin,rejected,the idea	robin,thought about,the idea	False
+billie,disbelieved,the notion	billie,thought about,the notion	False
+bobbie,disagreed with,the conclusion	bobbie,thought about,the conclusion	False
+the court,forbade,marijuana	the court,made a decision on,marijuana	False
+the judge,prohibited,alcohol	the judge,made a decision on,alcohol	False
+the legislators,disallowed,gun ownership	the legislators,made a decision on,gun ownership	False
+the judge,proscribed,smoking	the judge,made a decision on,smoking	False
+germany,forbade,marijuana	germany,made a decision on,marijuana	False
+singapore,illegalized,marijuana	singapore,made a decision on,marijuana	False
+the legislators,permitted,smoking	the legislators,made a decision on,smoking	False
+australia,allowed,the protest	australia,made a decision on,the protest	False
+the court,tolerated,the protest	the court,made a decision on,the protest	False
+singapore,accepted,alcohol	singapore,made a decision on,alcohol	False
+germany,decriminalized,marijuana	germany,made a decision on,marijuana	False
+mexico,sanctioned,gun ownership	mexico,made a decision on,gun ownership	False
+the court,forbade,prostitution	the court,decided on,prostitution	False
+the legislators,prohibited,gun ownership	the legislators,decided on,gun ownership	False
+germany,disallowed,gun ownership	germany,decided on,gun ownership	False
+the court,proscribed,the protest	the court,decided on,the protest	False
+mexico,forbade,marijuana	mexico,decided on,marijuana	False
+the ruler,illegalized,gun ownership	the ruler,decided on,gun ownership	False
+the court,permitted,abortion	the court,decided on,abortion	False
+germany,allowed,alcohol	germany,decided on,alcohol	False
+columbia,tolerated,gun ownership	columbia,decided on,gun ownership	False
+australia,accepted,prostitution	australia,decided on,prostitution	False
+mexico,decriminalized,marijuana	mexico,decided on,marijuana	False
+the judge,sanctioned,prostitution	the judge,decided on,prostitution	False
+the legislators,forbade,prostitution	the legislators,thought about,prostitution	False
+the court,prohibited,alcohol	the court,thought about,alcohol	False
+australia,disallowed,marijuana	australia,thought about,marijuana	False
+the court,proscribed,gun ownership	the court,thought about,gun ownership	False
+the legislators,forbade,abortion	the legislators,thought about,abortion	False
+the court,illegalized,smoking	the court,thought about,smoking	False
+germany,permitted,the protest	germany,thought about,the protest	False
+germany,allowed,smoking	germany,thought about,smoking	False
+australia,tolerated,gun ownership	australia,thought about,gun ownership	False
+germany,accepted,abortion	germany,thought about,abortion	False
+germany,decriminalized,abortion	germany,thought about,abortion	False
+the court,sanctioned,gun ownership	the court,thought about,gun ownership	False
+the ruler,forbade,the protest	the ruler,ruled on,the protest	False
+the judge,prohibited,alcohol	the judge,ruled on,alcohol	False
+the judge,disallowed,prostitution	the judge,ruled on,prostitution	False
+mexico,proscribed,alcohol	mexico,ruled on,alcohol	False
+australia,forbade,gun ownership	australia,ruled on,gun ownership	False
+the judge,illegalized,abortion	the judge,ruled on,abortion	False
+the court,permitted,prostitution	the court,ruled on,prostitution	False
+the judge,allowed,smoking	the judge,ruled on,smoking	False
+the ruler,tolerated,alcohol	the ruler,ruled on,alcohol	False
+australia,accepted,alcohol	australia,ruled on,alcohol	False
+columbia,decriminalized,alcohol	columbia,ruled on,alcohol	False
+singapore,sanctioned,marijuana	singapore,ruled on,marijuana	False
+the judge,forbade,prostitution	the judge,had an opinion about,prostitution	False
+singapore,prohibited,abortion	singapore,had an opinion about,abortion	False
+germany,disallowed,the protest	germany,had an opinion about,the protest	False
+columbia,proscribed,prostitution	columbia,had an opinion about,prostitution	False
+the legislators,forbade,the protest	the legislators,had an opinion about,the protest	False
+columbia,illegalized,abortion	columbia,had an opinion about,abortion	False
+columbia,permitted,prostitution	columbia,had an opinion about,prostitution	False
+the ruler,allowed,gun ownership	the ruler,had an opinion about,gun ownership	False
+the judge,tolerated,abortion	the judge,had an opinion about,abortion	False
+the legislators,accepted,the protest	the legislators,had an opinion about,the protest	False
+the judge,decriminalized,marijuana	the judge,had an opinion about,marijuana	False
+singapore,sanctioned,gun ownership	singapore,had an opinion about,gun ownership	False
+the court,forbade,the protest	the court,took a stance on,the protest	False
+the court,prohibited,smoking	the court,took a stance on,smoking	False
+the judge,disallowed,prostitution	the judge,took a stance on,prostitution	False
+australia,proscribed,gun ownership	australia,took a stance on,gun ownership	False
+the court,forbade,prostitution	the court,took a stance on,prostitution	False
+columbia,illegalized,gun ownership	columbia,took a stance on,gun ownership	False
+the ruler,permitted,marijuana	the ruler,took a stance on,marijuana	False
+singapore,allowed,gun ownership	singapore,took a stance on,gun ownership	False
+germany,tolerated,gun ownership	germany,took a stance on,gun ownership	False
+singapore,accepted,the protest	singapore,took a stance on,the protest	False
+the legislators,decriminalized,the protest	the legislators,took a stance on,the protest	False
+germany,sanctioned,prostitution	germany,took a stance on,prostitution	False
+the legislators,forbade,abortion	the legislators,passed judgement on,abortion	False
+singapore,prohibited,alcohol	singapore,passed judgement on,alcohol	False
+mexico,disallowed,prostitution	mexico,passed judgement on,prostitution	False
+the ruler,proscribed,alcohol	the ruler,passed judgement on,alcohol	False
+australia,forbade,marijuana	australia,passed judgement on,marijuana	False
+mexico,illegalized,prostitution	mexico,passed judgement on,prostitution	False
+columbia,permitted,alcohol	columbia,passed judgement on,alcohol	False
+singapore,allowed,prostitution	singapore,passed judgement on,prostitution	False
+germany,tolerated,alcohol	germany,passed judgement on,alcohol	False
+the ruler,accepted,abortion	the ruler,passed judgement on,abortion	False
+the ruler,decriminalized,gun ownership	the ruler,passed judgement on,gun ownership	False
+singapore,sanctioned,smoking	singapore,passed judgement on,smoking	False
+mexico,forbade,alcohol	mexico,discussed,alcohol	False
+australia,prohibited,prostitution	australia,discussed,prostitution	False
+singapore,disallowed,smoking	singapore,discussed,smoking	False
+mexico,proscribed,marijuana	mexico,discussed,marijuana	False
+the court,forbade,abortion	the court,discussed,abortion	False
+singapore,illegalized,the protest	singapore,discussed,the protest	False
+the ruler,permitted,marijuana	the ruler,discussed,marijuana	False
+columbia,allowed,the protest	columbia,discussed,the protest	False
+the court,tolerated,gun ownership	the court,discussed,gun ownership	False
+mexico,accepted,alcohol	mexico,discussed,alcohol	False
+mexico,decriminalized,abortion	mexico,discussed,abortion	False
+germany,sanctioned,gun ownership	germany,discussed,gun ownership	False
+columbia,forbade,abortion	columbia,debated,abortion	False
+mexico,prohibited,alcohol	mexico,debated,alcohol	False
+mexico,disallowed,gun ownership	mexico,debated,gun ownership	False
+the judge,proscribed,alcohol	the judge,debated,alcohol	False
+australia,forbade,abortion	australia,debated,abortion	False
+columbia,illegalized,smoking	columbia,debated,smoking	False
+the court,permitted,the protest	the court,debated,the protest	False
+the ruler,allowed,prostitution	the ruler,debated,prostitution	False
+the judge,tolerated,the protest	the judge,debated,the protest	False
+germany,accepted,alcohol	germany,debated,alcohol	False
+singapore,decriminalized,prostitution	singapore,debated,prostitution	False
+the legislators,sanctioned,smoking	the legislators,debated,smoking	False
+frankie,accepted,the invitation	frankie,considered,the invitation	False
+billie,agreed to,the offer	billie,considered,the offer	False
+robin,refused,the invitation	robin,considered,the invitation	False
+jamie,declined,the offer	jamie,considered,the offer	False
+elliot,rejected,the invitation	elliot,considered,the invitation	False
+kelly,turned down,the proposal	kelly,considered,the proposal	False
+andy,accepted,the proposal	andy,was given,the proposal	False
+alex,agreed to,the offer	alex,was given,the offer	False
+billie,refused,the proposal	billie,was given,the proposal	False
+gale,declined,the proposal	gale,was given,the proposal	False
+bobbie,rejected,the proposal	bobbie,was given,the proposal	False
+andy,turned down,the offer	andy,was given,the offer	False
+billie,accepted,the proposal	billie,received,the proposal	False
+sam,agreed to,the proposal	sam,received,the proposal	False
+jean,refused,the proposal	jean,received,the proposal	False
+andy,declined,the offer	andy,received,the offer	False
+frankie,rejected,the proposal	frankie,received,the proposal	False
+ali,turned down,the offer	ali,received,the offer	False
+jamie,accepted,the offer	jamie,responded to,the offer	False
+ali,agreed to,the proposal	ali,responded to,the proposal	False
+aiden,refused,the invitation	aiden,responded to,the invitation	False
+jamie,declined,the invitation	jamie,responded to,the invitation	False
+jean,rejected,the offer	jean,responded to,the offer	False
+sam,turned down,the offer	sam,responded to,the offer	False
+billie,accepted,the proposal	billie,reacted to,the proposal	False
+robin,agreed to,the offer	robin,reacted to,the offer	False
+frankie,refused,the offer	frankie,reacted to,the offer	False
+ali,declined,the proposal	ali,reacted to,the proposal	False
+casey,rejected,the invitation	casey,reacted to,the invitation	False
+charlie,turned down,the proposal	charlie,reacted to,the proposal	False
+andy,accepted,the proposal	andy,replied to,the proposal	False
+sam,agreed to,the offer	sam,replied to,the offer	False
+frankie,refused,the proposal	frankie,replied to,the proposal	False
+cameron,declined,the proposal	cameron,replied to,the proposal	False
+sam,rejected,the invitation	sam,replied to,the invitation	False
+bobbie,turned down,the proposal	bobbie,replied to,the proposal	False
+ashley,downgraded,the server	ashley,changed,the server	False
+morgan,upgraded,the server	morgan,changed,the server	False
+robin,enhanced,the server	robin,changed,the server	False
+jamie,improved,the server	jamie,changed,the server	False
+cameron,downgraded,the car	cameron,modified,the car	False
+ali,upgraded,the car	ali,modified,the car	False
+ashley,enhanced,the server	ashley,modified,the server	False
+alex,improved,the server	alex,modified,the server	False
+ali,downgraded,the car	ali,maintained,the car	False
+robin,upgraded,the car	robin,maintained,the car	False
+ali,enhanced,the car	ali,maintained,the car	False
+morgan,improved,the car	morgan,maintained,the car	False
+the researcher,disproved,the conjecture	the researcher,studied,the conjecture	False
+the biologist,refuted,the premise	the biologist,studied,the premise	False
+the professor,shot down,the conjecture	the professor,studied,the conjecture	False
+the historian,debunked,the conjecture	the historian,studied,the conjecture	False
+the researcher,discredited,the premise	the researcher,studied,the premise	False
+the biologist,proved,the hypothesis	the biologist,studied,the hypothesis	False
+the sociologist,confirmed,the thesis	the sociologist,studied,the thesis	False
+the researcher,validated,the theory	the researcher,studied,the theory	False
+the professor,verified,the conjecture	the professor,studied,the conjecture	False
+the researcher,disproved,the conjecture	the researcher,considered,the conjecture	False
+the biologist,refuted,the theorem	the biologist,considered,the theorem	False
+the historian,shot down,the hypothesis	the historian,considered,the hypothesis	False
+the mathematician,debunked,the premise	the mathematician,considered,the premise	False
+the researcher,discredited,the thesis	the researcher,considered,the thesis	False
+the professor,proved,the hypothesis	the professor,considered,the hypothesis	False
+the student,confirmed,the thesis	the student,considered,the thesis	False
+the biologist,validated,the conjecture	the biologist,considered,the conjecture	False
+the professor,verified,the theory	the professor,considered,the theory	False
+the researcher,disproved,the premise	the researcher,tried out,the premise	False
+the investigator,refuted,the conjecture	the investigator,tried out,the conjecture	False
+the sociologist,shot down,the hypothesis	the sociologist,tried out,the hypothesis	False
+the mathematician,debunked,the hypothesis	the mathematician,tried out,the hypothesis	False
+the investigator,discredited,the theory	the investigator,tried out,the theory	False
+the historian,proved,the theorem	the historian,tried out,the theorem	False
+the sociologist,confirmed,the premise	the sociologist,tried out,the premise	False
+the sociologist,validated,the theorem	the sociologist,tried out,the theorem	False
+the sociologist,verified,the theorem	the sociologist,tried out,the theorem	False
+the professor,disproved,the conjecture	the professor,evaluated,the conjecture	False
+the historian,refuted,the hypothesis	the historian,evaluated,the hypothesis	False
+the sociologist,shot down,the theorem	the sociologist,evaluated,the theorem	False
+the sociologist,debunked,the premise	the sociologist,evaluated,the premise	False
+the historian,discredited,the theory	the historian,evaluated,the theory	False
+the mathematician,proved,the premise	the mathematician,evaluated,the premise	False
+the student,confirmed,the theory	the student,evaluated,the theory	False
+the biologist,validated,the thesis	the biologist,evaluated,the thesis	False
+the experimenter,verified,the thesis	the experimenter,evaluated,the thesis	False
+the mathematician,disproved,the hypothesis	the mathematician,researched,the hypothesis	False
+the experimenter,refuted,the theory	the experimenter,researched,the theory	False
+the experimenter,shot down,the thesis	the experimenter,researched,the thesis	False
+the investigator,debunked,the thesis	the investigator,researched,the thesis	False
+the mathematician,discredited,the conjecture	the mathematician,researched,the conjecture	False
+the student,proved,the conjecture	the student,researched,the conjecture	False
+the historian,confirmed,the hypothesis	the historian,researched,the hypothesis	False
+the professor,validated,the theory	the professor,researched,the theory	False
+the sociologist,verified,the thesis	the sociologist,researched,the thesis	False
+the sociologist,disproved,the hypothesis	the sociologist,thought about,the hypothesis	False
+the biologist,refuted,the hypothesis	the biologist,thought about,the hypothesis	False
+the professor,shot down,the thesis	the professor,thought about,the thesis	False
+the researcher,debunked,the hypothesis	the researcher,thought about,the hypothesis	False
+the experimenter,discredited,the premise	the experimenter,thought about,the premise	False
+the experimenter,proved,the conjecture	the experimenter,thought about,the conjecture	False
+the researcher,confirmed,the theory	the researcher,thought about,the theory	False
+the biologist,validated,the theory	the biologist,thought about,the theory	False
+the mathematician,verified,the conjecture	the mathematician,thought about,the conjecture	False
+kelly,affirmed,the idea	kelly,thought about,the idea	False
+frankie,asserted,the idea	frankie,thought about,the idea	False
+gale,confirmed,the theorem	gale,thought about,the theorem	False
+jamie,negated,the conjecture	jamie,thought about,the conjecture	False
+billie,disclaimed,the conclusion	billie,thought about,the conclusion	False
+cameron,rejected,the conclusion	cameron,thought about,the conclusion	False
+jackie,contradicted,the theory	jackie,thought about,the theory	False
+frankie,denied,the idea	frankie,thought about,the idea	False
+ali,refuted,the theorem	ali,thought about,the theorem	False
+ashley,believed,the notion	ashley,thought over,the notion	False
+sam,accepted,the conclusion	sam,thought over,the conclusion	False
+ashley,credited,the notion	ashley,thought over,the notion	False
+andy,trusted,the conclusion	andy,thought over,the conclusion	False
+gael,disbelieved,the conclusion	gael,thought over,the conclusion	False
+gael,discredited,the conclusion	gael,thought over,the conclusion	False
+charlie,rejected,the conclusion	charlie,thought over,the conclusion	False
+jean,believed,the idea	jean,thought about,the idea	False
+cameron,accepted,the idea	cameron,thought about,the idea	False
+jackie,credited,the conclusion	jackie,thought about,the conclusion	False
+aiden,trusted,the conclusion	aiden,thought about,the conclusion	False
+aiden,disbelieved,the idea	aiden,thought about,the idea	False
+elliot,discredited,the idea	elliot,thought about,the idea	False
+cameron,rejected,the notion	cameron,thought about,the notion	False
+frankie,believed,the idea	frankie,considered,the idea	False
+alex,accepted,the conclusion	alex,considered,the conclusion	False
+morgan,credited,the conclusion	morgan,considered,the conclusion	False
+gale,trusted,the idea	gale,considered,the idea	False
+elliot,disbelieved,the notion	elliot,considered,the notion	False
+charlie,discredited,the conclusion	charlie,considered,the conclusion	False
+jamie,rejected,the conclusion	jamie,considered,the conclusion	False
+alex,distrusted,billie	alex,knew,billie	False
+jean,mistrusted,alex	jean,knew,alex	False
+kelly,doubted,aiden	kelly,knew,aiden	False
+jackie,suspected,jean	jackie,knew,jean	False
+sam,disbelieved,ali	sam,knew,ali	False
+bobbie,trusted,frankie	bobbie,knew,frankie	False
+alex,believed,jean	alex,knew,jean	False
+bobbie,distrusted,cameron	bobbie,thought about,cameron	False
+bobbie,mistrusted,gael	bobbie,thought about,gael	False
+cameron,doubted,billie	cameron,thought about,billie	False
+elliot,suspected,gael	elliot,thought about,gael	False
+billie,disbelieved,ashley	billie,thought about,ashley	False
+elliot,trusted,sam	elliot,thought about,sam	False
+ali,believed,gale	ali,thought about,gale	False
+kelly,disrespected,jackie	kelly,knew,jackie	False
+charlie,looked down on,jackie	charlie,knew,jackie	False
+charlie,respected,jamie	charlie,knew,jamie	False
+andy,looked up to,frankie	andy,knew,frankie	False
+alex,disrespected,gale	alex,had an opinion of,gale	False
+aiden,looked down on,ali	aiden,had an opinion of,ali	False
+frankie,respected,billie	frankie,had an opinion of,billie	False
+alex,looked up to,ashley	alex,had an opinion of,ashley	False
+jean,disrespected,cameron	jean,judged,cameron	False
+frankie,looked down on,billie	frankie,judged,billie	False
+robin,respected,morgan	robin,judged,morgan	False
+gael,looked up to,elliot	gael,judged,elliot	False
+sam,disrespected,andy	sam,interacted with,andy	False
+jean,looked down on,kelly	jean,interacted with,kelly	False
+casey,respected,frankie	casey,interacted with,frankie	False
+jamie,looked up to,ashley	jamie,interacted with,ashley	False
+ali,dishonored,jackie	ali,had an opinion of,jackie	False
+andy,shamed,frankie	andy,had an opinion of,frankie	False
+elliot,disreputed,cameron	elliot,had an opinion of,cameron	False
+jamie,disrespected,ashley	jamie,had an opinion of,ashley	False
+sam,honored,robin	sam,had an opinion of,robin	False
+elliot,respected,gale	elliot,had an opinion of,gale	False
+alex,admired,ali	alex,had an opinion of,ali	False
+kelly,dishonored,cameron	kelly,knew,cameron	False
+ali,shamed,jean	ali,knew,jean	False
+morgan,disreputed,billie	morgan,knew,billie	False
+aiden,disrespected,jamie	aiden,knew,jamie	False
+frankie,honored,gale	frankie,knew,gale	False
+frankie,respected,charlie	frankie,knew,charlie	False
+alex,admired,gale	alex,knew,gale	False
+jeff bezos,dishonored,an agreement	jeff bezos,had,an agreement	False
+walmart,disrespected,an agreement	walmart,had,an agreement	False
+bosch,honored,an agreement	bosch,had,an agreement	False
+aiden,respected,an agreement	aiden,had,an agreement	False
+gale,dissuaded,casey	gale,discussed with,casey	False
+aiden,discouraged,cameron	aiden,discussed with,cameron	False
+casey,persuaded,billie	casey,discussed with,billie	False
+andy,convinced,aiden	andy,discussed with,aiden	False
+charlie,won over,aiden	charlie,discussed with,aiden	False
+cameron,dissuaded,bobbie	cameron,talked to,bobbie	False
+aiden,discouraged,bobbie	aiden,talked to,bobbie	False
+gale,persuaded,kelly	gale,talked to,kelly	False
+gael,convinced,frankie	gael,talked to,frankie	False
+robin,won over,elliot	robin,talked to,elliot	False
+bobbie,dissuaded,aiden	bobbie,argued with,aiden	False
+gael,discouraged,jamie	gael,argued with,jamie	False
+billie,persuaded,sam	billie,argued with,sam	False
+cameron,convinced,jackie	cameron,argued with,jackie	False
+ali,won over,cameron	ali,argued with,cameron	False
+andy,dissuaded,gale	andy,reasoned with,gale	False
+morgan,discouraged,ali	morgan,reasoned with,ali	False
+ali,persuaded,cameron	ali,reasoned with,cameron	False
+jamie,convinced,andy	jamie,reasoned with,andy	False
+casey,won over,kelly	casey,reasoned with,kelly	False
+jackie,avoided,an obstacle	jackie,was aware of,an obstacle	False
+aiden,confronted,the issue	aiden,was aware of,the issue	False
+robin,faced,a problem	robin,was aware of,a problem	False
+aiden,contended with,the issue	aiden,was aware of,the issue	False
+billie,criticized,casey	billie,singled out,casey	False
+frankie,put down,kelly	frankie,singled out,kelly	False
+cameron,reprimanded,billie	cameron,singled out,billie	False
+robin,rebuked,jean	robin,singled out,jean	False
+cameron,praised,ali	cameron,singled out,ali	False
+sam,applauded,andy	sam,singled out,andy	False
+andy,commended,casey	andy,singled out,casey	False
+robin,hailed,jackie	robin,singled out,jackie	False
+ali,lauded,charlie	ali,singled out,charlie	False
+bobbie,criticized,elliot	bobbie,made mention of,elliot	False
+jean,put down,aiden	jean,made mention of,aiden	False
+ali,reprimanded,ashley	ali,made mention of,ashley	False
+jean,rebuked,elliot	jean,made mention of,elliot	False
+aiden,praised,cameron	aiden,made mention of,cameron	False
+andy,applauded,kelly	andy,made mention of,kelly	False
+aiden,commended,morgan	aiden,made mention of,morgan	False
+jean,hailed,alex	jean,made mention of,alex	False
+elliot,lauded,frankie	elliot,made mention of,frankie	False
+jamie,criticized,alex	jamie,mentioned,alex	False
+frankie,put down,robin	frankie,mentioned,robin	False
+charlie,reprimanded,sam	charlie,mentioned,sam	False
+morgan,rebuked,aiden	morgan,mentioned,aiden	False
+jamie,praised,aiden	jamie,mentioned,aiden	False
+robin,applauded,jackie	robin,mentioned,jackie	False
+cameron,commended,gale	cameron,mentioned,gale	False
+frankie,hailed,jackie	frankie,mentioned,jackie	False
+ashley,lauded,elliot	ashley,mentioned,elliot	False
+bobbie,criticized,kelly	bobbie,commented on,kelly	False
+jamie,put down,sam	jamie,commented on,sam	False
+cameron,reprimanded,frankie	cameron,commented on,frankie	False
+morgan,rebuked,billie	morgan,commented on,billie	False
+cameron,praised,andy	cameron,commented on,andy	False
+gael,applauded,jamie	gael,commented on,jamie	False
+billie,commended,jamie	billie,commented on,jamie	False
+jamie,hailed,bobbie	jamie,commented on,bobbie	False
+morgan,lauded,frankie	morgan,commented on,frankie	False
+ali,criticized,cameron	ali,noticed,cameron	False
+ashley,put down,ali	ashley,noticed,ali	False
+morgan,reprimanded,casey	morgan,noticed,casey	False
+alex,rebuked,cameron	alex,noticed,cameron	False
+cameron,praised,ali	cameron,noticed,ali	False
+sam,applauded,morgan	sam,noticed,morgan	False
+gael,commended,sam	gael,noticed,sam	False
+bobbie,hailed,kelly	bobbie,noticed,kelly	False
+ali,lauded,alex	ali,noticed,alex	False
+gale,criticized,jean	gale,passed judgement on,jean	False
+ali,put down,gale	ali,passed judgement on,gale	False
+robin,reprimanded,charlie	robin,passed judgement on,charlie	False
+ali,rebuked,sam	ali,passed judgement on,sam	False
+elliot,praised,jean	elliot,passed judgement on,jean	False
+cameron,applauded,alex	cameron,passed judgement on,alex	False
+aiden,commended,elliot	aiden,passed judgement on,elliot	False
+ali,hailed,gael	ali,passed judgement on,gael	False
+billie,lauded,robin	billie,passed judgement on,robin	False
+casey,criticized,jean	casey,judged,jean	False
+jean,put down,frankie	jean,judged,frankie	False
+frankie,reprimanded,sam	frankie,judged,sam	False
+kelly,rebuked,alex	kelly,judged,alex	False
+andy,praised,aiden	andy,judged,aiden	False
+kelly,applauded,jean	kelly,judged,jean	False
+kelly,commended,gale	kelly,judged,gale	False
+billie,hailed,andy	billie,judged,andy	False
+robin,lauded,gael	robin,judged,gael	False
+the judge,absolved,jean	the judge,dealt with,jean	False
+the judge,blamed,aiden	the judge,dealt with,aiden	False
+the judge,accused,gael	the judge,dealt with,gael	False
+the court,absolved,jackie	the court,knew about,jackie	False
+the judge,blamed,aiden	the judge,knew about,aiden	False
+the court,accused,jackie	the court,knew about,jackie	False
+the judge,absolved,gael	the judge,judged,gael	False
+the court,blamed,jean	the court,judged,jean	False
+the court,accused,cameron	the court,judged,cameron	False
+the judge,absolved,cameron	the judge,decided about,cameron	False
+the judge,blamed,sam	the judge,decided about,sam	False
+the judge,accused,billie	the judge,decided about,billie	False
+bobbie,disparaged,gale	bobbie,talked to,gale	False
+frankie,belittled,alex	frankie,talked to,alex	False
+charlie,flattered,jean	charlie,talked to,jean	False
+cameron,disparaged,kelly	cameron,gave an opinion of,kelly	False
+morgan,belittled,kelly	morgan,gave an opinion of,kelly	False
+jean,flattered,jamie	jean,gave an opinion of,jamie	False
+the witch,blessed,elliot	the witch,affected,elliot	False
+the witch,cursed,cameron	the witch,affected,cameron	False
+the witch,blessed,gael	the witch,thought about,gael	False
+the witch,cursed,ali	the witch,thought about,ali	False
+the court,acquitted,bobbie	the court,indicted,bobbie	False
+the judge,absolved,ali	the judge,indicted,ali	False
+the court,cleared,robin	the court,indicted,robin	False
+the court,exonerated,alex	the court,indicted,alex	False
+the court,convicted,sam	the court,indicted,sam	False
+the judge,incriminated,gael	the judge,indicted,gael	False
+the judge,acquitted,gael	the judge,charged,gael	False
+the judge,absolved,robin	the judge,charged,robin	False
+the judge,cleared,ali	the judge,charged,ali	False
+the court,exonerated,alex	the court,charged,alex	False
+the judge,convicted,robin	the judge,charged,robin	False
+the judge,incriminated,elliot	the judge,charged,elliot	False
+the judge,acquitted,gael	the judge,accused,gael	False
+the judge,absolved,ali	the judge,accused,ali	False
+the judge,cleared,gale	the judge,accused,gale	False
+the judge,exonerated,bobbie	the judge,accused,bobbie	False
+the court,convicted,bobbie	the court,accused,bobbie	False
+the judge,incriminated,aiden	the judge,accused,aiden	False
+the court,acquitted,elliot	the court,judged,elliot	False
+the court,absolved,kelly	the court,judged,kelly	False
+the judge,cleared,cameron	the judge,judged,cameron	False
+the court,exonerated,jamie	the court,judged,jamie	False
+the judge,convicted,gael	the judge,judged,gael	False
+the court,incriminated,jean	the court,judged,jean	False
+the court,acquitted,gael	the court,made a decisioned about,gael	False
+the court,absolved,cameron	the court,made a decisioned about,cameron	False
+the court,cleared,bobbie	the court,made a decisioned about,bobbie	False
+the court,exonerated,cameron	the court,made a decisioned about,cameron	False
+the court,convicted,aiden	the court,made a decisioned about,aiden	False
+the court,incriminated,cameron	the court,made a decisioned about,cameron	False
+the court,acquitted,billie	the court,examined,billie	False
+the court,absolved,frankie	the court,examined,frankie	False
+the court,cleared,frankie	the court,examined,frankie	False
+the court,exonerated,alex	the court,examined,alex	False
+the court,convicted,elliot	the court,examined,elliot	False
+the judge,incriminated,robin	the judge,examined,robin	False
+the court,acquitted,ashley	the court,addressed,ashley	False
+the court,absolved,cameron	the court,addressed,cameron	False
+the court,cleared,gale	the court,addressed,gale	False
+the judge,exonerated,frankie	the judge,addressed,frankie	False
+the court,convicted,elliot	the court,addressed,elliot	False
+the judge,incriminated,elliot	the judge,addressed,elliot	False
+kelly,was acquitted of,the crime	kelly,stood trial for,the crime	False
+ashley,was absolved of,burglary	ashley,stood trial for,burglary	False
+aiden,was cleared of,vandalism	aiden,stood trial for,vandalism	False
+gael,was exonerated of,the theft	gael,stood trial for,the theft	False
+kelly,was convicted of,forgery	kelly,stood trial for,forgery	False
+sam,was acquitted of,manslaughter	sam,was arrested for,manslaughter	False
+sam,was absolved of,kidnapping	sam,was arrested for,kidnapping	False
+cameron,was cleared of,kidnapping	cameron,was arrested for,kidnapping	False
+kelly,was exonerated of,arson	kelly,was arrested for,arson	False
+billie,was convicted of,kidnapping	billie,was arrested for,kidnapping	False
+sam,was acquitted of,kidnapping	sam,was indicted for,kidnapping	False
+jackie,was absolved of,kidnapping	jackie,was indicted for,kidnapping	False
+jean,was cleared of,the crime	jean,was indicted for,the crime	False
+aiden,was exonerated of,fraud	aiden,was indicted for,fraud	False
+morgan,was convicted of,the robbery	morgan,was indicted for,the robbery	False
+casey,was acquitted of,the robbery	casey,was charged with,the robbery	False
+alex,was absolved of,fraud	alex,was charged with,fraud	False
+bobbie,was cleared of,manslaughter	bobbie,was charged with,manslaughter	False
+alex,was exonerated of,the theft	alex,was charged with,the theft	False
+bobbie,was convicted of,burglary	bobbie,was charged with,burglary	False
+casey,was acquitted of,burglary	casey,was accused of,burglary	False
+frankie,was absolved of,vandalism	frankie,was accused of,vandalism	False
+sam,was cleared of,vandalism	sam,was accused of,vandalism	False
+charlie,was exonerated of,manslaughter	charlie,was accused of,manslaughter	False
+ashley,was convicted of,the theft	ashley,was accused of,the theft	False
+gale,was acquitted of,burglary	gale,was apprehended for,burglary	False
+aiden,was absolved of,the theft	aiden,was apprehended for,the theft	False
+ali,was cleared of,kidnapping	ali,was apprehended for,kidnapping	False
+jamie,was exonerated of,murder	jamie,was apprehended for,murder	False
+gael,was convicted of,the theft	gael,was apprehended for,the theft	False
+ali,shouted,the response	ali,said,the response	False
+gael,yelled,the command	gael,said,the command	False
+andy,called out,the command	andy,said,the command	False
+morgan,whispered,an insult	morgan,said,an insult	False
+jamie,murmured,an insult	jamie,said,an insult	False
+casey,shouted,an insult	casey,communicated,an insult	False
+robin,yelled,the command	robin,communicated,the command	False
+jean,called out,an insult	jean,communicated,an insult	False
+robin,whispered,an insult	robin,communicated,an insult	False
+casey,murmured,an insult	casey,communicated,an insult	False
+alex,shouted,the response	alex,verbalized,the response	False
+gale,yelled,an insult	gale,verbalized,an insult	False
+charlie,called out,the question	charlie,verbalized,the question	False
+frankie,whispered,the response	frankie,verbalized,the response	False
+gael,murmured,an insult	gael,verbalized,an insult	False
+casey,shouted,the question	casey,uttered,the question	False
+robin,yelled,the question	robin,uttered,the question	False
+gael,called out,the response	gael,uttered,the response	False
+elliot,whispered,the response	elliot,uttered,the response	False
+andy,murmured,the question	andy,uttered,the question	False
+ali,clarified,the meaning	ali,talked about,the meaning	False
+gael,cleared up,the facts	gael,talked about,the facts	False
+morgan,explained,the details	morgan,talked about,the details	False
+elliot,spelled out,the facts	elliot,talked about,the facts	False
+sam,obfuscated,the facts	sam,talked about,the facts	False
+billie,obscured,the details	billie,talked about,the details	False
+jean,clarified,the issues	jean,knew,the issues	False
+jamie,cleared up,the meaning	jamie,knew,the meaning	False
+robin,explained,the meaning	robin,knew,the meaning	False
+alex,spelled out,the issues	alex,knew,the issues	False
+ashley,obfuscated,the issues	ashley,knew,the issues	False
+alex,obscured,the facts	alex,knew,the facts	False
+the mathematician,generalized,the category	the mathematician,described,the category	False
+the investigator,specified,the idea	the investigator,described,the idea	False
+the sociologist,generalized,the idea	the sociologist,modified,the idea	False
+the sociologist,specified,the concept	the sociologist,modified,the concept	False
+the experimenter,generalized,the idea	the experimenter,understood,the idea	False
+the sociologist,specified,the idea	the sociologist,understood,the idea	False
+the netherlands,made peace with,brazil	the netherlands,interacted with,brazil	False
+great britain,warred against,the netherlands	great britain,interacted with,the netherlands	False
+brazil,fought,kenya	brazil,interacted with,kenya	False
+russia,battled,australia	russia,interacted with,australia	False
+america,attacked,kenya	america,interacted with,kenya	False
+france,went to war with,iran	france,interacted with,iran	False
+chuck norris,resisted,jackie chan	chuck norris,interacted with,jackie chan	False
+bruce lee,fought,mike tyson	bruce lee,interacted with,mike tyson	False
+chuck norris,held off,bruce lee	chuck norris,interacted with,bruce lee	False
+mike tyson,battled,chuck norris	mike tyson,interacted with,chuck norris	False
+michelle yeoh,faced,chuck norris	michelle yeoh,interacted with,chuck norris	False
+bruce lee,opposed,michelle yeoh	bruce lee,interacted with,michelle yeoh	False
+mike tyson,withstood,muhammad ali	mike tyson,interacted with,muhammad ali	False
+muhammad ali,surrendered to,floyd mayweather	muhammad ali,interacted with,floyd mayweather	False
+michelle yeoh,forfeited to,bruce lee	michelle yeoh,interacted with,bruce lee	False
+michelle yeoh,ceded to,muhammad ali	michelle yeoh,interacted with,muhammad ali	False
+bruce lee,gave up against,jackie chan	bruce lee,interacted with,jackie chan	False
+mike tyson,gave in to,jackie chan	mike tyson,interacted with,jackie chan	False
+chuck norris,succumbed to,michelle yeoh	chuck norris,interacted with,michelle yeoh	False
+chuck norris,capitulate to,jackie chan	chuck norris,interacted with,jackie chan	False
+muhammad ali,yielded to,floyd mayweather	muhammad ali,interacted with,floyd mayweather	False
+floyd mayweather,resisted,jackie chan	floyd mayweather,competed with,jackie chan	False
+jackie chan,fought,floyd mayweather	jackie chan,competed with,floyd mayweather	False
+michelle yeoh,held off,bruce lee	michelle yeoh,competed with,bruce lee	False
+chuck norris,battled,michelle yeoh	chuck norris,competed with,michelle yeoh	False
+jackie chan,faced,bruce lee	jackie chan,competed with,bruce lee	False
+jackie chan,opposed,muhammad ali	jackie chan,competed with,muhammad ali	False
+bruce lee,withstood,muhammad ali	bruce lee,competed with,muhammad ali	False
+mike tyson,surrendered to,bruce lee	mike tyson,competed with,bruce lee	False
+chuck norris,forfeited to,bruce lee	chuck norris,competed with,bruce lee	False
+muhammad ali,ceded to,jackie chan	muhammad ali,competed with,jackie chan	False
+bruce lee,gave up against,jackie chan	bruce lee,competed with,jackie chan	False
+jackie chan,gave in to,chuck norris	jackie chan,competed with,chuck norris	False
+mike tyson,succumbed to,jackie chan	mike tyson,competed with,jackie chan	False
+jackie chan,capitulate to,michelle yeoh	jackie chan,competed with,michelle yeoh	False
+jackie chan,yielded to,muhammad ali	jackie chan,competed with,muhammad ali	False
+jackie,abstained from,alcohol	jackie,had an opinion about,alcohol	False
+kelly,consumed,meat	kelly,had an opinion about,meat	False
+morgan,ingested,drugs	morgan,had an opinion about,drugs	False
+jamie,hit,the goal	jamie,took aim at,the goal	False
+ali,achieved,the objective	ali,took aim at,the objective	False
+charlie,attained,the objective	charlie,took aim at,the objective	False
+jean,missed,the objective	jean,took aim at,the objective	False
+frankie,fell short of,the target	frankie,took aim at,the target	False
+elliot,failed,the objective	elliot,took aim at,the objective	False
+gale,hit,the goal	gale,tried for,the goal	False
+cameron,achieved,the objective	cameron,tried for,the objective	False
+billie,attained,the objective	billie,tried for,the objective	False
+gale,missed,the objective	gale,tried for,the objective	False
+andy,fell short of,the goal	andy,tried for,the goal	False
+andy,failed,the goal	andy,tried for,the goal	False
+kelly,dulled,a dagger	kelly,changed,a dagger	False
+alex,blunted,the knife	alex,changed,the knife	False
+ali,sharpened,the knife	ali,changed,the knife	False
+aiden,whetted,the bayonet	aiden,changed,the bayonet	False
+gael,honed,the sword	gael,changed,the sword	False
+gale,dulled,a dagger	gale,altered,a dagger	False
+ali,blunted,the bayonet	ali,altered,the bayonet	False
+ashley,sharpened,the sword	ashley,altered,the sword	False
+jean,whetted,the bayonet	jean,altered,the bayonet	False
+ashley,honed,the knife	ashley,altered,the knife	False
+andy,dulled,the knife	andy,affected,the knife	False
+jamie,blunted,the sword	jamie,affected,the sword	False
+jamie,sharpened,the blade	jamie,affected,the blade	False
+charlie,whetted,the sword	charlie,affected,the sword	False
+ali,honed,the knife	ali,affected,the knife	False
+billie,dulled,the blade	billie,modified,the blade	False
+kelly,blunted,the bayonet	kelly,modified,the bayonet	False
+ali,sharpened,the sword	ali,modified,the sword	False
+jackie,whetted,the sword	jackie,modified,the sword	False
+jamie,honed,the blade	jamie,modified,the blade	False
+cameron,roughened,the surface	cameron,changed,the surface	False
+bobbie,abraded,the wood	bobbie,changed,the wood	False
+ashley,smoothed,the stone	ashley,changed,the stone	False
+elliot,roughened,the surface	elliot,altered,the surface	False
+andy,abraded,the edge	andy,altered,the edge	False
+billie,smoothed,the edge	billie,altered,the edge	False
+robin,roughened,the wood	robin,affected,the wood	False
+gael,abraded,the edge	gael,affected,the edge	False
+gale,smoothed,the edge	gale,affected,the edge	False
+casey,roughened,the stone	casey,modified,the stone	False
+andy,abraded,the surface	andy,modified,the surface	False
+morgan,smoothed,the edge	morgan,modified,the edge	False
+gale,gathered,the seeds	gale,owned,the seeds	False
+bobbie,collected,the seeds	bobbie,owned,the seeds	False
+sam,spread,the seeds	sam,owned,the seeds	False
+alex,scattered,the seeds	alex,owned,the seeds	False
+gael,dispersed,the seeds	gael,owned,the seeds	False
+morgan,gathered,the feed	morgan,had,the feed	False
+kelly,collected,the feed	kelly,had,the feed	False
+ashley,spread,the seeds	ashley,had,the seeds	False
+jean,scattered,the seeds	jean,had,the seeds	False
+billie,dispersed,the seeds	billie,had,the seeds	False
+gael,brought,the table	gael,moved,the table	False
+gael,delivered,the sofa	gael,moved,the sofa	False
+gael,took away,the television	gael,moved,the television	False
+elliot,removed,the television	elliot,moved,the television	False
+gale,brought,the sofa	gale,transported,the sofa	False
+casey,delivered,the instrument	casey,transported,the instrument	False
+cameron,took away,the instrument	cameron,transported,the instrument	False
+casey,removed,the sofa	casey,transported,the sofa	False
+the machine,pulled,the carriage	the machine,moved,the carriage	False
+the machine,dragged,the carriage	the machine,moved,the carriage	False
+the train,hauled,the cart	the train,moved,the cart	False
+the car,towed,the cart	the car,moved,the cart	False
+the machine,pushed,the cart	the machine,moved,the cart	False
+the machine,pulled,the carriage	the machine,propelled,the carriage	False
+the machine,dragged,the car	the machine,propelled,the car	False
+the machine,hauled,the car	the machine,propelled,the car	False
+the tractor,towed,the car	the tractor,propelled,the car	False
+the machine,pushed,the carriage	the machine,propelled,the carriage	False
+aiden,freed,elliot	aiden,affected,elliot	False
+the political party,liberated,elliot	the political party,affected,elliot	False
+alex,released,bobbie	alex,affected,bobbie	False
+the authorities,unchained,billie	the authorities,affected,billie	False
+kelly,obstructed,elliot	kelly,affected,elliot	False
+gale,hampered,kelly	gale,affected,kelly	False
+the movement,hindered,billie	the movement,affected,billie	False
+the political party,held back,gael	the political party,affected,gael	False
+the advertisement,attracted,morgan	the advertisement,affected,morgan	False
+the advertisement,enticed,ashley	the advertisement,affected,ashley	False
+ashley,lured in,morgan	ashley,affected,morgan	False
+casey,drew in,gale	casey,affected,gale	False
+alex,repelled,morgan	alex,affected,morgan	False
+billie,repulsed,cameron	billie,affected,cameron	False
+alex,pushed back,gale	alex,affected,gale	False
+robin,warded off,jackie	robin,affected,jackie	False
+the conclusion,agitated,robin	the conclusion,affected,robin	False
+cameron,enticed,gale	cameron,affected,gale	False
+the notion,lured in,jamie	the notion,affected,jamie	False
+the notion,drew in,jackie	the notion,affected,jackie	False
+ali,calmed,robin	ali,affected,robin	False
+the notion,soothed,billie	the notion,affected,billie	False
+the conclusion,comforted,bobbie	the conclusion,affected,bobbie	False
+the notion,relaxed,elliot	the notion,affected,elliot	False
+frankie,pacified,cameron	frankie,affected,cameron	False
+the notion,reassured,elliot	the notion,affected,elliot	False
+the notion,agitated,cameron	the notion,impacted,cameron	False
+the notion,enticed,gael	the notion,impacted,gael	False
+cameron,lured in,billie	cameron,impacted,billie	False
+ashley,drew in,gale	ashley,impacted,gale	False
+the conclusion,calmed,aiden	the conclusion,impacted,aiden	False
+the conclusion,soothed,jamie	the conclusion,impacted,jamie	False
+the idea,comforted,robin	the idea,impacted,robin	False
+the idea,relaxed,aiden	the idea,impacted,aiden	False
+the notion,pacified,charlie	the notion,impacted,charlie	False
+the idea,reassured,morgan	the idea,impacted,morgan	False
+ashley,reassured,charlie	ashley,affected,charlie	False
+andy,calmed,gael	andy,affected,gael	False
+jackie,soothed,andy	jackie,affected,andy	False
+andy,appeased,jamie	andy,affected,jamie	False
+morgan,comforted,billie	morgan,affected,billie	False
+morgan,worried,charlie	morgan,affected,charlie	False
+aiden,bothered,kelly	aiden,affected,kelly	False
+morgan,disturbed,jackie	morgan,affected,jackie	False
+casey,perturbed,billie	casey,affected,billie	False
+charlie,upset,aiden	charlie,affected,aiden	False
+jamie,reassured,gael	jamie,interacted with,gael	False
+jackie,calmed,billie	jackie,interacted with,billie	False
+cameron,soothed,gale	cameron,interacted with,gale	False
+billie,appeased,jean	billie,interacted with,jean	False
+frankie,comforted,robin	frankie,interacted with,robin	False
+sam,worried,cameron	sam,interacted with,cameron	False
+ali,bothered,jean	ali,interacted with,jean	False
+alex,disturbed,elliot	alex,interacted with,elliot	False
+aiden,perturbed,sam	aiden,interacted with,sam	False
+alex,upset,elliot	alex,interacted with,elliot	False
+robin,hated,serena williams	robin,thought about,serena williams	False
+billie,detested,jackie	billie,thought about,jackie	False
+frankie,loathed,cameron	frankie,thought about,cameron	False
+ali,despised,morgan	ali,thought about,morgan	False
+andy,loved,jamie	andy,thought about,jamie	False
+ali,hated,serena williams	ali,had an opinion about,serena williams	False
+gael,detested,casey	gael,had an opinion about,casey	False
+gael,loathed,jamie	gael,had an opinion about,jamie	False
+ali,despised,frankie	ali,had an opinion about,frankie	False
+jamie,loved,gael	jamie,had an opinion about,gael	False
+aiden,disliked,jennifer lawrence	aiden,thought about,jennifer lawrence	False
+jackie,liked,swimming	jackie,thought about,swimming	False
+cameron,cared for,bill gates	cameron,thought about,bill gates	False
+ali,enjoyed,running	ali,thought about,running	False
+kelly,favoured,frankie	kelly,thought about,frankie	False
+gale,delighted in,swimming	gale,thought about,swimming	False
+billie,disliked,jean	billie,had an opinion about,jean	False
+ali,liked,heinz	ali,had an opinion about,heinz	False
+bobbie,cared for,dancing	bobbie,had an opinion about,dancing	False
+jean,enjoyed,swimming	jean,had an opinion about,swimming	False
+jamie,favoured,cycling	jamie,had an opinion about,cycling	False
+kelly,delighted in,swimming	kelly,had an opinion about,swimming	False
+charlie,despaired about,the future	charlie,thought about,the future	False
+gael,agonized over,the future	gael,thought about,the future	False
+aiden,had hope for,the future	aiden,thought about,the future	False
+the idea,cheered up,elliot	the idea,affected,elliot	False
+the notion,excited,aiden	the notion,affected,aiden	False
+the notion,delighted,casey	the notion,affected,casey	False
+the idea,weighed down,kelly	the idea,affected,kelly	False
+the conclusion,demoralized,elliot	the conclusion,affected,elliot	False
+the conclusion,deflated,ali	the conclusion,affected,ali	False
+jean,discouraged,frankie	jean,affected,frankie	False
+ali,disheartened,robin	ali,affected,robin	False
+frankie,demoralized,cameron	frankie,affected,cameron	False
+jean,encouraged,gale	jean,affected,gale	False
+bobbie,inspired,jean	bobbie,affected,jean	False
+jamie,was discouraged by,the idea	jamie,was affected by,the idea	False
+charlie,was disheartened by,the notion	charlie,was affected by,the notion	False
+jean,was demoralized by,the conclusion	jean,was affected by,the conclusion	False
+charlie,was dismayed by,the idea	charlie,was affected by,the idea	False
+alex,was dispirited by,the notion	alex,was affected by,the notion	False
+casey,was encouraged by,the notion	casey,was affected by,the notion	False
+kelly,was heartened by,the notion	kelly,was affected by,the notion	False
+charlie,was inspired by,the conclusion	charlie,was affected by,the conclusion	False
+sam,was boosted by,the notion	sam,was affected by,the notion	False
+jamie,was energized by,the idea	jamie,was affected by,the idea	False
+elliot,was bored by,running	elliot,was affected by,running	False
+billie,tired of,jeff bezos	billie,was affected by,jeff bezos	False
+bobbie,was interested in,jeff bezos	bobbie,was affected by,jeff bezos	False
+kelly,was absorbed by,dancing	kelly,was affected by,dancing	False
+aiden,was engaged in,running	aiden,was affected by,running	False
+charlie,was fascinated by,serena williams	charlie,was affected by,serena williams	False
+ali,was intrigued by,angela merkel	ali,was affected by,angela merkel	False
+jackie,captivated by,cycling	jackie,was affected by,cycling	False
+aiden,was bored by,bill gates	aiden,knew about,bill gates	False
+billie,tired of,bill gates	billie,knew about,bill gates	False
+frankie,was interested in,jennifer lawrence	frankie,knew about,jennifer lawrence	False
+elliot,was absorbed by,serena williams	elliot,knew about,serena williams	False
+andy,was fascinated by,donald trump	andy,knew about,donald trump	False
+jackie,was intrigued by,serena williams	jackie,knew about,serena williams	False
+kelly,captivated by,jeff bezos	kelly,knew about,jeff bezos	False
+ali,admired,serena williams	ali,held an opinion of,serena williams	False
+jackie,appreciated,billie	jackie,held an opinion of,billie	False
+casey,respected,elliot	casey,held an opinion of,elliot	False
+andy,liked,ali	andy,held an opinion of,ali	False
+jamie,looked down on,ashley	jamie,held an opinion of,ashley	False
+ashley,disapproved of,jennifer lawrence	ashley,held an opinion of,jennifer lawrence	False
+ashley,disliked,jamie	ashley,held an opinion of,jamie	False
+aiden,came to,the square	aiden,knew the location of,the square	False
+gael,approached,the square	gael,knew the location of,the square	False
+morgan,went away from,the office	morgan,knew the location of,the office	False
+frankie,left,the university	frankie,knew the location of,the university	False
+alex,departed from,the square	alex,knew the location of,the square	False
+sam,rode to,the university	sam,moved to,the university	False
+casey,walked to,the office	casey,moved to,the office	False
+gael,rode to,the train station	gael,travelled to,the train station	False
+andy,walked to,the school	andy,travelled to,the school	False
+apple,lowered,the salaries	apple,changed,the salaries	False
+volkswagen,dropped,the standards	volkswagen,changed,the standards	False
+amazon,raised,the price	amazon,changed,the price	False
+walmart,boosted,the price	walmart,changed,the price	False
+heinz,elevated,the salaries	heinz,changed,the salaries	False
+unilever,hiked up,the salaries	unilever,changed,the salaries	False
+heinz,lifted,the salaries	heinz,changed,the salaries	False
+microsoft,lowered,the price	microsoft,amended,the price	False
+apple,dropped,the price	apple,amended,the price	False
+nestle,raised,the standards	nestle,amended,the standards	False
+bosch,boosted,the cost	bosch,amended,the cost	False
+microsoft,elevated,the salaries	microsoft,amended,the salaries	False
+heinz,hiked up,the cost	heinz,amended,the cost	False
+twitter,lifted,the price	twitter,amended,the price	False
+gael,departed from,nigeria	gael,was in,nigeria	False
+morgan,left,great britain	morgan,was in,great britain	False
+frankie,stayed in,nigeria	frankie,was in,nigeria	False
+jamie,remained in,iran	jamie,was in,iran	False
+ali,departed from,the university	ali,was at,the university	False
+cameron,left,the school	cameron,was at,the school	False
+ashley,exited,the square	ashley,was at,the square	False
+jackie,stayed in,the office	jackie,was at,the office	False
+elliot,remained at,the school	elliot,was at,the school	False
+the worker,bent,the steel	the worker,affected,the steel	False
+the worker,curved,the wood	the worker,affected,the wood	False
+the engineer,arched,the wood	the engineer,affected,the wood	False
+the worker,straightened,the steel	the worker,affected,the steel	False
+the engineer,unbent,the wood	the engineer,affected,the wood	False
+the technician,bent,the wood	the technician,changed,the wood	False
+the technician,curved,the steel	the technician,changed,the steel	False
+the technician,arched,the wood	the technician,changed,the wood	False
+the engineer,straightened,the steel	the engineer,changed,the steel	False
+the worker,unbent,the metal	the worker,changed,the metal	False
+the worker,bent,the wood	the worker,modified,the wood	False
+the engineer,curved,the wood	the engineer,modified,the wood	False
+the engineer,arched,the metal	the engineer,modified,the metal	False
+the engineer,straightened,the metal	the engineer,modified,the metal	False
+the engineer,unbent,the wood	the engineer,modified,the wood	False
+billie,enjoyed,the poem	billie,read,the poem	False
+cameron,delighted in,the book	cameron,read,the book	False
+jamie,liked,the novel	jamie,read,the novel	False
+jamie,appreciated,the poem	jamie,read,the poem	False
+cameron,suffered through,the book	cameron,read,the book	False
+billie,enjoyed,jurassic park	billie,watched,jurassic park	False
+charlie,delighted in,the short film	charlie,watched,the short film	False
+gale,liked,the music video	gale,watched,the music video	False
+gale,appreciated,star wars	gale,watched,star wars	False
+gale,suffered through,indiana jones	gale,watched,indiana jones	False
+casey,enjoyed,jurassic park	casey,saw,jurassic park	False
+jamie,delighted in,star wars	jamie,saw,star wars	False
+jamie,liked,the musical	jamie,saw,the musical	False
+robin,appreciated,star wars	robin,saw,star wars	False
+frankie,suffered through,the short film	frankie,saw,the short film	False
+the police officer,ignored,the issue	the police officer,was aware of,the issue	False
+the attendant,disregarded,the imperfection	the attendant,was aware of,the imperfection	False
+the police officer,overlooked,the flaws	the police officer,was aware of,the flaws	False
+the attendant,noticed,the flaws	the attendant,was aware of,the flaws	False
+casey,took note of,the flaws	casey,was aware of,the flaws	False
+the officer,observed,the imperfection	the officer,was aware of,the imperfection	False
+gale,hid,the wallet	gale,owned,the wallet	False
+ashley,concealed,the wallet	ashley,owned,the wallet	False
+jamie,showed,a knife	jamie,owned,a knife	False
+bobbie,exposed,the cash	bobbie,owned,the cash	False
+casey,revealed,the gun	casey,owned,the gun	False
+jackie,displayed,the gun	jackie,owned,the gun	False
+ashley,hid,the wallet	ashley,had,the wallet	False
+morgan,concealed,the wallet	morgan,had,the wallet	False
+sam,showed,the drugs	sam,had,the drugs	False
+aiden,exposed,the drugs	aiden,had,the drugs	False
+ali,revealed,the cash	ali,had,the cash	False
+charlie,displayed,the gun	charlie,had,the gun	False
+sam,hid,the truth	sam,knew,the truth	False
+ali,concealed,the facts	ali,knew,the facts	False
+jamie,showed,the truth	jamie,knew,the truth	False
+morgan,exposed,the facts	morgan,knew,the facts	False
+sam,revealed,the truth	sam,knew,the truth	False
+jackie,uncovered,the details	jackie,knew,the details	False
+robin,sharpened,the blow	robin,modified,the blow	False
+ashley,worsened,the effect	ashley,modified,the effect	False
+elliot,softened,the blow	elliot,modified,the blow	False
+ali,weakened,the blow	ali,modified,the blow	False
+ali,tempered,the blow	ali,modified,the blow	False
+robin,alleviated,the effect	robin,modified,the effect	False
+kelly,sharpened,the effect	kelly,changed,the effect	False
+andy,worsened,the blow	andy,changed,the blow	False
+sam,softened,the blow	sam,changed,the blow	False
+alex,weakened,the effect	alex,changed,the effect	False
+morgan,tempered,the blow	morgan,changed,the blow	False
+frankie,alleviated,the blow	frankie,changed,the blow	False
+charlie,sharpened,the effect	charlie,altered,the effect	False
+bobbie,worsened,the blow	bobbie,altered,the blow	False
+gael,softened,the effect	gael,altered,the effect	False
+morgan,weakened,the blow	morgan,altered,the blow	False
+casey,tempered,the blow	casey,altered,the blow	False
+sam,alleviated,the effect	sam,altered,the effect	False
+amazon,bought,goods	amazon,traded in,goods	False
+apple,purchased,products	apple,traded in,products	False
+twitter,sold,products	twitter,traded in,products	False
+google,dealt in,goods	google,traded in,goods	False
+heinz,retailed,goods	heinz,traded in,goods	False
+dyson,bought,heinz	dyson,signed an agreement with,heinz	False
+toyota,purchased,volkswagen	toyota,signed an agreement with,volkswagen	False
+toyota,sold,dyson	toyota,signed an agreement with,dyson	False
+facebook,bought,unilever	facebook,had an agreement with,unilever	False
+toyota,purchased,nestle	toyota,had an agreement with,nestle	False
+ford,sold,bosch	ford,had an agreement with,bosch	False
+morgan,exported,goods	morgan,transferred,goods	False
+amazon,imported,goods	amazon,transferred,goods	False
+amazon,exported,products	amazon,moved,products	False
+andy,imported,products	andy,moved,products	False
+apple,exported,goods	apple,traded in,goods	False
+dyson,imported,goods	dyson,traded in,goods	False
+jamie,downloaded,the dataset	jamie,transferred,the dataset	False
+bobbie,uploaded,the data	bobbie,transferred,the data	False
+andy,downloaded,the dataset	andy,had access to,the dataset	False
+gael,uploaded,the file	gael,had access to,the file	False
+nestle,defaulted on,a loan	nestle,had,a loan	False
+unilever,repaid,a loan	unilever,had,a loan	False
+kelly,defaulted on,a loan	kelly,took out,a loan	False
+toyota,repaid,a loan	toyota,took out,a loan	False
+ali,conserved,fuel	ali,used,fuel	False
+shell,saved,fossil fuels	shell,used,fossil fuels	False
+gael,preserved,electricity	gael,used,electricity	False
+jackie,wasted,fuel	jackie,used,fuel	False
+bobbie,consumed,gas	bobbie,used,gas	False
+gazprom,depleted,coal	gazprom,used,coal	False
+gazprom,drained,fossil fuels	gazprom,used,fossil fuels	False
+bp,exhausted,fossil fuels	bp,used,fossil fuels	False
+gazprom,expended,coal	gazprom,used,coal	False
+frankie,used up,gas	frankie,used,gas	False
+bp,conserved,fossil fuels	bp,needed,fossil fuels	False
+gazprom,saved,fossil fuels	gazprom,needed,fossil fuels	False
+chevron,preserved,natural gas	chevron,needed,natural gas	False
+casey,wasted,fuel	casey,needed,fuel	False
+aiden,consumed,gas	aiden,needed,gas	False
+exxon mobil,depleted,fossil fuels	exxon mobil,needed,fossil fuels	False
+chevron,drained,coal	chevron,needed,coal	False
+bp,exhausted,natural gas	bp,needed,natural gas	False
+chevron,expended,natural gas	chevron,needed,natural gas	False
+ali,used up,fuel	ali,needed,fuel	False
+the broker,divested,the shares	the broker,traded,the shares	False
+the fund manager,sold,the stocks	the fund manager,traded,the stocks	False
+the fund manager,invested in,the stocks	the fund manager,traded,the stocks	False
+the spending,enriched,the european union	the spending,impacted,the european union	False
+the farming practices,improved,the land	the farming practices,impacted,the land	False
+the expenditure,developed,the united states of america	the expenditure,impacted,the united states of america	False
+the farming practices,cultivated,the soil	the farming practices,impacted,the soil	False
+the farmers,impoverished,the land	the farmers,impacted,the land	False
+the spending,deprived,china	the spending,impacted,china	False
+governnment spending,enriched,the united states of america	governnment spending,changed,the united states of america	False
+the farmers,improved,the soil	the farmers,changed,the soil	False
+the spending,developed,the united states of america	the spending,changed,the united states of america	False
+the farming practices,cultivated,the soil	the farming practices,changed,the soil	False
+the farming practices,impoverished,the soil	the farming practices,changed,the soil	False
+governnment spending,deprived,the nation	governnment spending,changed,the nation	False
+the farming practices,enriched,the soil	the farming practices,affected,the soil	False
+the farming practices,improved,the soil	the farming practices,affected,the soil	False
+government expenditure,developed,the united states of america	government expenditure,affected,the united states of america	False
+the farming practices,cultivated,the soil	the farming practices,affected,the soil	False
+government expenditure,impoverished,the european union	government expenditure,affected,the european union	False
+the spending,deprived,china	the spending,affected,china	False
+morgan,acted on,global warming	morgan,was aware of,global warming	False
+cameron,took action on,global warming	cameron,was aware of,global warming	False
+jamie,ignored,homelessness	jamie,was aware of,homelessness	False
+robin,acted on,homelessness	robin,knew about,homelessness	False
+gael,took action on,global warming	gael,knew about,global warming	False
+jean,ignored,climate change	jean,knew about,climate change	False
+apple,demoted,frankie	apple,employed,frankie	False
+walmart,promoted,bobbie	walmart,employed,bobbie	False
+barack obama,divided,the nation	barack obama,governed,the nation	False
+emmanuel macron,split,the country	emmanuel macron,governed,the country	False
+angela merkel,split up,the nation	angela merkel,governed,the nation	False
+emmanuel macron,united,the state	emmanuel macron,governed,the state	False
+angela merkel,unified,the nation	angela merkel,governed,the nation	False
+barack obama,divided,the country	barack obama,changed,the country	False
+barack obama,split,the nation	barack obama,changed,the nation	False
+hillary clinton,split up,the state	hillary clinton,changed,the state	False
+angela merkel,united,the country	angela merkel,changed,the country	False
+jacinda ardern,unified,the nation	jacinda ardern,changed,the nation	False
+donald trump,divided,the state	donald trump,controlled,the state	False
+barack obama,split,the state	barack obama,controlled,the state	False
+barack obama,split up,the state	barack obama,controlled,the state	False
+donald trump,united,the state	donald trump,controlled,the state	False
+emmanuel macron,unified,the country	emmanuel macron,controlled,the country	False
+barack obama,divided,the country	barack obama,affected,the country	False
+donald trump,split,the state	donald trump,affected,the state	False
+angela merkel,split up,the state	angela merkel,affected,the state	False
+justin trudeau,united,the country	justin trudeau,affected,the country	False
+jacinda ardern,unified,the state	jacinda ardern,affected,the state	False
+ashley,disobeyed,the rules	ashley,thought about,the rules	False
+jennifer lawrence,defied,the policy	jennifer lawrence,thought about,the policy	False
+angela merkel,rebelled against,the law	angela merkel,thought about,the law	False
+kelly,violated,the regulations	kelly,thought about,the regulations	False
+andy,infringed upon,the rules	andy,thought about,the rules	False
+gale,transgressed,the policy	gale,thought about,the policy	False
+jeff bezos,disrespected,the law	jeff bezos,thought about,the law	False
+bill gates,obeyed,the policy	bill gates,thought about,the policy	False
+robin,accepted,the regulations	robin,thought about,the regulations	False
+morgan,acceded to,the regulations	morgan,thought about,the regulations	False
+kelly,observed,the policy	kelly,thought about,the policy	False
+casey,cooperated with,the law	casey,thought about,the law	False
+aiden,conceded to,the policy	aiden,thought about,the policy	False
+frankie,heeded,the regulations	frankie,thought about,the regulations	False
+aiden,followed,the regulations	aiden,thought about,the regulations	False
+angela merkel,conformed to,the rules	angela merkel,thought about,the rules	False
+robin,complied with,the regulations	robin,thought about,the regulations	False
+angela merkel,adhered to,the regulations	angela merkel,thought about,the regulations	False
+billie,minded,the law	billie,thought about,the law	False
+alex,respected,the law	alex,thought about,the law	False
+jeff bezos,disobeyed,the regulations	jeff bezos,knew,the regulations	False
+jean,defied,the policy	jean,knew,the policy	False
+jeff bezos,rebelled against,the law	jeff bezos,knew,the law	False
+serena williams,violated,the regulations	serena williams,knew,the regulations	False
+bill gates,infringed upon,the law	bill gates,knew,the law	False
+donald trump,transgressed,the law	donald trump,knew,the law	False
+donald trump,disrespected,the policy	donald trump,knew,the policy	False
+jeff bezos,obeyed,the law	jeff bezos,knew,the law	False
+charlie,accepted,the regulations	charlie,knew,the regulations	False
+casey,acceded to,the regulations	casey,knew,the regulations	False
+kelly,observed,the policy	kelly,knew,the policy	False
+serena williams,cooperated with,the law	serena williams,knew,the law	False
+donald trump,conceded to,the law	donald trump,knew,the law	False
+elliot,heeded,the regulations	elliot,knew,the regulations	False
+billie,followed,the law	billie,knew,the law	False
+andy,conformed to,the rules	andy,knew,the rules	False
+serena williams,complied with,the regulations	serena williams,knew,the regulations	False
+morgan,adhered to,the rules	morgan,knew,the rules	False
+gale,minded,the rules	gale,knew,the rules	False
+jennifer lawrence,respected,the regulations	jennifer lawrence,knew,the regulations	False
+ali,disobeyed,the regulations	ali,was aware of,the regulations	False
+jennifer lawrence,defied,the policy	jennifer lawrence,was aware of,the policy	False
+charlie,rebelled against,the regulations	charlie,was aware of,the regulations	False
+gael,violated,the rules	gael,was aware of,the rules	False
+elliot,infringed upon,the policy	elliot,was aware of,the policy	False
+frankie,transgressed,the policy	frankie,was aware of,the policy	False
+bill gates,disrespected,the rules	bill gates,was aware of,the rules	False
+jennifer lawrence,obeyed,the regulations	jennifer lawrence,was aware of,the regulations	False
+kelly,accepted,the rules	kelly,was aware of,the rules	False
+donald trump,acceded to,the policy	donald trump,was aware of,the policy	False
+kelly,observed,the rules	kelly,was aware of,the rules	False
+ashley,cooperated with,the rules	ashley,was aware of,the rules	False
+serena williams,conceded to,the policy	serena williams,was aware of,the policy	False
+robin,heeded,the rules	robin,was aware of,the rules	False
+jeff bezos,followed,the rules	jeff bezos,was aware of,the rules	False
+donald trump,conformed to,the policy	donald trump,was aware of,the policy	False
+jean,complied with,the regulations	jean,was aware of,the regulations	False
+jeff bezos,adhered to,the rules	jeff bezos,was aware of,the rules	False
+serena williams,minded,the rules	serena williams,was aware of,the rules	False
+angela merkel,respected,the rules	angela merkel,was aware of,the rules	False
+the attendant,enforced,the regulations	the attendant,knew,the regulations	False
+the police officer,imposed,the policy	the police officer,knew,the policy	False
+the attendant,implemented,the policy	the attendant,knew,the policy	False
+the police officer,applied,the regulations	the police officer,knew,the regulations	False
+the police officer,ignored,the regulations	the police officer,knew,the regulations	False
+the officer,glossed over,the rules	the officer,knew,the rules	False
+the officer,turned a blind eye to,the regulations	the officer,knew,the regulations	False
+the police officer,enforced,the rules	the police officer,was aware of,the rules	False
+the police officer,imposed,the regulations	the police officer,was aware of,the regulations	False
+the attendant,implemented,the policy	the attendant,was aware of,the policy	False
+the police officer,applied,the policy	the police officer,was aware of,the policy	False
+the attendant,ignored,the rules	the attendant,was aware of,the rules	False
+the officer,glossed over,the regulations	the officer,was aware of,the regulations	False
+the attendant,turned a blind eye to,the law	the attendant,was aware of,the law	False
+the population,succumbed to,the earthquake	the population,dealt with,the earthquake	False
+andy,gave in to,cancer	andy,dealt with,cancer	False
+frankie,died from,depression	frankie,dealt with,depression	False
+ali,yielded to,cancer	ali,dealt with,cancer	False
+andy,was killed by,depression	andy,dealt with,depression	False
+the population,survived,the earthquake	the population,dealt with,the earthquake	False
+the villagers,endured,the blizzard	the villagers,dealt with,the blizzard	False
+the town residents,held up against,the blizzard	the town residents,dealt with,the blizzard	False
+the population,withstood,the storm	the population,dealt with,the storm	False
+kelly,overcame,depression	kelly,dealt with,depression	False
+morgan,succumbed to,heart disease	morgan,faced,heart disease	False
+gale,gave in to,cancer	gale,faced,cancer	False
+gale,died from,heart disease	gale,faced,heart disease	False
+the people,yielded to,the blizzard	the people,faced,the blizzard	False
+casey,was killed by,cancer	casey,faced,cancer	False
+gale,survived,heart disease	gale,faced,heart disease	False
+the people,endured,the floods	the people,faced,the floods	False
+the town residents,held up against,the blizzard	the town residents,faced,the blizzard	False
+the town residents,withstood,the earthquake	the town residents,faced,the earthquake	False
+the town residents,overcame,the storm	the town residents,faced,the storm	False
+elliot,succumbed to,depression	elliot,confronted,depression	False
+aiden,gave in to,heart disease	aiden,confronted,heart disease	False
+aiden,died from,cancer	aiden,confronted,cancer	False
+billie,yielded to,cancer	billie,confronted,cancer	False
+sam,was killed by,depression	sam,confronted,depression	False
+jackie,survived,heart disease	jackie,confronted,heart disease	False
+charlie,overcame,depression	charlie,confronted,depression	False
+the villagers,succumbed to,the earthquake	the villagers,battled,the earthquake	False
+robin,gave in to,cancer	robin,battled,cancer	False
+aiden,died from,heart disease	aiden,battled,heart disease	False
+the villagers,yielded to,the earthquake	the villagers,battled,the earthquake	False
+the town residents,were killed by,the hurricane	the town residents,battled,the hurricane	False
+the town residents,survived,the hurricane	the town residents,battled,the hurricane	False
+the population,endured,the earthquake	the population,battled,the earthquake	False
+the people,held up against,the blizzard	the people,battled,the blizzard	False
+the town residents,withstood,the blizzard	the town residents,battled,the blizzard	False
+the town residents,overcame,the blizzard	the town residents,battled,the blizzard	False
+the game console,conformed with,the standards	the game console,was assessed against,the standards	False
+ali,complied with,the guidelines	ali,was assessed against,the guidelines	False
+gael,conformed to,the guidelines	gael,was assessed against,the guidelines	False
+the television,adhered to,the standards	the television,was assessed against,the standards	False
+billie,deviated from,the criteria	billie,was assessed against,the criteria	False
+the television,diverged from,the guidelines	the television,was assessed against,the guidelines	False
+the car,conformed with,the standards	the car,was evaluated against,the standards	False
+the sofa,complied with,the guidelines	the sofa,was evaluated against,the guidelines	False
+morgan,conformed to,the standards	morgan,was evaluated against,the standards	False
+ashley,adhered to,the criteria	ashley,was evaluated against,the criteria	False
+morgan,deviated from,the standards	morgan,was evaluated against,the standards	False
+the television,diverged from,the guidelines	the television,was evaluated against,the guidelines	False
+nissan,differed from,mitsubishi	nissan,was compared to,mitsubishi	False
+toyota,was different from,ford	toyota,was compared to,ford	False
+volkswagen,was equal to,ferrari	volkswagen,was compared to,ferrari	False
+mitsubishi,was the same as,ferrari	mitsubishi,was compared to,ferrari	False
+toyota,was identical to,ford	toyota,was compared to,ford	False
