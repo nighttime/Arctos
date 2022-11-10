@@ -1,19 +1,27 @@
 from sacred import Experiment
 from sacred.utils import apply_backspaces_and_linefeeds
-from config import CFG_HYPERPARAMETERS, CFG_OPTIMIZER, CFG_DATASET
+import numpy as np
+import torch
+from config import RANDOM_SEED, CFG_HYPERPARAMETERS, CFG_OPTIMIZER, CFG_DATASET
 from dataset.entailment_dataset import load_datasets
 from model.ent_model import EntailmentModel
-from train import train_and_eval
+from train_and_eval import ModelInstructor
 
-ex = Experiment('train_model')
+ex = Experiment('train_model', interactive=True)
 ex.add_config({'cfg_hyperparameters': CFG_HYPERPARAMETERS})
 ex.add_config({'cfg_optimizer': CFG_OPTIMIZER})
 ex.add_config({'cfg_dataset': CFG_DATASET})
 ex.captured_out_filter = apply_backspaces_and_linefeeds
 
 
+def setup():
+    np.random.seed(RANDOM_SEED)
+    torch.manual_seed(RANDOM_SEED)
+    # TODO: set up device to run on GPU
+
+
 @ex.capture
-def train_model(cfg_hyperparameters, cfg_optimizer, cfg_dataset):
+def train_and_eval(cfg_hyperparameters, cfg_optimizer, cfg_dataset):
     # Load dataset
     train, dev, test = load_datasets(cfg_dataset['name'], cfg_dataset['version'])
     datasets = {
@@ -26,7 +34,8 @@ def train_model(cfg_hyperparameters, cfg_optimizer, cfg_dataset):
     model = EntailmentModel(cfg_hyperparameters)
 
     # Train the model
-    train_and_eval(model, cfg_optimizer, datasets)
+    instructor = ModelInstructor(model, cfg_optimizer)
+    instructor.train_model(datasets)
 
     # Evaluate the model
 
@@ -35,4 +44,5 @@ def train_model(cfg_hyperparameters, cfg_optimizer, cfg_dataset):
 def main(cfg_hyperparameters, cfg_optimizer):
     print(cfg_hyperparameters)
     print(cfg_optimizer)
-    train_model()
+    setup()
+    train_and_eval()

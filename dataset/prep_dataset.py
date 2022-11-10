@@ -9,12 +9,15 @@ from dataset.entailment_dataset import Sample
 
 # Set file pointers to the chosen dataset
 DS_MAIN = dataset_codes.ANT_DIR
-DS_DEV_SET_PCT = 0.1
-DS_DEV = None
+DS_DEV_SET_PCT = 0
+DS_DEV = dataset_codes.LEVY_HOLT_DIR_DEV
+
+assert not (DS_DEV_SET_PCT and DS_DEV)
 
 file_paths_in = {
 		dataset_codes.ANT_DIR: os.path.join('original', 'ant_in_levy_format', 'ant_directional_s2.txt'),
 		dataset_codes.ANT_FULL: os.path.join('original', 'ant_in_levy_format', 'ant_full_s2.txt'),
+		dataset_codes.LEVY_HOLT_DIR_DEV: os.path.join('original', 'levy_holt', 'dev_dir_s2.txt'),
 }
 
 file_path = file_paths_in[DS_MAIN]
@@ -62,7 +65,6 @@ with open(file_path, 'r') as file:
 		dsample = _process_line(h, p, t)
 		cleaned_dataset_samples.append(dsample)
 
-
 if DS_DEV_SET_PCT:
 	sample_list = list(cleaned_dataset_samples)
 	picks = [sample_list.pop(int(random.random() * len(sample_list)))]
@@ -102,10 +104,8 @@ if DS_DEV_SET_PCT:
 def make_sample(dsample: DatasetSample):
 	premises = [' '.join(dsample.premise)]
 	hypothesis = ' '.join(dsample.hypothesis)
+	return Sample(hypothesis=hypothesis, premises=premises, truth_value=dsample.truth_value)
 
-	return Sample(hypothesis=hypothesis,
-					premises=premises,
-					truth_value=dsample.truth_value)
 
 samples_main = []
 for dsample in cleaned_dataset_samples:
@@ -116,7 +116,11 @@ if DS_DEV_SET_PCT:
 	for dsample in cleaned_dev_dataset_samples:
 		samples_dev.append(make_sample(dsample))
 elif DS_DEV:
-	raise NotImplementedError('NYI')
+	with open(file_path_dev, 'r') as file:
+		csv_file = csv.reader(file, delimiter='\t')
+		for h, p, t in csv_file:
+			dsample = _process_line(h, p, t)
+			samples_dev.append(make_sample(dsample))
 
 
 def write_samples(samples, file):
