@@ -2,7 +2,7 @@ RANDOM_SEED = 3
 
 CFG_HYPERPARAMETERS = {
 		'encoder_model': 'sentence-transformers/stsb-roberta-base-v2',
-		'classifier_hidden_layers': 2,
+		'classifier_hidden_layers': 1,
 		'decoder_dropout': 0.5,
 }
 CFG_OPTIMIZER = {

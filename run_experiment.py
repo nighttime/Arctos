@@ -14,14 +14,16 @@ ex.add_config({'cfg_dataset': CFG_DATASET})
 ex.captured_out_filter = apply_backspaces_and_linefeeds
 
 
-def setup():
+def setup() -> torch.device:
     np.random.seed(RANDOM_SEED)
     torch.manual_seed(RANDOM_SEED)
-    # TODO: set up device to run on GPU
+    device = torch.device(f'cuda:0' if torch.cuda.is_available() else "cpu")
+    print(f'Runnning on {device}')
+    return device
 
 
 @ex.capture
-def train_and_eval(cfg_hyperparameters, cfg_optimizer, cfg_dataset):
+def train_and_eval(device, cfg_hyperparameters, cfg_optimizer, cfg_dataset):
     # Load dataset
     train, dev, test = load_datasets(cfg_dataset['name'], cfg_dataset['version'])
     datasets = {
@@ -32,17 +34,21 @@ def train_and_eval(cfg_hyperparameters, cfg_optimizer, cfg_dataset):
 
     # Make a model
     model = EntailmentModel(cfg_hyperparameters)
+    model.to(device)
 
     # Train the model
-    instructor = ModelInstructor(model, cfg_optimizer)
+    instructor = ModelInstructor(model, device, cfg_optimizer)
     instructor.train_model(datasets)
 
     # Evaluate the model
+    if test:
+        instructor.eval_model(datasets['test'], 'test')
 
 
 @ex.automain
-def main(cfg_hyperparameters, cfg_optimizer):
+def main(cfg_hyperparameters, cfg_optimizer, cfg_dataset):
     print(cfg_hyperparameters)
     print(cfg_optimizer)
-    setup()
-    train_and_eval()
+    print(cfg_dataset)
+    device = setup()
+    train_and_eval(device)

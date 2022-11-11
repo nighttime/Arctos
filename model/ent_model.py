@@ -45,8 +45,10 @@ class EntailmentModel(torch.nn.Module):
 						torch.nn.functional.gelu(encoded_hypotheses),
 						p=self.cfg_hyperparameters['decoder_dropout']))
 
-		for layer in self.decoder:
+		for i, layer in enumerate(self.decoder):
 			predicted_premises = layer(predicted_premises)
+			# if i < len(self.decoder)-1:
+			# 	predicted_premises = torch.tanh(predicted_premises)
 
 		# shape: B
 		dists_predictions2prems = -torch.nn.functional.pairwise_distance(predicted_premises, encoded_premises)

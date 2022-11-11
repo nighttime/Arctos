@@ -9,9 +9,10 @@ from utils import DATASET_LOCATION
 
 @dataclass
 class Sample:
-    hypothesis: str
-    premises: List[str]
+    hypothesis: Tuple[str, str, str]
+    premise: Tuple[str, str, str]
     truth_value: bool
+    flipped_args: bool
 
 
 TEntDataset = TypeVar('TEntDataset', bound=Dataset)

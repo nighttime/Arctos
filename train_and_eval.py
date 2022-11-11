@@ -1,4 +1,4 @@
-from typing import Dict, Any, Optional, Iterable, Tuple
+from typing import Dict, Any, Optional, Iterable, Tuple, List
 
 import numpy as np
 import torch.optim
@@ -16,8 +16,9 @@ def make_dataloader(dataset: EntailmentDataset, batch_size: int, split: str) -> 
 
 
 class ModelInstructor:
-    def __init__(self, model: EntailmentModel, cfg_optimizer: Dict[str, Any]):
+    def __init__(self, model: EntailmentModel, device, cfg_optimizer: Dict[str, Any]):
         self.model = model
+        self.device = device
         self.cfg_optimizer = cfg_optimizer
         self.optimizer = torch.optim.AdamW(model.parameters(), lr=cfg_optimizer['learning_rate'])
         self.criterion = torch.nn.BCELoss()
@@ -32,7 +33,7 @@ class ModelInstructor:
         loss = self.criterion(batch_predictions, batch_labels)
 
         predicted_inds = torch.nn.functional.one_hot(torch.argmax(batch_predictions, dim=1), num_classes=2)
-        correct = torch.sum(predicted_inds * batch_labels)
+        correct = torch.sum(predicted_inds * batch_labels).item()
         acc = correct / bsize
 
         metrics = {
@@ -46,12 +47,20 @@ class ModelInstructor:
         acc = np.mean(self.tracked_metrics['acc'])
         return f'loss: {loss:.3f}\tacc: {acc*100:.2f}%'
 
+    def process_batch(self, batch: Iterable[Sample]) -> Tuple[List[str], List[str], torch.tensor]:
+        batch_premises = [sample.premise for sample in batch]
+        batch_premises = [premise_triple[1] for premise_triple in batch_premises]
+
+        batch_hypotheses = [sample.hypothesis for sample in batch]
+        batch_hypotheses = [' '.join(hypothesis_triple) for hypothesis_triple in batch_hypotheses]
+
+        truth_values = [int(sample.truth_value) for sample in batch]
+        batch_labels = torch.nn.functional.one_hot(torch.tensor(truth_values), num_classes=2).float().to(self.device)
+        return batch_premises, batch_hypotheses, batch_labels
+
     def step(self, batch: Iterable[Sample], training=True):
         # extract data
-        batch_premises = [sample.premises[0] for sample in batch]
-        batch_hypotheses = [sample.hypothesis for sample in batch]
-        truth_values = [int(sample.truth_value) for sample in batch]
-        batch_labels = torch.nn.functional.one_hot(torch.tensor(truth_values), num_classes=2).float()
+        batch_premises, batch_hypotheses, batch_labels = self.process_batch(batch)
 
         # forward pass
         self.model.train()
@@ -81,7 +90,7 @@ class ModelInstructor:
 
         max_train_steps = self.cfg_optimizer['max_train_steps']
         epoch = 0
-        with tqdm(total=max_train_steps) as pbar:
+        with tqdm(total=max_train_steps, ncols=120) as pbar:
             train_step = 0
             while train_step < max_train_steps:
                 epoch += 1
