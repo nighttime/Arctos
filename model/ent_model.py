@@ -9,12 +9,13 @@ NULL_RELATION_TEXT = 'NULL RELATION'
 
 
 class EntailmentModel(torch.nn.Module):
-	def __init__(self, cfg_hyperparameters):
+	def __init__(self, device, cfg_hyperparameters: Dict[str, Any]):
 		super(EntailmentModel, self).__init__()
 
+		self.device = device
 		self.cfg_hyperparameters = cfg_hyperparameters
 
-		self.encoder = SentenceTransformer(cfg_hyperparameters['encoder_model'])
+		self.encoder = SentenceTransformer(cfg_hyperparameters['encoder_model'], device=device)
 		self.decoder = torch.nn.ModuleList([
 				torch.nn.Linear(HIDDEN_SIZE, HIDDEN_SIZE)
 				for _ in range(self.cfg_hyperparameters['classifier_hidden_layers'])
@@ -32,11 +33,19 @@ class EntailmentModel(torch.nn.Module):
 
 	def forward(self, premises: List[str], hypotheses: List[str]) -> torch.Tensor:
 		# shape: B x HIDDEN_SIZE
-		encoded_premises = self.encoder.encode(premises, convert_to_tensor=True, show_progress_bar=False)
-		encoded_hypotheses = self.encoder.encode(hypotheses, convert_to_tensor=True, show_progress_bar=False)
+		# encoded_premises = self.encoder.encode(premises, convert_to_tensor=True, show_progress_bar=False)
+		# encoded_hypotheses = self.encoder.encode(hypotheses, convert_to_tensor=True, show_progress_bar=False)
 
 		# shape: 1 x HIDDEN_SIZE
-		null_premise = self.encoder.encode([NULL_RELATION_TEXT], convert_to_tensor=True, show_progress_bar=False)
+		# null_premise = self.encoder.encode([NULL_RELATION_TEXT], convert_to_tensor=True, show_progress_bar=False)
+
+		# alternative // keep the encoder network connected to the computation graph (finetune encoder)
+		tokens_prem = {name: tsr.to(self.device) for name, tsr in self.encoder.tokenize(premises).items()}
+		encoded_premises = self.encoder(tokens_prem)['sentence_embedding']
+		tokens_hyp = {name: tsr.to(self.device) for name, tsr in self.encoder.tokenize(hypotheses).items()}
+		encoded_hypotheses = self.encoder(tokens_hyp)['sentence_embedding']
+		tokens_null = {name: tsr.to(self.device) for name, tsr in self.encoder.tokenize([NULL_RELATION_TEXT]).items()}
+		null_premise = self.encoder(tokens_null)['sentence_embedding']
 
 		# shape: B x HIDDEN_SIZE
 		predicted_premises = \

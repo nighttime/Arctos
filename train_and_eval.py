@@ -1,6 +1,7 @@
 from typing import Dict, Any, Optional, Iterable, Tuple, List
 
 import numpy as np
+from sklearn import metrics
 import torch.optim
 from torch.utils.data import DataLoader
 from tqdm import tqdm
@@ -58,7 +59,7 @@ class ModelInstructor:
         batch_labels = torch.nn.functional.one_hot(torch.tensor(truth_values), num_classes=2).float().to(self.device)
         return batch_premises, batch_hypotheses, batch_labels
 
-    def step(self, batch: Iterable[Sample], training=True):
+    def step(self, batch: Iterable[Sample], training=True) -> Tuple[Dict[str, float], torch.tensor, torch.tensor]:
         # extract data
         batch_premises, batch_hypotheses, batch_labels = self.process_batch(batch)
 
@@ -81,12 +82,12 @@ class ModelInstructor:
             self.model.zero_grad()
             self.optimizer.zero_grad()
 
-        return batch_metrics
+        return batch_metrics, batch_predictions, batch_labels
 
-    def train_model(self, datasets: Dict[str, Optional[EntailmentDataset]]):
+    def train_model(self, train_dataset: Optional[EntailmentDataset], dev_dataset: Optional[EntailmentDataset]):
 
         batch_size = self.cfg_optimizer['batch_size']
-        train_data = make_dataloader(datasets['train'], batch_size, 'train')
+        train_data = make_dataloader(train_dataset, batch_size, 'train')
 
         max_train_steps = self.cfg_optimizer['max_train_steps']
         epoch = 0
@@ -109,21 +110,28 @@ class ModelInstructor:
                     if train_step == max_train_steps:
                         break
 
-                if datasets['dev']:
+                if dev_dataset:
                     print()
-                    self.eval_model(datasets['dev'], 'dev')
+                    self.eval_model(dev_dataset, 'dev')
 
-    def eval_model(self, dataset: EntailmentDataset, split: str):
-        print(f'Evaluating {split}...')
+    def eval_model(self, dataset: EntailmentDataset, split: str, progress_bar: bool = False):
+        print(f'Evaluating {split}: {dataset.name}...')
         self.model.eval()
         eval_data = make_dataloader(dataset, EVAL_BSIZE, split)
 
         all_metrics = {}
         num_samples = 0
+
+        all_predictions = torch.tensor([])
+        all_labels = torch.tensor([])
+
         for batch_num, batch in enumerate(eval_data):
             this_batch_size = len(batch)
             num_samples += this_batch_size
-            batch_metrics = self.step(batch, training=False)
+            batch_metrics, batch_predictions, batch_labels = self.step(batch, training=False)
+            all_predictions = torch.cat([all_predictions, batch_predictions.detach()])
+            all_labels = torch.cat([all_labels, batch_labels.detach()])
+
             for metric in batch_metrics:
                 new_metric_val = (batch_metrics[metric] * this_batch_size)
                 all_metrics[metric] = all_metrics[metric] + new_metric_val if metric in all_metrics else new_metric_val
@@ -134,7 +142,16 @@ class ModelInstructor:
         loss = all_metrics['loss']
         acc = all_metrics['acc']
 
+        all_labels_idx = torch.argmax(all_labels, dim=1).detach().numpy()
+        all_predictions_true = all_predictions[:, 1].detach().numpy()
+        precisions, recalls, thresholds = metrics.precision_recall_curve(all_labels_idx, all_predictions_true)
+        auc = metrics.auc(recalls, precisions)
+
+        max_recall = np.max(recalls)
+        random_baseline_prec = np.sum(all_labels_idx)/len(all_labels_idx)
+        auc_norm = (auc - (random_baseline_prec * max_recall)) / (1 - (random_baseline_prec * 1))
+
         print('-' * 100)
-        print(f'{split} |\tloss: {loss:.3f}\tacc: {acc*100:.1f}')
+        print(f'{split} |\tloss: {loss:.3f}\tacc: {acc*100:.1f}\tauc: {auc*100:.2f}\tauc_norm: {auc_norm*100:.2f}')
         print('-' * 100)
 

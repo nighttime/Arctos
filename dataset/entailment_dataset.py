@@ -19,8 +19,11 @@ TEntDataset = TypeVar('TEntDataset', bound=Dataset)
 
 
 class EntailmentDataset(Dataset):
-    def __init__(self, file_path: str):
+    def __init__(self, file_path: str, name: str = None):
+        if name is None:
+            name = file_path
         self._samples = []
+        self.name = name
         with open(file_path, 'r') as file:
             for json_str in file:
                 sample = Sample(**json.loads(json_str))
@@ -33,10 +36,7 @@ class EntailmentDataset(Dataset):
         return self._samples[idx]
 
     @classmethod
-    def from_found_file(cls, name: str, version: str, split: str) -> Optional[TEntDataset]:
-        folder_name = f'{name}_v{version}'
-        file_name = f'{split}.jsonl'
-        file_path = os.path.join(DATASET_LOCATION, folder_name, file_name)
+    def from_file(cls, file_path: str) -> Optional[TEntDataset]:
         try:
             return EntailmentDataset(file_path)
         except FileNotFoundError:
@@ -44,9 +44,22 @@ class EntailmentDataset(Dataset):
 
 
 def load_datasets(name: str, version: str) -> \
-        Tuple[Optional[EntailmentDataset], Optional[EntailmentDataset], Optional[EntailmentDataset]]:
+        Tuple[Optional[EntailmentDataset], Optional[EntailmentDataset], Optional[List[EntailmentDataset]]]:
 
-    train = EntailmentDataset.from_found_file(name, version, 'train')
-    dev = EntailmentDataset.from_found_file(name, version, 'dev')
-    test = EntailmentDataset.from_found_file(name, version, 'test')
-    return train, dev, test
+    splits = ['train', 'dev', 'test']
+    datasets = dict.fromkeys(splits)
+    for split in splits:
+        folder_name = f'{name}_v{version}'
+        folder_path = os.path.join(DATASET_LOCATION, folder_name)
+        for file_name in os.listdir(folder_path):
+            if file_name.startswith(split) and file_name.endswith('.jsonl'):
+                file_path = os.path.join(folder_path, file_name)
+                ds = EntailmentDataset(file_path, file_name)
+                if split == 'test':
+                    if ds and not datasets[split]:
+                        datasets[split] = []
+                    datasets[split].append(ds)
+                else:
+                    datasets[split] = ds
+
+    return datasets['train'], datasets['dev'], datasets['test']

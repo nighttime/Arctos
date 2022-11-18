@@ -1,0 +1,1312 @@
+win	play	1
+win	face	1
+win	take on	1
+win	play against	1
+win	against	1
+win	vs	1
+win	meet	1
+win	go against	1
+beat	play	1
+beat	face	1
+beat	take on	1
+beat	play against	1
+beat	against	1
+beat	vs	1
+beat	meet	1
+beat	go against	1
+defeat	play	1
+defeat	face	1
+defeat	take on	1
+defeat	play against	1
+defeat	against	1
+defeat	vs	1
+defeat	meet	1
+defeat	go against	1
+outscore	play	1
+outscore	face	1
+outscore	take on	1
+outscore	play against	1
+outscore	against	1
+outscore	vs	1
+outscore	meet	1
+outscore	go against	1
+win against	play	1
+win against	face	1
+win against	take on	1
+win against	play against	1
+win against	against	1
+win against	vs	1
+win against	meet	1
+win against	go against	1
+sweep	play	1
+sweep	face	1
+sweep	take on	1
+sweep	play against	1
+sweep	against	1
+sweep	vs	1
+sweep	meet	1
+sweep	go against	1
+lead over	play	1
+lead over	face	1
+lead over	take on	1
+lead over	play against	1
+lead over	against	1
+lead over	vs	1
+lead over	meet	1
+lead over	go against	1
+dominate	play	1
+dominate	face	1
+dominate	take on	1
+dominate	play against	1
+dominate	against	1
+dominate	vs	1
+dominate	meet	1
+dominate	go against	1
+upset	play	1
+upset	face	1
+upset	take on	1
+upset	play against	1
+upset	against	1
+upset	vs	1
+upset	meet	1
+upset	go against	1
+eliminate	play	1
+eliminate	face	1
+eliminate	take on	1
+eliminate	play against	1
+eliminate	against	1
+eliminate	vs	1
+eliminate	meet	1
+eliminate	go against	1
+knock off	play	1
+knock off	face	1
+knock off	take on	1
+knock off	play against	1
+knock off	against	1
+knock off	vs	1
+knock off	meet	1
+knock off	go against	1
+win over	play	1
+win over	face	1
+win over	take on	1
+win over	play against	1
+win over	against	1
+win over	vs	1
+win over	meet	1
+win over	go against	1
+top	play	1
+top	face	1
+top	take on	1
+top	play against	1
+top	against	1
+top	vs	1
+top	meet	1
+top	go against	1
+outlast	play	1
+outlast	face	1
+outlast	take on	1
+outlast	play against	1
+outlast	against	1
+outlast	vs	1
+outlast	meet	1
+outlast	go against	1
+shut down	play	1
+shut down	face	1
+shut down	take on	1
+shut down	play against	1
+shut down	against	1
+shut down	vs	1
+shut down	meet	1
+shut down	go against	1
+take down	play	1
+take down	face	1
+take down	take on	1
+take down	play against	1
+take down	against	1
+take down	vs	1
+take down	meet	1
+take down	go against	1
+blow out	play	1
+blow out	face	1
+blow out	take on	1
+blow out	play against	1
+blow out	against	1
+blow out	vs	1
+blow out	meet	1
+blow out	go against	1
+rout	play	1
+rout	face	1
+rout	take on	1
+rout	play against	1
+rout	against	1
+rout	vs	1
+rout	meet	1
+rout	go against	1
+crush	play	1
+crush	face	1
+crush	take on	1
+crush	play against	1
+crush	against	1
+crush	vs	1
+crush	meet	1
+crush	go against	1
+winner over	play	1
+winner over	face	1
+winner over	take on	1
+winner over	play against	1
+winner over	against	1
+winner over	vs	1
+winner over	meet	1
+winner over	go against	1
+trounce	play	1
+trounce	face	1
+trounce	take on	1
+trounce	play against	1
+trounce	against	1
+trounce	vs	1
+trounce	meet	1
+trounce	go against	1
+outplay	play	1
+outplay	face	1
+outplay	take on	1
+outplay	play against	1
+outplay	against	1
+outplay	vs	1
+outplay	meet	1
+outplay	go against	1
+destroy	play	1
+destroy	face	1
+destroy	take on	1
+destroy	play against	1
+destroy	against	1
+destroy	vs	1
+destroy	meet	1
+destroy	go against	1
+shut out	play	1
+shut out	face	1
+shut out	take on	1
+shut out	play against	1
+shut out	against	1
+shut out	vs	1
+shut out	meet	1
+shut out	go against	1
+oust	play	1
+oust	face	1
+oust	take on	1
+oust	play against	1
+oust	against	1
+oust	vs	1
+oust	meet	1
+oust	go against	1
+clobber	play	1
+clobber	face	1
+clobber	take on	1
+clobber	play against	1
+clobber	against	1
+clobber	vs	1
+clobber	meet	1
+clobber	go against	1
+win	lose	0
+win	lose to	0
+win	fall to	0
+win	lose against	0
+win	finish behind	0
+beat	lose	0
+beat	lose to	0
+beat	fall to	0
+beat	lose against	0
+beat	finish behind	0
+defeat	lose	0
+defeat	lose to	0
+defeat	fall to	0
+defeat	lose against	0
+defeat	finish behind	0
+outscore	lose	0
+outscore	lose to	0
+outscore	fall to	0
+outscore	lose against	0
+outscore	finish behind	0
+win against	lose	0
+win against	lose to	0
+win against	fall to	0
+win against	lose against	0
+win against	finish behind	0
+sweep	lose	0
+sweep	lose to	0
+sweep	fall to	0
+sweep	lose against	0
+sweep	finish behind	0
+lead over	lose	0
+lead over	lose to	0
+lead over	fall to	0
+lead over	lose against	0
+lead over	finish behind	0
+dominate	lose	0
+dominate	lose to	0
+dominate	fall to	0
+dominate	lose against	0
+dominate	finish behind	0
+upset	lose	0
+upset	lose to	0
+upset	fall to	0
+upset	lose against	0
+upset	finish behind	0
+eliminate	lose	0
+eliminate	lose to	0
+eliminate	fall to	0
+eliminate	lose against	0
+eliminate	finish behind	0
+knock off	lose	0
+knock off	lose to	0
+knock off	fall to	0
+knock off	lose against	0
+knock off	finish behind	0
+win over	lose	0
+win over	lose to	0
+win over	fall to	0
+win over	lose against	0
+win over	finish behind	0
+top	lose	0
+top	lose to	0
+top	fall to	0
+top	lose against	0
+top	finish behind	0
+outlast	lose	0
+outlast	lose to	0
+outlast	fall to	0
+outlast	lose against	0
+outlast	finish behind	0
+shut down	lose	0
+shut down	lose to	0
+shut down	fall to	0
+shut down	lose against	0
+shut down	finish behind	0
+take down	lose	0
+take down	lose to	0
+take down	fall to	0
+take down	lose against	0
+take down	finish behind	0
+blow out	lose	0
+blow out	lose to	0
+blow out	fall to	0
+blow out	lose against	0
+blow out	finish behind	0
+rout	lose	0
+rout	lose to	0
+rout	fall to	0
+rout	lose against	0
+rout	finish behind	0
+crush	lose	0
+crush	lose to	0
+crush	fall to	0
+crush	lose against	0
+crush	finish behind	0
+winner over	lose	0
+winner over	lose to	0
+winner over	fall to	0
+winner over	lose against	0
+winner over	finish behind	0
+trounce	lose	0
+trounce	lose to	0
+trounce	fall to	0
+trounce	lose against	0
+trounce	finish behind	0
+outplay	lose	0
+outplay	lose to	0
+outplay	fall to	0
+outplay	lose against	0
+outplay	finish behind	0
+destroy	lose	0
+destroy	lose to	0
+destroy	fall to	0
+destroy	lose against	0
+destroy	finish behind	0
+shut out	lose	0
+shut out	lose to	0
+shut out	fall to	0
+shut out	lose against	0
+shut out	finish behind	0
+oust	lose	0
+oust	lose to	0
+oust	fall to	0
+oust	lose against	0
+oust	finish behind	0
+clobber	lose	0
+clobber	lose to	0
+clobber	fall to	0
+clobber	lose against	0
+clobber	finish behind	0
+win	tie	0
+win	tie with	0
+win	draw with	0
+beat	tie	0
+beat	tie with	0
+beat	draw with	0
+defeat	tie	0
+defeat	tie with	0
+defeat	draw with	0
+outscore	tie	0
+outscore	tie with	0
+outscore	draw with	0
+win against	tie	0
+win against	tie with	0
+win against	draw with	0
+sweep	tie	0
+sweep	tie with	0
+sweep	draw with	0
+lead over	tie	0
+lead over	tie with	0
+lead over	draw with	0
+dominate	tie	0
+dominate	tie with	0
+dominate	draw with	0
+upset	tie	0
+upset	tie with	0
+upset	draw with	0
+eliminate	tie	0
+eliminate	tie with	0
+eliminate	draw with	0
+knock off	tie	0
+knock off	tie with	0
+knock off	draw with	0
+win over	tie	0
+win over	tie with	0
+win over	draw with	0
+top	tie	0
+top	tie with	0
+top	draw with	0
+outlast	tie	0
+outlast	tie with	0
+outlast	draw with	0
+shut down	tie	0
+shut down	tie with	0
+shut down	draw with	0
+take down	tie	0
+take down	tie with	0
+take down	draw with	0
+blow out	tie	0
+blow out	tie with	0
+blow out	draw with	0
+rout	tie	0
+rout	tie with	0
+rout	draw with	0
+crush	tie	0
+crush	tie with	0
+crush	draw with	0
+winner over	tie	0
+winner over	tie with	0
+winner over	draw with	0
+trounce	tie	0
+trounce	tie with	0
+trounce	draw with	0
+outplay	tie	0
+outplay	tie with	0
+outplay	draw with	0
+destroy	tie	0
+destroy	tie with	0
+destroy	draw with	0
+shut out	tie	0
+shut out	tie with	0
+shut out	draw with	0
+oust	tie	0
+oust	tie with	0
+oust	draw with	0
+clobber	tie	0
+clobber	tie with	0
+clobber	draw with	0
+win	beat	-2
+win	defeat	-2
+win	outscore	-2
+win	win against	-2
+win	lead over	-2
+win	upset	-2
+win	win over	-2
+win	top	-2
+win	outlast	-2
+win	shut down	-2
+win	take down	-2
+win	winner over	-2
+win	outplay	-2
+win	shut out	-2
+win	oust	-2
+beat	win	-2
+beat	defeat	-2
+beat	outscore	-2
+beat	win against	-2
+beat	lead over	-2
+beat	upset	-2
+beat	win over	-2
+beat	top	-2
+beat	outlast	-2
+beat	shut down	-2
+beat	take down	-2
+beat	winner over	-2
+beat	outplay	-2
+beat	shut out	-2
+beat	oust	-2
+defeat	win	-2
+defeat	beat	-2
+defeat	outscore	-2
+defeat	win against	-2
+defeat	lead over	-2
+defeat	upset	-2
+defeat	win over	-2
+defeat	top	-2
+defeat	outlast	-2
+defeat	shut down	-2
+defeat	take down	-2
+defeat	winner over	-2
+defeat	outplay	-2
+defeat	shut out	-2
+defeat	oust	-2
+outscore	win	-2
+outscore	beat	-2
+outscore	defeat	-2
+outscore	win against	-2
+outscore	lead over	-2
+outscore	upset	-2
+outscore	win over	-2
+outscore	top	-2
+outscore	outlast	-2
+outscore	shut down	-2
+outscore	take down	-2
+outscore	winner over	-2
+outscore	outplay	-2
+outscore	shut out	-2
+outscore	oust	-2
+win against	win	-2
+win against	beat	-2
+win against	defeat	-2
+win against	outscore	-2
+win against	lead over	-2
+win against	upset	-2
+win against	win over	-2
+win against	top	-2
+win against	outlast	-2
+win against	shut down	-2
+win against	take down	-2
+win against	winner over	-2
+win against	outplay	-2
+win against	shut out	-2
+win against	oust	-2
+lead over	win	-2
+lead over	beat	-2
+lead over	defeat	-2
+lead over	outscore	-2
+lead over	win against	-2
+lead over	upset	-2
+lead over	win over	-2
+lead over	top	-2
+lead over	outlast	-2
+lead over	shut down	-2
+lead over	take down	-2
+lead over	winner over	-2
+lead over	outplay	-2
+lead over	shut out	-2
+lead over	oust	-2
+upset	win	-2
+upset	beat	-2
+upset	defeat	-2
+upset	outscore	-2
+upset	win against	-2
+upset	lead over	-2
+upset	win over	-2
+upset	top	-2
+upset	outlast	-2
+upset	shut down	-2
+upset	take down	-2
+upset	winner over	-2
+upset	outplay	-2
+upset	shut out	-2
+upset	oust	-2
+win over	win	-2
+win over	beat	-2
+win over	defeat	-2
+win over	outscore	-2
+win over	win against	-2
+win over	lead over	-2
+win over	upset	-2
+win over	top	-2
+win over	outlast	-2
+win over	shut down	-2
+win over	take down	-2
+win over	winner over	-2
+win over	outplay	-2
+win over	shut out	-2
+win over	oust	-2
+top	win	-2
+top	beat	-2
+top	defeat	-2
+top	outscore	-2
+top	win against	-2
+top	lead over	-2
+top	upset	-2
+top	win over	-2
+top	outlast	-2
+top	shut down	-2
+top	take down	-2
+top	winner over	-2
+top	outplay	-2
+top	shut out	-2
+top	oust	-2
+outlast	win	-2
+outlast	beat	-2
+outlast	defeat	-2
+outlast	outscore	-2
+outlast	win against	-2
+outlast	lead over	-2
+outlast	upset	-2
+outlast	win over	-2
+outlast	top	-2
+outlast	shut down	-2
+outlast	take down	-2
+outlast	winner over	-2
+outlast	outplay	-2
+outlast	shut out	-2
+outlast	oust	-2
+shut down	win	-2
+shut down	beat	-2
+shut down	defeat	-2
+shut down	outscore	-2
+shut down	win against	-2
+shut down	lead over	-2
+shut down	upset	-2
+shut down	win over	-2
+shut down	top	-2
+shut down	outlast	-2
+shut down	take down	-2
+shut down	winner over	-2
+shut down	outplay	-2
+shut down	shut out	-2
+shut down	oust	-2
+take down	win	-2
+take down	beat	-2
+take down	defeat	-2
+take down	outscore	-2
+take down	win against	-2
+take down	lead over	-2
+take down	upset	-2
+take down	win over	-2
+take down	top	-2
+take down	outlast	-2
+take down	shut down	-2
+take down	winner over	-2
+take down	outplay	-2
+take down	shut out	-2
+take down	oust	-2
+winner over	win	-2
+winner over	beat	-2
+winner over	defeat	-2
+winner over	outscore	-2
+winner over	win against	-2
+winner over	lead over	-2
+winner over	upset	-2
+winner over	win over	-2
+winner over	top	-2
+winner over	outlast	-2
+winner over	shut down	-2
+winner over	take down	-2
+winner over	outplay	-2
+winner over	shut out	-2
+winner over	oust	-2
+outplay	win	-2
+outplay	beat	-2
+outplay	defeat	-2
+outplay	outscore	-2
+outplay	win against	-2
+outplay	lead over	-2
+outplay	upset	-2
+outplay	win over	-2
+outplay	top	-2
+outplay	outlast	-2
+outplay	shut down	-2
+outplay	take down	-2
+outplay	winner over	-2
+outplay	shut out	-2
+outplay	oust	-2
+shut out	win	-2
+shut out	beat	-2
+shut out	defeat	-2
+shut out	outscore	-2
+shut out	win against	-2
+shut out	lead over	-2
+shut out	upset	-2
+shut out	win over	-2
+shut out	top	-2
+shut out	outlast	-2
+shut out	shut down	-2
+shut out	take down	-2
+shut out	winner over	-2
+shut out	outplay	-2
+shut out	oust	-2
+oust	win	-2
+oust	beat	-2
+oust	defeat	-2
+oust	outscore	-2
+oust	win against	-2
+oust	lead over	-2
+oust	upset	-2
+oust	win over	-2
+oust	top	-2
+oust	outlast	-2
+oust	shut down	-2
+oust	take down	-2
+oust	winner over	-2
+oust	outplay	-2
+oust	shut out	-2
+lose	win	0
+lose	beat	0
+lose	defeat	0
+lose	outscore	0
+lose	win against	0
+lose	sweep	0
+lose	lead over	0
+lose	dominate	0
+lose	upset	0
+lose	eliminate	0
+lose	knock off	0
+lose	win over	0
+lose	top	0
+lose	outlast	0
+lose	shut down	0
+lose	take down	0
+lose	blow out	0
+lose	rout	0
+lose	crush	0
+lose	winner over	0
+lose	trounce	0
+lose	outplay	0
+lose	destroy	0
+lose	shut out	0
+lose	oust	0
+lose	clobber	0
+lose to	win	0
+lose to	beat	0
+lose to	defeat	0
+lose to	outscore	0
+lose to	win against	0
+lose to	sweep	0
+lose to	lead over	0
+lose to	dominate	0
+lose to	upset	0
+lose to	eliminate	0
+lose to	knock off	0
+lose to	win over	0
+lose to	top	0
+lose to	outlast	0
+lose to	shut down	0
+lose to	take down	0
+lose to	blow out	0
+lose to	rout	0
+lose to	crush	0
+lose to	winner over	0
+lose to	trounce	0
+lose to	outplay	0
+lose to	destroy	0
+lose to	shut out	0
+lose to	oust	0
+lose to	clobber	0
+fall to	win	0
+fall to	beat	0
+fall to	defeat	0
+fall to	outscore	0
+fall to	win against	0
+fall to	sweep	0
+fall to	lead over	0
+fall to	dominate	0
+fall to	upset	0
+fall to	eliminate	0
+fall to	knock off	0
+fall to	win over	0
+fall to	top	0
+fall to	outlast	0
+fall to	shut down	0
+fall to	take down	0
+fall to	blow out	0
+fall to	rout	0
+fall to	crush	0
+fall to	winner over	0
+fall to	trounce	0
+fall to	outplay	0
+fall to	destroy	0
+fall to	shut out	0
+fall to	oust	0
+fall to	clobber	0
+lose against	win	0
+lose against	beat	0
+lose against	defeat	0
+lose against	outscore	0
+lose against	win against	0
+lose against	sweep	0
+lose against	lead over	0
+lose against	dominate	0
+lose against	upset	0
+lose against	eliminate	0
+lose against	knock off	0
+lose against	win over	0
+lose against	top	0
+lose against	outlast	0
+lose against	shut down	0
+lose against	take down	0
+lose against	blow out	0
+lose against	rout	0
+lose against	crush	0
+lose against	winner over	0
+lose against	trounce	0
+lose against	outplay	0
+lose against	destroy	0
+lose against	shut out	0
+lose against	oust	0
+lose against	clobber	0
+finish behind	win	0
+finish behind	beat	0
+finish behind	defeat	0
+finish behind	outscore	0
+finish behind	win against	0
+finish behind	sweep	0
+finish behind	lead over	0
+finish behind	dominate	0
+finish behind	upset	0
+finish behind	eliminate	0
+finish behind	knock off	0
+finish behind	win over	0
+finish behind	top	0
+finish behind	outlast	0
+finish behind	shut down	0
+finish behind	take down	0
+finish behind	blow out	0
+finish behind	rout	0
+finish behind	crush	0
+finish behind	winner over	0
+finish behind	trounce	0
+finish behind	outplay	0
+finish behind	destroy	0
+finish behind	shut out	0
+finish behind	oust	0
+finish behind	clobber	0
+lose	play	1
+lose	face	1
+lose	take on	1
+lose	play against	1
+lose	against	1
+lose	vs	1
+lose	meet	1
+lose	go against	1
+lose to	play	1
+lose to	face	1
+lose to	take on	1
+lose to	play against	1
+lose to	against	1
+lose to	vs	1
+lose to	meet	1
+lose to	go against	1
+fall to	play	1
+fall to	face	1
+fall to	take on	1
+fall to	play against	1
+fall to	against	1
+fall to	vs	1
+fall to	meet	1
+fall to	go against	1
+lose against	play	1
+lose against	face	1
+lose against	take on	1
+lose against	play against	1
+lose against	against	1
+lose against	vs	1
+lose against	meet	1
+lose against	go against	1
+finish behind	play	1
+finish behind	face	1
+finish behind	take on	1
+finish behind	play against	1
+finish behind	against	1
+finish behind	vs	1
+finish behind	meet	1
+finish behind	go against	1
+lose	tie	0
+lose	tie with	0
+lose	draw with	0
+lose to	tie	0
+lose to	tie with	0
+lose to	draw with	0
+fall to	tie	0
+fall to	tie with	0
+fall to	draw with	0
+lose against	tie	0
+lose against	tie with	0
+lose against	draw with	0
+finish behind	tie	0
+finish behind	tie with	0
+finish behind	draw with	0
+lose	lose to	-2
+lose	fall to	-2
+lose	lose against	-2
+lose	finish behind	-2
+lose to	lose	-2
+lose to	fall to	-2
+lose to	lose against	-2
+lose to	finish behind	-2
+fall to	lose	-2
+fall to	lose to	-2
+fall to	lose against	-2
+fall to	finish behind	-2
+lose against	lose	-2
+lose against	lose to	-2
+lose against	fall to	-2
+lose against	finish behind	-2
+finish behind	lose	-2
+finish behind	lose to	-2
+finish behind	fall to	-2
+finish behind	lose against	-2
+tie	win	0
+tie	beat	0
+tie	defeat	0
+tie	outscore	0
+tie	win against	0
+tie	sweep	0
+tie	lead over	0
+tie	dominate	0
+tie	upset	0
+tie	eliminate	0
+tie	knock off	0
+tie	win over	0
+tie	top	0
+tie	outlast	0
+tie	shut down	0
+tie	take down	0
+tie	blow out	0
+tie	rout	0
+tie	crush	0
+tie	winner over	0
+tie	trounce	0
+tie	outplay	0
+tie	destroy	0
+tie	shut out	0
+tie	oust	0
+tie	clobber	0
+tie with	win	0
+tie with	beat	0
+tie with	defeat	0
+tie with	outscore	0
+tie with	win against	0
+tie with	sweep	0
+tie with	lead over	0
+tie with	dominate	0
+tie with	upset	0
+tie with	eliminate	0
+tie with	knock off	0
+tie with	win over	0
+tie with	top	0
+tie with	outlast	0
+tie with	shut down	0
+tie with	take down	0
+tie with	blow out	0
+tie with	rout	0
+tie with	crush	0
+tie with	winner over	0
+tie with	trounce	0
+tie with	outplay	0
+tie with	destroy	0
+tie with	shut out	0
+tie with	oust	0
+tie with	clobber	0
+draw with	win	0
+draw with	beat	0
+draw with	defeat	0
+draw with	outscore	0
+draw with	win against	0
+draw with	sweep	0
+draw with	lead over	0
+draw with	dominate	0
+draw with	upset	0
+draw with	eliminate	0
+draw with	knock off	0
+draw with	win over	0
+draw with	top	0
+draw with	outlast	0
+draw with	shut down	0
+draw with	take down	0
+draw with	blow out	0
+draw with	rout	0
+draw with	crush	0
+draw with	winner over	0
+draw with	trounce	0
+draw with	outplay	0
+draw with	destroy	0
+draw with	shut out	0
+draw with	oust	0
+draw with	clobber	0
+tie	play	1
+tie	face	1
+tie	take on	1
+tie	play against	1
+tie	against	1
+tie	vs	1
+tie	meet	1
+tie	go against	1
+tie with	play	1
+tie with	face	1
+tie with	take on	1
+tie with	play against	1
+tie with	against	1
+tie with	vs	1
+tie with	meet	1
+tie with	go against	1
+draw with	play	1
+draw with	face	1
+draw with	take on	1
+draw with	play against	1
+draw with	against	1
+draw with	vs	1
+draw with	meet	1
+draw with	go against	1
+tie	lose	0
+tie	lose to	0
+tie	fall to	0
+tie	lose against	0
+tie	finish behind	0
+tie with	lose	0
+tie with	lose to	0
+tie with	fall to	0
+tie with	lose against	0
+tie with	finish behind	0
+draw with	lose	0
+draw with	lose to	0
+draw with	fall to	0
+draw with	lose against	0
+draw with	finish behind	0
+tie	tie with	-2
+tie	draw with	-2
+tie with	tie	-2
+tie with	draw with	-2
+draw with	tie	-2
+draw with	tie with	-2
+play	win	-1
+play	beat	-1
+play	defeat	-1
+play	outscore	-1
+play	win against	-1
+play	sweep	-1
+play	lead over	-1
+play	dominate	-1
+play	upset	-1
+play	eliminate	-1
+play	knock off	-1
+play	win over	-1
+play	top	-1
+play	outlast	-1
+play	shut down	-1
+play	take down	-1
+play	blow out	-1
+play	rout	-1
+play	crush	-1
+play	winner over	-1
+play	trounce	-1
+play	outplay	-1
+play	destroy	-1
+play	shut out	-1
+play	oust	-1
+play	clobber	-1
+face	win	-1
+face	beat	-1
+face	defeat	-1
+face	outscore	-1
+face	win against	-1
+face	sweep	-1
+face	lead over	-1
+face	dominate	-1
+face	upset	-1
+face	eliminate	-1
+face	knock off	-1
+face	win over	-1
+face	top	-1
+face	outlast	-1
+face	shut down	-1
+face	take down	-1
+face	blow out	-1
+face	rout	-1
+face	crush	-1
+face	winner over	-1
+face	trounce	-1
+face	outplay	-1
+face	destroy	-1
+face	shut out	-1
+face	oust	-1
+face	clobber	-1
+take on	win	-1
+take on	beat	-1
+take on	defeat	-1
+take on	outscore	-1
+take on	win against	-1
+take on	sweep	-1
+take on	lead over	-1
+take on	dominate	-1
+take on	upset	-1
+take on	eliminate	-1
+take on	knock off	-1
+take on	win over	-1
+take on	top	-1
+take on	outlast	-1
+take on	shut down	-1
+take on	take down	-1
+take on	blow out	-1
+take on	rout	-1
+take on	crush	-1
+take on	winner over	-1
+take on	trounce	-1
+take on	outplay	-1
+take on	destroy	-1
+take on	shut out	-1
+take on	oust	-1
+take on	clobber	-1
+play against	win	-1
+play against	beat	-1
+play against	defeat	-1
+play against	outscore	-1
+play against	win against	-1
+play against	sweep	-1
+play against	lead over	-1
+play against	dominate	-1
+play against	upset	-1
+play against	eliminate	-1
+play against	knock off	-1
+play against	win over	-1
+play against	top	-1
+play against	outlast	-1
+play against	shut down	-1
+play against	take down	-1
+play against	blow out	-1
+play against	rout	-1
+play against	crush	-1
+play against	winner over	-1
+play against	trounce	-1
+play against	outplay	-1
+play against	destroy	-1
+play against	shut out	-1
+play against	oust	-1
+play against	clobber	-1
+against	win	-1
+against	beat	-1
+against	defeat	-1
+against	outscore	-1
+against	win against	-1
+against	sweep	-1
+against	lead over	-1
+against	dominate	-1
+against	upset	-1
+against	eliminate	-1
+against	knock off	-1
+against	win over	-1
+against	top	-1
+against	outlast	-1
+against	shut down	-1
+against	take down	-1
+against	blow out	-1
+against	rout	-1
+against	crush	-1
+against	winner over	-1
+against	trounce	-1
+against	outplay	-1
+against	destroy	-1
+against	shut out	-1
+against	oust	-1
+against	clobber	-1
+vs	win	-1
+vs	beat	-1
+vs	defeat	-1
+vs	outscore	-1
+vs	win against	-1
+vs	sweep	-1
+vs	lead over	-1
+vs	dominate	-1
+vs	upset	-1
+vs	eliminate	-1
+vs	knock off	-1
+vs	win over	-1
+vs	top	-1
+vs	outlast	-1
+vs	shut down	-1
+vs	take down	-1
+vs	blow out	-1
+vs	rout	-1
+vs	crush	-1
+vs	winner over	-1
+vs	trounce	-1
+vs	outplay	-1
+vs	destroy	-1
+vs	shut out	-1
+vs	oust	-1
+vs	clobber	-1
+meet	win	-1
+meet	beat	-1
+meet	defeat	-1
+meet	outscore	-1
+meet	win against	-1
+meet	sweep	-1
+meet	lead over	-1
+meet	dominate	-1
+meet	upset	-1
+meet	eliminate	-1
+meet	knock off	-1
+meet	win over	-1
+meet	top	-1
+meet	outlast	-1
+meet	shut down	-1
+meet	take down	-1
+meet	blow out	-1
+meet	rout	-1
+meet	crush	-1
+meet	winner over	-1
+meet	trounce	-1
+meet	outplay	-1
+meet	destroy	-1
+meet	shut out	-1
+meet	oust	-1
+meet	clobber	-1
+go against	win	-1
+go against	beat	-1
+go against	defeat	-1
+go against	outscore	-1
+go against	win against	-1
+go against	sweep	-1
+go against	lead over	-1
+go against	dominate	-1
+go against	upset	-1
+go against	eliminate	-1
+go against	knock off	-1
+go against	win over	-1
+go against	top	-1
+go against	outlast	-1
+go against	shut down	-1
+go against	take down	-1
+go against	blow out	-1
+go against	rout	-1
+go against	crush	-1
+go against	winner over	-1
+go against	trounce	-1
+go against	outplay	-1
+go against	destroy	-1
+go against	shut out	-1
+go against	oust	-1
+go against	clobber	-1
+play	lose	-1
+play	lose to	-1
+play	fall to	-1
+play	lose against	-1
+play	finish behind	-1
+face	lose	-1
+face	lose to	-1
+face	fall to	-1
+face	lose against	-1
+face	finish behind	-1
+take on	lose	-1
+take on	lose to	-1
+take on	fall to	-1
+take on	lose against	-1
+take on	finish behind	-1
+play against	lose	-1
+play against	lose to	-1
+play against	fall to	-1
+play against	lose against	-1
+play against	finish behind	-1
+against	lose	-1
+against	lose to	-1
+against	fall to	-1
+against	lose against	-1
+against	finish behind	-1
+vs	lose	-1
+vs	lose to	-1
+vs	fall to	-1
+vs	lose against	-1
+vs	finish behind	-1
+meet	lose	-1
+meet	lose to	-1
+meet	fall to	-1
+meet	lose against	-1
+meet	finish behind	-1
+go against	lose	-1
+go against	lose to	-1
+go against	fall to	-1
+go against	lose against	-1
+go against	finish behind	-1
+play	tie	-1
+play	tie with	-1
+play	draw with	-1
+face	tie	-1
+face	tie with	-1
+face	draw with	-1
+take on	tie	-1
+take on	tie with	-1
+take on	draw with	-1
+play against	tie	-1
+play against	tie with	-1
+play against	draw with	-1
+against	tie	-1
+against	tie with	-1
+against	draw with	-1
+vs	tie	-1
+vs	tie with	-1
+vs	draw with	-1
+meet	tie	-1
+meet	tie with	-1
+meet	draw with	-1
+go against	tie	-1
+go against	tie with	-1
+go against	draw with	-1
+play	face	-2
+play	take on	-2
+play	play against	-2
+play	against	-2
+play	vs	-2
+play	meet	-2
+play	go against	-2
+face	play	-2
+face	take on	-2
+face	play against	-2
+face	against	-2
+face	vs	-2
+face	meet	-2
+face	go against	-2
+take on	play	-2
+take on	face	-2
+take on	play against	-2
+take on	against	-2
+take on	vs	-2
+take on	meet	-2
+take on	go against	-2
+play against	play	-2
+play against	face	-2
+play against	take on	-2
+play against	against	-2
+play against	vs	-2
+play against	meet	-2
+play against	go against	-2
+against	play	-2
+against	face	-2
+against	take on	-2
+against	play against	-2
+against	vs	-2
+against	meet	-2
+against	go against	-2
+vs	play	-2
+vs	face	-2
+vs	take on	-2
+vs	play against	-2
+vs	against	-2
+vs	meet	-2
+vs	go against	-2
+meet	play	-2
+meet	face	-2
+meet	take on	-2
+meet	play against	-2
+meet	against	-2
+meet	vs	-2
+meet	go against	-2
+go against	play	-2
+go against	face	-2
+go against	take on	-2
+go against	play against	-2
+go against	against	-2
+go against	vs	-2
+go against	meet	-2

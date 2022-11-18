@@ -25,24 +25,27 @@ def setup() -> torch.device:
 @ex.capture
 def train_and_eval(device, cfg_hyperparameters, cfg_optimizer, cfg_dataset):
     # Load dataset
-    train, dev, test = load_datasets(cfg_dataset['name'], cfg_dataset['version'])
-    datasets = {
-            'train': train,
-            'dev': dev,
-            'test': test
-    }
+    train_info = cfg_dataset['train']
+    train, dev, test = load_datasets(train_info['name'], train_info['version'])
+
+    test_info = cfg_dataset['test']
+    _, _, test_suite = load_datasets(test_info['name'], test_info['version'])
 
     # Make a model
-    model = EntailmentModel(cfg_hyperparameters)
+    model = EntailmentModel(device, cfg_hyperparameters)
     model.to(device)
 
     # Train the model
     instructor = ModelInstructor(model, device, cfg_optimizer)
-    instructor.train_model(datasets)
+    instructor.train_model(train, dev)
 
     # Evaluate the model
+    # if test_suite:
+    #     for test_set in test_suite:
+    #         instructor.eval_model(test_set, 'test')
     if test:
-        instructor.eval_model(datasets['test'], 'test')
+        for test_set in test:
+            instructor.eval_model(test_set, 'test')
 
 
 @ex.automain

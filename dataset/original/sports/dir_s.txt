@@ -1,0 +1,544 @@
+Team A,did play,Team B	Team A,did win,Team B	True
+Team A,did face,Team B	Team A,did win,Team B	True
+Team A,did take on,Team B	Team A,did win,Team B	True
+Team A,did play against,Team B	Team A,did win,Team B	True
+Team A,did against,Team B	Team A,did win,Team B	True
+Team A,did vs,Team B	Team A,did win,Team B	True
+Team A,did meet,Team B	Team A,did win,Team B	True
+Team A,did go against,Team B	Team A,did win,Team B	True
+Team A,did play,Team B	Team A,did beat,Team B	True
+Team A,did face,Team B	Team A,did beat,Team B	True
+Team A,did take on,Team B	Team A,did beat,Team B	True
+Team A,did play against,Team B	Team A,did beat,Team B	True
+Team A,did against,Team B	Team A,did beat,Team B	True
+Team A,did vs,Team B	Team A,did beat,Team B	True
+Team A,did meet,Team B	Team A,did beat,Team B	True
+Team A,did go against,Team B	Team A,did beat,Team B	True
+Team A,did play,Team B	Team A,did defeat,Team B	True
+Team A,did face,Team B	Team A,did defeat,Team B	True
+Team A,did take on,Team B	Team A,did defeat,Team B	True
+Team A,did play against,Team B	Team A,did defeat,Team B	True
+Team A,did against,Team B	Team A,did defeat,Team B	True
+Team A,did vs,Team B	Team A,did defeat,Team B	True
+Team A,did meet,Team B	Team A,did defeat,Team B	True
+Team A,did go against,Team B	Team A,did defeat,Team B	True
+Team A,did play,Team B	Team A,did outscore,Team B	True
+Team A,did face,Team B	Team A,did outscore,Team B	True
+Team A,did take on,Team B	Team A,did outscore,Team B	True
+Team A,did play against,Team B	Team A,did outscore,Team B	True
+Team A,did against,Team B	Team A,did outscore,Team B	True
+Team A,did vs,Team B	Team A,did outscore,Team B	True
+Team A,did meet,Team B	Team A,did outscore,Team B	True
+Team A,did go against,Team B	Team A,did outscore,Team B	True
+Team A,did play,Team B	Team A,did win against,Team B	True
+Team A,did face,Team B	Team A,did win against,Team B	True
+Team A,did take on,Team B	Team A,did win against,Team B	True
+Team A,did play against,Team B	Team A,did win against,Team B	True
+Team A,did against,Team B	Team A,did win against,Team B	True
+Team A,did vs,Team B	Team A,did win against,Team B	True
+Team A,did meet,Team B	Team A,did win against,Team B	True
+Team A,did go against,Team B	Team A,did win against,Team B	True
+Team A,did play,Team B	Team A,did sweep,Team B	True
+Team A,did face,Team B	Team A,did sweep,Team B	True
+Team A,did take on,Team B	Team A,did sweep,Team B	True
+Team A,did play against,Team B	Team A,did sweep,Team B	True
+Team A,did against,Team B	Team A,did sweep,Team B	True
+Team A,did vs,Team B	Team A,did sweep,Team B	True
+Team A,did meet,Team B	Team A,did sweep,Team B	True
+Team A,did go against,Team B	Team A,did sweep,Team B	True
+Team A,did play,Team B	Team A,did lead over,Team B	True
+Team A,did face,Team B	Team A,did lead over,Team B	True
+Team A,did take on,Team B	Team A,did lead over,Team B	True
+Team A,did play against,Team B	Team A,did lead over,Team B	True
+Team A,did against,Team B	Team A,did lead over,Team B	True
+Team A,did vs,Team B	Team A,did lead over,Team B	True
+Team A,did meet,Team B	Team A,did lead over,Team B	True
+Team A,did go against,Team B	Team A,did lead over,Team B	True
+Team A,did play,Team B	Team A,did dominate,Team B	True
+Team A,did face,Team B	Team A,did dominate,Team B	True
+Team A,did take on,Team B	Team A,did dominate,Team B	True
+Team A,did play against,Team B	Team A,did dominate,Team B	True
+Team A,did against,Team B	Team A,did dominate,Team B	True
+Team A,did vs,Team B	Team A,did dominate,Team B	True
+Team A,did meet,Team B	Team A,did dominate,Team B	True
+Team A,did go against,Team B	Team A,did dominate,Team B	True
+Team A,did play,Team B	Team A,did upset,Team B	True
+Team A,did face,Team B	Team A,did upset,Team B	True
+Team A,did take on,Team B	Team A,did upset,Team B	True
+Team A,did play against,Team B	Team A,did upset,Team B	True
+Team A,did against,Team B	Team A,did upset,Team B	True
+Team A,did vs,Team B	Team A,did upset,Team B	True
+Team A,did meet,Team B	Team A,did upset,Team B	True
+Team A,did go against,Team B	Team A,did upset,Team B	True
+Team A,did play,Team B	Team A,did eliminate,Team B	True
+Team A,did face,Team B	Team A,did eliminate,Team B	True
+Team A,did take on,Team B	Team A,did eliminate,Team B	True
+Team A,did play against,Team B	Team A,did eliminate,Team B	True
+Team A,did against,Team B	Team A,did eliminate,Team B	True
+Team A,did vs,Team B	Team A,did eliminate,Team B	True
+Team A,did meet,Team B	Team A,did eliminate,Team B	True
+Team A,did go against,Team B	Team A,did eliminate,Team B	True
+Team A,did play,Team B	Team A,did knock off,Team B	True
+Team A,did face,Team B	Team A,did knock off,Team B	True
+Team A,did take on,Team B	Team A,did knock off,Team B	True
+Team A,did play against,Team B	Team A,did knock off,Team B	True
+Team A,did against,Team B	Team A,did knock off,Team B	True
+Team A,did vs,Team B	Team A,did knock off,Team B	True
+Team A,did meet,Team B	Team A,did knock off,Team B	True
+Team A,did go against,Team B	Team A,did knock off,Team B	True
+Team A,did play,Team B	Team A,did win over,Team B	True
+Team A,did face,Team B	Team A,did win over,Team B	True
+Team A,did take on,Team B	Team A,did win over,Team B	True
+Team A,did play against,Team B	Team A,did win over,Team B	True
+Team A,did against,Team B	Team A,did win over,Team B	True
+Team A,did vs,Team B	Team A,did win over,Team B	True
+Team A,did meet,Team B	Team A,did win over,Team B	True
+Team A,did go against,Team B	Team A,did win over,Team B	True
+Team A,did play,Team B	Team A,did top,Team B	True
+Team A,did face,Team B	Team A,did top,Team B	True
+Team A,did take on,Team B	Team A,did top,Team B	True
+Team A,did play against,Team B	Team A,did top,Team B	True
+Team A,did against,Team B	Team A,did top,Team B	True
+Team A,did vs,Team B	Team A,did top,Team B	True
+Team A,did meet,Team B	Team A,did top,Team B	True
+Team A,did go against,Team B	Team A,did top,Team B	True
+Team A,did play,Team B	Team A,did outlast,Team B	True
+Team A,did face,Team B	Team A,did outlast,Team B	True
+Team A,did take on,Team B	Team A,did outlast,Team B	True
+Team A,did play against,Team B	Team A,did outlast,Team B	True
+Team A,did against,Team B	Team A,did outlast,Team B	True
+Team A,did vs,Team B	Team A,did outlast,Team B	True
+Team A,did meet,Team B	Team A,did outlast,Team B	True
+Team A,did go against,Team B	Team A,did outlast,Team B	True
+Team A,did play,Team B	Team A,did shut down,Team B	True
+Team A,did face,Team B	Team A,did shut down,Team B	True
+Team A,did take on,Team B	Team A,did shut down,Team B	True
+Team A,did play against,Team B	Team A,did shut down,Team B	True
+Team A,did against,Team B	Team A,did shut down,Team B	True
+Team A,did vs,Team B	Team A,did shut down,Team B	True
+Team A,did meet,Team B	Team A,did shut down,Team B	True
+Team A,did go against,Team B	Team A,did shut down,Team B	True
+Team A,did play,Team B	Team A,did take down,Team B	True
+Team A,did face,Team B	Team A,did take down,Team B	True
+Team A,did take on,Team B	Team A,did take down,Team B	True
+Team A,did play against,Team B	Team A,did take down,Team B	True
+Team A,did against,Team B	Team A,did take down,Team B	True
+Team A,did vs,Team B	Team A,did take down,Team B	True
+Team A,did meet,Team B	Team A,did take down,Team B	True
+Team A,did go against,Team B	Team A,did take down,Team B	True
+Team A,did play,Team B	Team A,did blow out,Team B	True
+Team A,did face,Team B	Team A,did blow out,Team B	True
+Team A,did take on,Team B	Team A,did blow out,Team B	True
+Team A,did play against,Team B	Team A,did blow out,Team B	True
+Team A,did against,Team B	Team A,did blow out,Team B	True
+Team A,did vs,Team B	Team A,did blow out,Team B	True
+Team A,did meet,Team B	Team A,did blow out,Team B	True
+Team A,did go against,Team B	Team A,did blow out,Team B	True
+Team A,did play,Team B	Team A,did rout,Team B	True
+Team A,did face,Team B	Team A,did rout,Team B	True
+Team A,did take on,Team B	Team A,did rout,Team B	True
+Team A,did play against,Team B	Team A,did rout,Team B	True
+Team A,did against,Team B	Team A,did rout,Team B	True
+Team A,did vs,Team B	Team A,did rout,Team B	True
+Team A,did meet,Team B	Team A,did rout,Team B	True
+Team A,did go against,Team B	Team A,did rout,Team B	True
+Team A,did play,Team B	Team A,did crush,Team B	True
+Team A,did face,Team B	Team A,did crush,Team B	True
+Team A,did take on,Team B	Team A,did crush,Team B	True
+Team A,did play against,Team B	Team A,did crush,Team B	True
+Team A,did against,Team B	Team A,did crush,Team B	True
+Team A,did vs,Team B	Team A,did crush,Team B	True
+Team A,did meet,Team B	Team A,did crush,Team B	True
+Team A,did go against,Team B	Team A,did crush,Team B	True
+Team A,did play,Team B	Team A,did winner over,Team B	True
+Team A,did face,Team B	Team A,did winner over,Team B	True
+Team A,did take on,Team B	Team A,did winner over,Team B	True
+Team A,did play against,Team B	Team A,did winner over,Team B	True
+Team A,did against,Team B	Team A,did winner over,Team B	True
+Team A,did vs,Team B	Team A,did winner over,Team B	True
+Team A,did meet,Team B	Team A,did winner over,Team B	True
+Team A,did go against,Team B	Team A,did winner over,Team B	True
+Team A,did play,Team B	Team A,did trounce,Team B	True
+Team A,did face,Team B	Team A,did trounce,Team B	True
+Team A,did take on,Team B	Team A,did trounce,Team B	True
+Team A,did play against,Team B	Team A,did trounce,Team B	True
+Team A,did against,Team B	Team A,did trounce,Team B	True
+Team A,did vs,Team B	Team A,did trounce,Team B	True
+Team A,did meet,Team B	Team A,did trounce,Team B	True
+Team A,did go against,Team B	Team A,did trounce,Team B	True
+Team A,did play,Team B	Team A,did outplay,Team B	True
+Team A,did face,Team B	Team A,did outplay,Team B	True
+Team A,did take on,Team B	Team A,did outplay,Team B	True
+Team A,did play against,Team B	Team A,did outplay,Team B	True
+Team A,did against,Team B	Team A,did outplay,Team B	True
+Team A,did vs,Team B	Team A,did outplay,Team B	True
+Team A,did meet,Team B	Team A,did outplay,Team B	True
+Team A,did go against,Team B	Team A,did outplay,Team B	True
+Team A,did play,Team B	Team A,did destroy,Team B	True
+Team A,did face,Team B	Team A,did destroy,Team B	True
+Team A,did take on,Team B	Team A,did destroy,Team B	True
+Team A,did play against,Team B	Team A,did destroy,Team B	True
+Team A,did against,Team B	Team A,did destroy,Team B	True
+Team A,did vs,Team B	Team A,did destroy,Team B	True
+Team A,did meet,Team B	Team A,did destroy,Team B	True
+Team A,did go against,Team B	Team A,did destroy,Team B	True
+Team A,did play,Team B	Team A,did shut out,Team B	True
+Team A,did face,Team B	Team A,did shut out,Team B	True
+Team A,did take on,Team B	Team A,did shut out,Team B	True
+Team A,did play against,Team B	Team A,did shut out,Team B	True
+Team A,did against,Team B	Team A,did shut out,Team B	True
+Team A,did vs,Team B	Team A,did shut out,Team B	True
+Team A,did meet,Team B	Team A,did shut out,Team B	True
+Team A,did go against,Team B	Team A,did shut out,Team B	True
+Team A,did play,Team B	Team A,did oust,Team B	True
+Team A,did face,Team B	Team A,did oust,Team B	True
+Team A,did take on,Team B	Team A,did oust,Team B	True
+Team A,did play against,Team B	Team A,did oust,Team B	True
+Team A,did against,Team B	Team A,did oust,Team B	True
+Team A,did vs,Team B	Team A,did oust,Team B	True
+Team A,did meet,Team B	Team A,did oust,Team B	True
+Team A,did go against,Team B	Team A,did oust,Team B	True
+Team A,did play,Team B	Team A,did clobber,Team B	True
+Team A,did face,Team B	Team A,did clobber,Team B	True
+Team A,did take on,Team B	Team A,did clobber,Team B	True
+Team A,did play against,Team B	Team A,did clobber,Team B	True
+Team A,did against,Team B	Team A,did clobber,Team B	True
+Team A,did vs,Team B	Team A,did clobber,Team B	True
+Team A,did meet,Team B	Team A,did clobber,Team B	True
+Team A,did go against,Team B	Team A,did clobber,Team B	True
+Team A,did play,Team B	Team A,did lose,Team B	True
+Team A,did face,Team B	Team A,did lose,Team B	True
+Team A,did take on,Team B	Team A,did lose,Team B	True
+Team A,did play against,Team B	Team A,did lose,Team B	True
+Team A,did against,Team B	Team A,did lose,Team B	True
+Team A,did vs,Team B	Team A,did lose,Team B	True
+Team A,did meet,Team B	Team A,did lose,Team B	True
+Team A,did go against,Team B	Team A,did lose,Team B	True
+Team A,did play,Team B	Team A,did lose to,Team B	True
+Team A,did face,Team B	Team A,did lose to,Team B	True
+Team A,did take on,Team B	Team A,did lose to,Team B	True
+Team A,did play against,Team B	Team A,did lose to,Team B	True
+Team A,did against,Team B	Team A,did lose to,Team B	True
+Team A,did vs,Team B	Team A,did lose to,Team B	True
+Team A,did meet,Team B	Team A,did lose to,Team B	True
+Team A,did go against,Team B	Team A,did lose to,Team B	True
+Team A,did play,Team B	Team A,did fall to,Team B	True
+Team A,did face,Team B	Team A,did fall to,Team B	True
+Team A,did take on,Team B	Team A,did fall to,Team B	True
+Team A,did play against,Team B	Team A,did fall to,Team B	True
+Team A,did against,Team B	Team A,did fall to,Team B	True
+Team A,did vs,Team B	Team A,did fall to,Team B	True
+Team A,did meet,Team B	Team A,did fall to,Team B	True
+Team A,did go against,Team B	Team A,did fall to,Team B	True
+Team A,did play,Team B	Team A,did lose against,Team B	True
+Team A,did face,Team B	Team A,did lose against,Team B	True
+Team A,did take on,Team B	Team A,did lose against,Team B	True
+Team A,did play against,Team B	Team A,did lose against,Team B	True
+Team A,did against,Team B	Team A,did lose against,Team B	True
+Team A,did vs,Team B	Team A,did lose against,Team B	True
+Team A,did meet,Team B	Team A,did lose against,Team B	True
+Team A,did go against,Team B	Team A,did lose against,Team B	True
+Team A,did play,Team B	Team A,did finish behind,Team B	True
+Team A,did face,Team B	Team A,did finish behind,Team B	True
+Team A,did take on,Team B	Team A,did finish behind,Team B	True
+Team A,did play against,Team B	Team A,did finish behind,Team B	True
+Team A,did against,Team B	Team A,did finish behind,Team B	True
+Team A,did vs,Team B	Team A,did finish behind,Team B	True
+Team A,did meet,Team B	Team A,did finish behind,Team B	True
+Team A,did go against,Team B	Team A,did finish behind,Team B	True
+Team A,did play,Team B	Team A,did tie,Team B	True
+Team A,did face,Team B	Team A,did tie,Team B	True
+Team A,did take on,Team B	Team A,did tie,Team B	True
+Team A,did play against,Team B	Team A,did tie,Team B	True
+Team A,did against,Team B	Team A,did tie,Team B	True
+Team A,did vs,Team B	Team A,did tie,Team B	True
+Team A,did meet,Team B	Team A,did tie,Team B	True
+Team A,did go against,Team B	Team A,did tie,Team B	True
+Team A,did play,Team B	Team A,did tie with,Team B	True
+Team A,did face,Team B	Team A,did tie with,Team B	True
+Team A,did take on,Team B	Team A,did tie with,Team B	True
+Team A,did play against,Team B	Team A,did tie with,Team B	True
+Team A,did against,Team B	Team A,did tie with,Team B	True
+Team A,did vs,Team B	Team A,did tie with,Team B	True
+Team A,did meet,Team B	Team A,did tie with,Team B	True
+Team A,did go against,Team B	Team A,did tie with,Team B	True
+Team A,did play,Team B	Team A,did draw with,Team B	True
+Team A,did face,Team B	Team A,did draw with,Team B	True
+Team A,did take on,Team B	Team A,did draw with,Team B	True
+Team A,did play against,Team B	Team A,did draw with,Team B	True
+Team A,did against,Team B	Team A,did draw with,Team B	True
+Team A,did vs,Team B	Team A,did draw with,Team B	True
+Team A,did meet,Team B	Team A,did draw with,Team B	True
+Team A,did go against,Team B	Team A,did draw with,Team B	True
+Team A,did win,Team B	Team A,did play,Team B	False
+Team A,did beat,Team B	Team A,did play,Team B	False
+Team A,did defeat,Team B	Team A,did play,Team B	False
+Team A,did outscore,Team B	Team A,did play,Team B	False
+Team A,did win against,Team B	Team A,did play,Team B	False
+Team A,did sweep,Team B	Team A,did play,Team B	False
+Team A,did lead over,Team B	Team A,did play,Team B	False
+Team A,did dominate,Team B	Team A,did play,Team B	False
+Team A,did upset,Team B	Team A,did play,Team B	False
+Team A,did eliminate,Team B	Team A,did play,Team B	False
+Team A,did knock off,Team B	Team A,did play,Team B	False
+Team A,did win over,Team B	Team A,did play,Team B	False
+Team A,did top,Team B	Team A,did play,Team B	False
+Team A,did outlast,Team B	Team A,did play,Team B	False
+Team A,did shut down,Team B	Team A,did play,Team B	False
+Team A,did take down,Team B	Team A,did play,Team B	False
+Team A,did blow out,Team B	Team A,did play,Team B	False
+Team A,did rout,Team B	Team A,did play,Team B	False
+Team A,did crush,Team B	Team A,did play,Team B	False
+Team A,did winner over,Team B	Team A,did play,Team B	False
+Team A,did trounce,Team B	Team A,did play,Team B	False
+Team A,did outplay,Team B	Team A,did play,Team B	False
+Team A,did destroy,Team B	Team A,did play,Team B	False
+Team A,did shut out,Team B	Team A,did play,Team B	False
+Team A,did oust,Team B	Team A,did play,Team B	False
+Team A,did clobber,Team B	Team A,did play,Team B	False
+Team A,did win,Team B	Team A,did face,Team B	False
+Team A,did beat,Team B	Team A,did face,Team B	False
+Team A,did defeat,Team B	Team A,did face,Team B	False
+Team A,did outscore,Team B	Team A,did face,Team B	False
+Team A,did win against,Team B	Team A,did face,Team B	False
+Team A,did sweep,Team B	Team A,did face,Team B	False
+Team A,did lead over,Team B	Team A,did face,Team B	False
+Team A,did dominate,Team B	Team A,did face,Team B	False
+Team A,did upset,Team B	Team A,did face,Team B	False
+Team A,did eliminate,Team B	Team A,did face,Team B	False
+Team A,did knock off,Team B	Team A,did face,Team B	False
+Team A,did win over,Team B	Team A,did face,Team B	False
+Team A,did top,Team B	Team A,did face,Team B	False
+Team A,did outlast,Team B	Team A,did face,Team B	False
+Team A,did shut down,Team B	Team A,did face,Team B	False
+Team A,did take down,Team B	Team A,did face,Team B	False
+Team A,did blow out,Team B	Team A,did face,Team B	False
+Team A,did rout,Team B	Team A,did face,Team B	False
+Team A,did crush,Team B	Team A,did face,Team B	False
+Team A,did winner over,Team B	Team A,did face,Team B	False
+Team A,did trounce,Team B	Team A,did face,Team B	False
+Team A,did outplay,Team B	Team A,did face,Team B	False
+Team A,did destroy,Team B	Team A,did face,Team B	False
+Team A,did shut out,Team B	Team A,did face,Team B	False
+Team A,did oust,Team B	Team A,did face,Team B	False
+Team A,did clobber,Team B	Team A,did face,Team B	False
+Team A,did win,Team B	Team A,did take on,Team B	False
+Team A,did beat,Team B	Team A,did take on,Team B	False
+Team A,did defeat,Team B	Team A,did take on,Team B	False
+Team A,did outscore,Team B	Team A,did take on,Team B	False
+Team A,did win against,Team B	Team A,did take on,Team B	False
+Team A,did sweep,Team B	Team A,did take on,Team B	False
+Team A,did lead over,Team B	Team A,did take on,Team B	False
+Team A,did dominate,Team B	Team A,did take on,Team B	False
+Team A,did upset,Team B	Team A,did take on,Team B	False
+Team A,did eliminate,Team B	Team A,did take on,Team B	False
+Team A,did knock off,Team B	Team A,did take on,Team B	False
+Team A,did win over,Team B	Team A,did take on,Team B	False
+Team A,did top,Team B	Team A,did take on,Team B	False
+Team A,did outlast,Team B	Team A,did take on,Team B	False
+Team A,did shut down,Team B	Team A,did take on,Team B	False
+Team A,did take down,Team B	Team A,did take on,Team B	False
+Team A,did blow out,Team B	Team A,did take on,Team B	False
+Team A,did rout,Team B	Team A,did take on,Team B	False
+Team A,did crush,Team B	Team A,did take on,Team B	False
+Team A,did winner over,Team B	Team A,did take on,Team B	False
+Team A,did trounce,Team B	Team A,did take on,Team B	False
+Team A,did outplay,Team B	Team A,did take on,Team B	False
+Team A,did destroy,Team B	Team A,did take on,Team B	False
+Team A,did shut out,Team B	Team A,did take on,Team B	False
+Team A,did oust,Team B	Team A,did take on,Team B	False
+Team A,did clobber,Team B	Team A,did take on,Team B	False
+Team A,did win,Team B	Team A,did play against,Team B	False
+Team A,did beat,Team B	Team A,did play against,Team B	False
+Team A,did defeat,Team B	Team A,did play against,Team B	False
+Team A,did outscore,Team B	Team A,did play against,Team B	False
+Team A,did win against,Team B	Team A,did play against,Team B	False
+Team A,did sweep,Team B	Team A,did play against,Team B	False
+Team A,did lead over,Team B	Team A,did play against,Team B	False
+Team A,did dominate,Team B	Team A,did play against,Team B	False
+Team A,did upset,Team B	Team A,did play against,Team B	False
+Team A,did eliminate,Team B	Team A,did play against,Team B	False
+Team A,did knock off,Team B	Team A,did play against,Team B	False
+Team A,did win over,Team B	Team A,did play against,Team B	False
+Team A,did top,Team B	Team A,did play against,Team B	False
+Team A,did outlast,Team B	Team A,did play against,Team B	False
+Team A,did shut down,Team B	Team A,did play against,Team B	False
+Team A,did take down,Team B	Team A,did play against,Team B	False
+Team A,did blow out,Team B	Team A,did play against,Team B	False
+Team A,did rout,Team B	Team A,did play against,Team B	False
+Team A,did crush,Team B	Team A,did play against,Team B	False
+Team A,did winner over,Team B	Team A,did play against,Team B	False
+Team A,did trounce,Team B	Team A,did play against,Team B	False
+Team A,did outplay,Team B	Team A,did play against,Team B	False
+Team A,did destroy,Team B	Team A,did play against,Team B	False
+Team A,did shut out,Team B	Team A,did play against,Team B	False
+Team A,did oust,Team B	Team A,did play against,Team B	False
+Team A,did clobber,Team B	Team A,did play against,Team B	False
+Team A,did win,Team B	Team A,did against,Team B	False
+Team A,did beat,Team B	Team A,did against,Team B	False
+Team A,did defeat,Team B	Team A,did against,Team B	False
+Team A,did outscore,Team B	Team A,did against,Team B	False
+Team A,did win against,Team B	Team A,did against,Team B	False
+Team A,did sweep,Team B	Team A,did against,Team B	False
+Team A,did lead over,Team B	Team A,did against,Team B	False
+Team A,did dominate,Team B	Team A,did against,Team B	False
+Team A,did upset,Team B	Team A,did against,Team B	False
+Team A,did eliminate,Team B	Team A,did against,Team B	False
+Team A,did knock off,Team B	Team A,did against,Team B	False
+Team A,did win over,Team B	Team A,did against,Team B	False
+Team A,did top,Team B	Team A,did against,Team B	False
+Team A,did outlast,Team B	Team A,did against,Team B	False
+Team A,did shut down,Team B	Team A,did against,Team B	False
+Team A,did take down,Team B	Team A,did against,Team B	False
+Team A,did blow out,Team B	Team A,did against,Team B	False
+Team A,did rout,Team B	Team A,did against,Team B	False
+Team A,did crush,Team B	Team A,did against,Team B	False
+Team A,did winner over,Team B	Team A,did against,Team B	False
+Team A,did trounce,Team B	Team A,did against,Team B	False
+Team A,did outplay,Team B	Team A,did against,Team B	False
+Team A,did destroy,Team B	Team A,did against,Team B	False
+Team A,did shut out,Team B	Team A,did against,Team B	False
+Team A,did oust,Team B	Team A,did against,Team B	False
+Team A,did clobber,Team B	Team A,did against,Team B	False
+Team A,did win,Team B	Team A,did vs,Team B	False
+Team A,did beat,Team B	Team A,did vs,Team B	False
+Team A,did defeat,Team B	Team A,did vs,Team B	False
+Team A,did outscore,Team B	Team A,did vs,Team B	False
+Team A,did win against,Team B	Team A,did vs,Team B	False
+Team A,did sweep,Team B	Team A,did vs,Team B	False
+Team A,did lead over,Team B	Team A,did vs,Team B	False
+Team A,did dominate,Team B	Team A,did vs,Team B	False
+Team A,did upset,Team B	Team A,did vs,Team B	False
+Team A,did eliminate,Team B	Team A,did vs,Team B	False
+Team A,did knock off,Team B	Team A,did vs,Team B	False
+Team A,did win over,Team B	Team A,did vs,Team B	False
+Team A,did top,Team B	Team A,did vs,Team B	False
+Team A,did outlast,Team B	Team A,did vs,Team B	False
+Team A,did shut down,Team B	Team A,did vs,Team B	False
+Team A,did take down,Team B	Team A,did vs,Team B	False
+Team A,did blow out,Team B	Team A,did vs,Team B	False
+Team A,did rout,Team B	Team A,did vs,Team B	False
+Team A,did crush,Team B	Team A,did vs,Team B	False
+Team A,did winner over,Team B	Team A,did vs,Team B	False
+Team A,did trounce,Team B	Team A,did vs,Team B	False
+Team A,did outplay,Team B	Team A,did vs,Team B	False
+Team A,did destroy,Team B	Team A,did vs,Team B	False
+Team A,did shut out,Team B	Team A,did vs,Team B	False
+Team A,did oust,Team B	Team A,did vs,Team B	False
+Team A,did clobber,Team B	Team A,did vs,Team B	False
+Team A,did win,Team B	Team A,did meet,Team B	False
+Team A,did beat,Team B	Team A,did meet,Team B	False
+Team A,did defeat,Team B	Team A,did meet,Team B	False
+Team A,did outscore,Team B	Team A,did meet,Team B	False
+Team A,did win against,Team B	Team A,did meet,Team B	False
+Team A,did sweep,Team B	Team A,did meet,Team B	False
+Team A,did lead over,Team B	Team A,did meet,Team B	False
+Team A,did dominate,Team B	Team A,did meet,Team B	False
+Team A,did upset,Team B	Team A,did meet,Team B	False
+Team A,did eliminate,Team B	Team A,did meet,Team B	False
+Team A,did knock off,Team B	Team A,did meet,Team B	False
+Team A,did win over,Team B	Team A,did meet,Team B	False
+Team A,did top,Team B	Team A,did meet,Team B	False
+Team A,did outlast,Team B	Team A,did meet,Team B	False
+Team A,did shut down,Team B	Team A,did meet,Team B	False
+Team A,did take down,Team B	Team A,did meet,Team B	False
+Team A,did blow out,Team B	Team A,did meet,Team B	False
+Team A,did rout,Team B	Team A,did meet,Team B	False
+Team A,did crush,Team B	Team A,did meet,Team B	False
+Team A,did winner over,Team B	Team A,did meet,Team B	False
+Team A,did trounce,Team B	Team A,did meet,Team B	False
+Team A,did outplay,Team B	Team A,did meet,Team B	False
+Team A,did destroy,Team B	Team A,did meet,Team B	False
+Team A,did shut out,Team B	Team A,did meet,Team B	False
+Team A,did oust,Team B	Team A,did meet,Team B	False
+Team A,did clobber,Team B	Team A,did meet,Team B	False
+Team A,did win,Team B	Team A,did go against,Team B	False
+Team A,did beat,Team B	Team A,did go against,Team B	False
+Team A,did defeat,Team B	Team A,did go against,Team B	False
+Team A,did outscore,Team B	Team A,did go against,Team B	False
+Team A,did win against,Team B	Team A,did go against,Team B	False
+Team A,did sweep,Team B	Team A,did go against,Team B	False
+Team A,did lead over,Team B	Team A,did go against,Team B	False
+Team A,did dominate,Team B	Team A,did go against,Team B	False
+Team A,did upset,Team B	Team A,did go against,Team B	False
+Team A,did eliminate,Team B	Team A,did go against,Team B	False
+Team A,did knock off,Team B	Team A,did go against,Team B	False
+Team A,did win over,Team B	Team A,did go against,Team B	False
+Team A,did top,Team B	Team A,did go against,Team B	False
+Team A,did outlast,Team B	Team A,did go against,Team B	False
+Team A,did shut down,Team B	Team A,did go against,Team B	False
+Team A,did take down,Team B	Team A,did go against,Team B	False
+Team A,did blow out,Team B	Team A,did go against,Team B	False
+Team A,did rout,Team B	Team A,did go against,Team B	False
+Team A,did crush,Team B	Team A,did go against,Team B	False
+Team A,did winner over,Team B	Team A,did go against,Team B	False
+Team A,did trounce,Team B	Team A,did go against,Team B	False
+Team A,did outplay,Team B	Team A,did go against,Team B	False
+Team A,did destroy,Team B	Team A,did go against,Team B	False
+Team A,did shut out,Team B	Team A,did go against,Team B	False
+Team A,did oust,Team B	Team A,did go against,Team B	False
+Team A,did clobber,Team B	Team A,did go against,Team B	False
+Team A,did lose,Team B	Team A,did play,Team B	False
+Team A,did lose to,Team B	Team A,did play,Team B	False
+Team A,did fall to,Team B	Team A,did play,Team B	False
+Team A,did lose against,Team B	Team A,did play,Team B	False
+Team A,did finish behind,Team B	Team A,did play,Team B	False
+Team A,did lose,Team B	Team A,did face,Team B	False
+Team A,did lose to,Team B	Team A,did face,Team B	False
+Team A,did fall to,Team B	Team A,did face,Team B	False
+Team A,did lose against,Team B	Team A,did face,Team B	False
+Team A,did finish behind,Team B	Team A,did face,Team B	False
+Team A,did lose,Team B	Team A,did take on,Team B	False
+Team A,did lose to,Team B	Team A,did take on,Team B	False
+Team A,did fall to,Team B	Team A,did take on,Team B	False
+Team A,did lose against,Team B	Team A,did take on,Team B	False
+Team A,did finish behind,Team B	Team A,did take on,Team B	False
+Team A,did lose,Team B	Team A,did play against,Team B	False
+Team A,did lose to,Team B	Team A,did play against,Team B	False
+Team A,did fall to,Team B	Team A,did play against,Team B	False
+Team A,did lose against,Team B	Team A,did play against,Team B	False
+Team A,did finish behind,Team B	Team A,did play against,Team B	False
+Team A,did lose,Team B	Team A,did against,Team B	False
+Team A,did lose to,Team B	Team A,did against,Team B	False
+Team A,did fall to,Team B	Team A,did against,Team B	False
+Team A,did lose against,Team B	Team A,did against,Team B	False
+Team A,did finish behind,Team B	Team A,did against,Team B	False
+Team A,did lose,Team B	Team A,did vs,Team B	False
+Team A,did lose to,Team B	Team A,did vs,Team B	False
+Team A,did fall to,Team B	Team A,did vs,Team B	False
+Team A,did lose against,Team B	Team A,did vs,Team B	False
+Team A,did finish behind,Team B	Team A,did vs,Team B	False
+Team A,did lose,Team B	Team A,did meet,Team B	False
+Team A,did lose to,Team B	Team A,did meet,Team B	False
+Team A,did fall to,Team B	Team A,did meet,Team B	False
+Team A,did lose against,Team B	Team A,did meet,Team B	False
+Team A,did finish behind,Team B	Team A,did meet,Team B	False
+Team A,did lose,Team B	Team A,did go against,Team B	False
+Team A,did lose to,Team B	Team A,did go against,Team B	False
+Team A,did fall to,Team B	Team A,did go against,Team B	False
+Team A,did lose against,Team B	Team A,did go against,Team B	False
+Team A,did finish behind,Team B	Team A,did go against,Team B	False
+Team A,did tie,Team B	Team A,did play,Team B	False
+Team A,did tie with,Team B	Team A,did play,Team B	False
+Team A,did draw with,Team B	Team A,did play,Team B	False
+Team A,did tie,Team B	Team A,did face,Team B	False
+Team A,did tie with,Team B	Team A,did face,Team B	False
+Team A,did draw with,Team B	Team A,did face,Team B	False
+Team A,did tie,Team B	Team A,did take on,Team B	False
+Team A,did tie with,Team B	Team A,did take on,Team B	False
+Team A,did draw with,Team B	Team A,did take on,Team B	False
+Team A,did tie,Team B	Team A,did play against,Team B	False
+Team A,did tie with,Team B	Team A,did play against,Team B	False
+Team A,did draw with,Team B	Team A,did play against,Team B	False
+Team A,did tie,Team B	Team A,did against,Team B	False
+Team A,did tie with,Team B	Team A,did against,Team B	False
+Team A,did draw with,Team B	Team A,did against,Team B	False
+Team A,did tie,Team B	Team A,did vs,Team B	False
+Team A,did tie with,Team B	Team A,did vs,Team B	False
+Team A,did draw with,Team B	Team A,did vs,Team B	False
+Team A,did tie,Team B	Team A,did meet,Team B	False
+Team A,did tie with,Team B	Team A,did meet,Team B	False
+Team A,did draw with,Team B	Team A,did meet,Team B	False
+Team A,did tie,Team B	Team A,did go against,Team B	False
+Team A,did tie with,Team B	Team A,did go against,Team B	False
+Team A,did draw with,Team B	Team A,did go against,Team B	False

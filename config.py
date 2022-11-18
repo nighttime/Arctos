@@ -1,3 +1,5 @@
+from dataset import dataset_codes
+
 RANDOM_SEED = 3
 
 CFG_HYPERPARAMETERS = {
@@ -8,9 +10,15 @@ CFG_HYPERPARAMETERS = {
 CFG_OPTIMIZER = {
 		'learning_rate': 1e-4,
 		'batch_size': 64,
-		'max_train_steps': 1000
+		'max_train_steps': 2
 }
 CFG_DATASET = {
-		'name': 'ANT-dir',
+	'train': {
+		'name': dataset_codes.ANT_DIR,
 		'version': 2
+	},
+	'test': {
+		'name': dataset_codes.TESTSUITE,
+		'version': 1
+	}
 }
