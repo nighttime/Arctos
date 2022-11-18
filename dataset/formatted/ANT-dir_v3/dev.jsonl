@@ -1,0 +1,276 @@
+{"hypothesis": ["kelly", "changed the state of", "the water"], "premise": ["kelly", "boiled", "the water"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["jamie", "changed the state of", "the water"], "premise": ["jamie", "froze", "the water"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["charlie", "changed the temperature of", "the water"], "premise": ["charlie", "boiled", "the water"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["aiden", "changed the temperature of", "the water"], "premise": ["aiden", "froze", "the water"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["andy", "drove", "the truck"], "premise": ["andy", "accelerated", "the truck"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["ashley", "drove", "the train"], "premise": ["ashley", "sped up", "the train"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["the woman", "drove", "the car"], "premise": ["the woman", "decelerated", "the car"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["the driver", "drove", "the train"], "premise": ["the driver", "slowed", "the train"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["elliot", "drove", "the tractor"], "premise": ["elliot", "slowed down", "the tractor"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["casey", "stood trial for", "the crime"], "premise": ["casey", "was acquitted of", "the crime"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["ali", "stood trial for", "kidnapping"], "premise": ["ali", "was absolved of", "kidnapping"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["ashley", "stood trial for", "the crime"], "premise": ["ashley", "was cleared of", "the crime"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["morgan", "stood trial for", "fraud"], "premise": ["morgan", "was exonerated of", "fraud"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["frankie", "stood trial for", "fraud"], "premise": ["frankie", "was convicted of", "fraud"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["frankie", "was arrested for", "the crime"], "premise": ["frankie", "was acquitted of", "the crime"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["ali", "was arrested for", "arson"], "premise": ["ali", "was absolved of", "arson"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["robin", "was arrested for", "the theft"], "premise": ["robin", "was cleared of", "the theft"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["aiden", "was arrested for", "fraud"], "premise": ["aiden", "was exonerated of", "fraud"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["morgan", "was arrested for", "manslaughter"], "premise": ["morgan", "was convicted of", "manslaughter"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["robin", "was indicted for", "kidnapping"], "premise": ["robin", "was acquitted of", "kidnapping"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["robin", "was indicted for", "kidnapping"], "premise": ["robin", "was absolved of", "kidnapping"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["sam", "was indicted for", "forgery"], "premise": ["sam", "was cleared of", "forgery"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["alex", "was indicted for", "arson"], "premise": ["alex", "was exonerated of", "arson"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["alex", "was indicted for", "burglary"], "premise": ["alex", "was convicted of", "burglary"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["sam", "was charged with", "kidnapping"], "premise": ["sam", "was acquitted of", "kidnapping"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["morgan", "was charged with", "the theft"], "premise": ["morgan", "was absolved of", "the theft"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["jamie", "was charged with", "murder"], "premise": ["jamie", "was cleared of", "murder"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["frankie", "was charged with", "fraud"], "premise": ["frankie", "was exonerated of", "fraud"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["robin", "was charged with", "the crime"], "premise": ["robin", "was convicted of", "the crime"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["jean", "was accused of", "burglary"], "premise": ["jean", "was acquitted of", "burglary"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["elliot", "was accused of", "forgery"], "premise": ["elliot", "was absolved of", "forgery"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["sam", "was accused of", "burglary"], "premise": ["sam", "was cleared of", "burglary"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["bobbie", "was accused of", "the theft"], "premise": ["bobbie", "was exonerated of", "the theft"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["ali", "was accused of", "forgery"], "premise": ["ali", "was convicted of", "forgery"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["elliot", "was apprehended for", "vandalism"], "premise": ["elliot", "was acquitted of", "vandalism"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["aiden", "was apprehended for", "murder"], "premise": ["aiden", "was absolved of", "murder"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["gale", "was apprehended for", "the theft"], "premise": ["gale", "was cleared of", "the theft"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["jackie", "was apprehended for", "the robbery"], "premise": ["jackie", "was exonerated of", "the robbery"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["elliot", "was apprehended for", "vandalism"], "premise": ["elliot", "was convicted of", "vandalism"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["jean", "said", "the command"], "premise": ["jean", "shouted", "the command"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["sam", "said", "an insult"], "premise": ["sam", "yelled", "an insult"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["bobbie", "said", "an insult"], "premise": ["bobbie", "called out", "an insult"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["andy", "said", "the command"], "premise": ["andy", "whispered", "the command"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["alex", "said", "the question"], "premise": ["alex", "murmured", "the question"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["bobbie", "communicated", "the command"], "premise": ["bobbie", "shouted", "the command"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["bobbie", "communicated", "the response"], "premise": ["bobbie", "yelled", "the response"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["jean", "communicated", "an insult"], "premise": ["jean", "called out", "an insult"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["aiden", "communicated", "the question"], "premise": ["aiden", "whispered", "the question"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["robin", "communicated", "the response"], "premise": ["robin", "murmured", "the response"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["kelly", "verbalized", "an insult"], "premise": ["kelly", "shouted", "an insult"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["jackie", "verbalized", "the question"], "premise": ["jackie", "yelled", "the question"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["gale", "verbalized", "the response"], "premise": ["gale", "called out", "the response"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["cameron", "verbalized", "the response"], "premise": ["cameron", "whispered", "the response"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["kelly", "verbalized", "the question"], "premise": ["kelly", "murmured", "the question"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["gale", "uttered", "an insult"], "premise": ["gale", "shouted", "an insult"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["elliot", "uttered", "the question"], "premise": ["elliot", "yelled", "the question"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["billie", "uttered", "the response"], "premise": ["billie", "called out", "the response"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["kelly", "uttered", "an insult"], "premise": ["kelly", "whispered", "an insult"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["cameron", "uttered", "the command"], "premise": ["cameron", "murmured", "the command"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["alex", "took aim at", "the objective"], "premise": ["alex", "hit", "the objective"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["aiden", "took aim at", "the objective"], "premise": ["aiden", "achieved", "the objective"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["aiden", "took aim at", "the goal"], "premise": ["aiden", "attained", "the goal"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["ali", "took aim at", "the target"], "premise": ["ali", "missed", "the target"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["cameron", "took aim at", "the goal"], "premise": ["cameron", "fell short of", "the goal"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["kelly", "took aim at", "the goal"], "premise": ["kelly", "failed", "the goal"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["cameron", "tried for", "the target"], "premise": ["cameron", "hit", "the target"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["sam", "tried for", "the goal"], "premise": ["sam", "achieved", "the goal"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["billie", "tried for", "the goal"], "premise": ["billie", "attained", "the goal"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["bobbie", "tried for", "the target"], "premise": ["bobbie", "missed", "the target"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["andy", "tried for", "the objective"], "premise": ["andy", "fell short of", "the objective"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["billie", "tried for", "the objective"], "premise": ["billie", "failed", "the objective"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["ashley", "moved", "the game console"], "premise": ["ashley", "brought", "the game console"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["ashley", "moved", "the television"], "premise": ["ashley", "delivered", "the television"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["casey", "moved", "the instrument"], "premise": ["casey", "took away", "the instrument"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["charlie", "moved", "the game console"], "premise": ["charlie", "removed", "the game console"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["sam", "transported", "the instrument"], "premise": ["sam", "brought", "the instrument"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["jackie", "transported", "the instrument"], "premise": ["jackie", "delivered", "the instrument"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["jean", "transported", "the game console"], "premise": ["jean", "took away", "the game console"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["cameron", "transported", "the game console"], "premise": ["cameron", "removed", "the game console"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["the machine", "moved", "the car"], "premise": ["the machine", "pulled", "the car"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["the machine", "moved", "the carriage"], "premise": ["the machine", "dragged", "the carriage"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["the machine", "moved", "the carriage"], "premise": ["the machine", "hauled", "the carriage"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["the train", "moved", "the cart"], "premise": ["the train", "towed", "the cart"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["the machine", "moved", "the carriage"], "premise": ["the machine", "pushed", "the carriage"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["the machine", "propelled", "the cart"], "premise": ["the machine", "pulled", "the cart"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["the machine", "propelled", "the carriage"], "premise": ["the machine", "dragged", "the carriage"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["the tractor", "propelled", "the cart"], "premise": ["the tractor", "hauled", "the cart"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["the car", "propelled", "the cart"], "premise": ["the car", "towed", "the cart"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["the train", "propelled", "the cart"], "premise": ["the train", "pushed", "the cart"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["sam", "knew the location of", "the school"], "premise": ["sam", "came to", "the school"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["elliot", "knew the location of", "the school"], "premise": ["elliot", "approached", "the school"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["kelly", "knew the location of", "the square"], "premise": ["kelly", "went away from", "the square"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["ali", "knew the location of", "the office"], "premise": ["ali", "left", "the office"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["gale", "knew the location of", "the square"], "premise": ["gale", "departed from", "the square"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["gael", "moved to", "the square"], "premise": ["gael", "rode to", "the square"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["robin", "moved to", "the train station"], "premise": ["robin", "walked to", "the train station"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["gael", "travelled to", "the office"], "premise": ["gael", "rode to", "the office"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["kelly", "travelled to", "the train station"], "premise": ["kelly", "walked to", "the train station"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["ashley", "was in", "australia"], "premise": ["ashley", "departed from", "australia"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["robin", "was in", "australia"], "premise": ["robin", "left", "australia"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["frankie", "was in", "iran"], "premise": ["frankie", "stayed in", "iran"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["jackie", "was in", "australia"], "premise": ["jackie", "remained in", "australia"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["bobbie", "was at", "the university"], "premise": ["bobbie", "departed from", "the university"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["ali", "was at", "the square"], "premise": ["ali", "left", "the square"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["frankie", "was at", "the train station"], "premise": ["frankie", "exited", "the train station"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["jean", "was at", "the school"], "premise": ["jean", "stayed in", "the school"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["ashley", "was at", "the office"], "premise": ["ashley", "remained at", "the office"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["volkswagen", "traded in", "products"], "premise": ["volkswagen", "bought", "products"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["heinz", "traded in", "products"], "premise": ["heinz", "purchased", "products"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["costco", "traded in", "goods"], "premise": ["costco", "sold", "goods"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["twitter", "traded in", "goods"], "premise": ["twitter", "dealt in", "goods"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["facebook", "traded in", "products"], "premise": ["facebook", "retailed", "products"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["dyson", "signed an agreement with", "google"], "premise": ["dyson", "bought", "google"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["walmart", "signed an agreement with", "microsoft"], "premise": ["walmart", "purchased", "microsoft"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["apple", "signed an agreement with", "volkswagen"], "premise": ["apple", "sold", "volkswagen"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["walmart", "had an agreement with", "facebook"], "premise": ["walmart", "bought", "facebook"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["samsung", "had an agreement with", "toyota"], "premise": ["samsung", "purchased", "toyota"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["apple", "had an agreement with", "toyota"], "premise": ["apple", "sold", "toyota"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["elliot", "transferred", "products"], "premise": ["elliot", "exported", "products"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["morgan", "transferred", "products"], "premise": ["morgan", "imported", "products"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["charlie", "moved", "products"], "premise": ["charlie", "exported", "products"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["ashley", "moved", "products"], "premise": ["ashley", "imported", "products"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["costco", "traded in", "goods"], "premise": ["costco", "exported", "goods"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["unilever", "traded in", "goods"], "premise": ["unilever", "imported", "goods"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["sam", "transferred", "the dataset"], "premise": ["sam", "downloaded", "the dataset"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["casey", "transferred", "the data"], "premise": ["casey", "uploaded", "the data"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["jean", "had access to", "the data"], "premise": ["jean", "downloaded", "the data"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["elliot", "had access to", "the file"], "premise": ["elliot", "uploaded", "the file"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["the broker", "traded", "the bonds"], "premise": ["the broker", "divested", "the bonds"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["the stockbroker", "traded", "the bonds"], "premise": ["the stockbroker", "sold", "the bonds"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["the broker", "traded", "the stocks"], "premise": ["the broker", "invested in", "the stocks"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["apple", "employed", "billie"], "premise": ["apple", "demoted", "billie"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["facebook", "employed", "jamie"], "premise": ["facebook", "promoted", "jamie"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["volkswagen", "was compared to", "mitsubishi"], "premise": ["volkswagen", "differed from", "mitsubishi"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["ford", "was compared to", "ferrari"], "premise": ["ford", "was different from", "ferrari"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["ferrari", "was compared to", "nissan"], "premise": ["ferrari", "was equal to", "nissan"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["mitsubishi", "was compared to", "ferrari"], "premise": ["mitsubishi", "was the same as", "ferrari"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["mitsubishi", "was compared to", "audi"], "premise": ["mitsubishi", "was identical to", "audi"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["billie", "boiled", "the water"], "premise": ["billie", "changed the state of", "the water"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["elliot", "froze", "the water"], "premise": ["elliot", "changed the state of", "the water"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["bobbie", "boiled", "the water"], "premise": ["bobbie", "changed the temperature of", "the water"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["bobbie", "froze", "the water"], "premise": ["bobbie", "changed the temperature of", "the water"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["jamie", "accelerated", "the truck"], "premise": ["jamie", "drove", "the truck"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the driver", "sped up", "the car"], "premise": ["the driver", "drove", "the car"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["sam", "decelerated", "the truck"], "premise": ["sam", "drove", "the truck"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["alex", "slowed", "the train"], "premise": ["alex", "drove", "the train"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["bobbie", "slowed down", "the tractor"], "premise": ["bobbie", "drove", "the tractor"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["kelly", "was acquitted of", "the crime"], "premise": ["kelly", "stood trial for", "the crime"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["ashley", "was absolved of", "burglary"], "premise": ["ashley", "stood trial for", "burglary"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["aiden", "was cleared of", "vandalism"], "premise": ["aiden", "stood trial for", "vandalism"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["gael", "was exonerated of", "the theft"], "premise": ["gael", "stood trial for", "the theft"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["kelly", "was convicted of", "forgery"], "premise": ["kelly", "stood trial for", "forgery"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["sam", "was acquitted of", "manslaughter"], "premise": ["sam", "was arrested for", "manslaughter"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["sam", "was absolved of", "kidnapping"], "premise": ["sam", "was arrested for", "kidnapping"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["cameron", "was cleared of", "kidnapping"], "premise": ["cameron", "was arrested for", "kidnapping"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["kelly", "was exonerated of", "arson"], "premise": ["kelly", "was arrested for", "arson"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["billie", "was convicted of", "kidnapping"], "premise": ["billie", "was arrested for", "kidnapping"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["sam", "was acquitted of", "kidnapping"], "premise": ["sam", "was indicted for", "kidnapping"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["jackie", "was absolved of", "kidnapping"], "premise": ["jackie", "was indicted for", "kidnapping"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["jean", "was cleared of", "the crime"], "premise": ["jean", "was indicted for", "the crime"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["aiden", "was exonerated of", "fraud"], "premise": ["aiden", "was indicted for", "fraud"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["morgan", "was convicted of", "the robbery"], "premise": ["morgan", "was indicted for", "the robbery"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["casey", "was acquitted of", "the robbery"], "premise": ["casey", "was charged with", "the robbery"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["alex", "was absolved of", "fraud"], "premise": ["alex", "was charged with", "fraud"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["bobbie", "was cleared of", "manslaughter"], "premise": ["bobbie", "was charged with", "manslaughter"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["alex", "was exonerated of", "the theft"], "premise": ["alex", "was charged with", "the theft"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["bobbie", "was convicted of", "burglary"], "premise": ["bobbie", "was charged with", "burglary"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["casey", "was acquitted of", "burglary"], "premise": ["casey", "was accused of", "burglary"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["frankie", "was absolved of", "vandalism"], "premise": ["frankie", "was accused of", "vandalism"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["sam", "was cleared of", "vandalism"], "premise": ["sam", "was accused of", "vandalism"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["charlie", "was exonerated of", "manslaughter"], "premise": ["charlie", "was accused of", "manslaughter"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["ashley", "was convicted of", "the theft"], "premise": ["ashley", "was accused of", "the theft"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["gale", "was acquitted of", "burglary"], "premise": ["gale", "was apprehended for", "burglary"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["aiden", "was absolved of", "the theft"], "premise": ["aiden", "was apprehended for", "the theft"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["ali", "was cleared of", "kidnapping"], "premise": ["ali", "was apprehended for", "kidnapping"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["jamie", "was exonerated of", "murder"], "premise": ["jamie", "was apprehended for", "murder"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["gael", "was convicted of", "the theft"], "premise": ["gael", "was apprehended for", "the theft"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["ali", "shouted", "the response"], "premise": ["ali", "said", "the response"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["gael", "yelled", "the command"], "premise": ["gael", "said", "the command"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["andy", "called out", "the command"], "premise": ["andy", "said", "the command"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["morgan", "whispered", "an insult"], "premise": ["morgan", "said", "an insult"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["jamie", "murmured", "an insult"], "premise": ["jamie", "said", "an insult"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["casey", "shouted", "an insult"], "premise": ["casey", "communicated", "an insult"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["robin", "yelled", "the command"], "premise": ["robin", "communicated", "the command"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["jean", "called out", "an insult"], "premise": ["jean", "communicated", "an insult"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["robin", "whispered", "an insult"], "premise": ["robin", "communicated", "an insult"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["casey", "murmured", "an insult"], "premise": ["casey", "communicated", "an insult"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["alex", "shouted", "the response"], "premise": ["alex", "verbalized", "the response"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["gale", "yelled", "an insult"], "premise": ["gale", "verbalized", "an insult"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["charlie", "called out", "the question"], "premise": ["charlie", "verbalized", "the question"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["frankie", "whispered", "the response"], "premise": ["frankie", "verbalized", "the response"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["gael", "murmured", "an insult"], "premise": ["gael", "verbalized", "an insult"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["casey", "shouted", "the question"], "premise": ["casey", "uttered", "the question"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["robin", "yelled", "the question"], "premise": ["robin", "uttered", "the question"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["gael", "called out", "the response"], "premise": ["gael", "uttered", "the response"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["elliot", "whispered", "the response"], "premise": ["elliot", "uttered", "the response"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["andy", "murmured", "the question"], "premise": ["andy", "uttered", "the question"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["jamie", "hit", "the goal"], "premise": ["jamie", "took aim at", "the goal"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["ali", "achieved", "the objective"], "premise": ["ali", "took aim at", "the objective"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["charlie", "attained", "the objective"], "premise": ["charlie", "took aim at", "the objective"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["jean", "missed", "the objective"], "premise": ["jean", "took aim at", "the objective"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["frankie", "fell short of", "the target"], "premise": ["frankie", "took aim at", "the target"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["elliot", "failed", "the objective"], "premise": ["elliot", "took aim at", "the objective"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["gale", "hit", "the goal"], "premise": ["gale", "tried for", "the goal"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["cameron", "achieved", "the objective"], "premise": ["cameron", "tried for", "the objective"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["billie", "attained", "the objective"], "premise": ["billie", "tried for", "the objective"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["gale", "missed", "the objective"], "premise": ["gale", "tried for", "the objective"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["andy", "fell short of", "the goal"], "premise": ["andy", "tried for", "the goal"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["andy", "failed", "the goal"], "premise": ["andy", "tried for", "the goal"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["gael", "brought", "the table"], "premise": ["gael", "moved", "the table"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["gael", "delivered", "the sofa"], "premise": ["gael", "moved", "the sofa"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["gael", "took away", "the television"], "premise": ["gael", "moved", "the television"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["elliot", "removed", "the television"], "premise": ["elliot", "moved", "the television"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["gale", "brought", "the sofa"], "premise": ["gale", "transported", "the sofa"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["casey", "delivered", "the instrument"], "premise": ["casey", "transported", "the instrument"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["cameron", "took away", "the instrument"], "premise": ["cameron", "transported", "the instrument"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["casey", "removed", "the sofa"], "premise": ["casey", "transported", "the sofa"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the machine", "pulled", "the carriage"], "premise": ["the machine", "moved", "the carriage"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the machine", "dragged", "the carriage"], "premise": ["the machine", "moved", "the carriage"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the train", "hauled", "the cart"], "premise": ["the train", "moved", "the cart"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the car", "towed", "the cart"], "premise": ["the car", "moved", "the cart"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the machine", "pushed", "the cart"], "premise": ["the machine", "moved", "the cart"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the machine", "pulled", "the carriage"], "premise": ["the machine", "propelled", "the carriage"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the machine", "dragged", "the car"], "premise": ["the machine", "propelled", "the car"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the machine", "hauled", "the car"], "premise": ["the machine", "propelled", "the car"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the tractor", "towed", "the car"], "premise": ["the tractor", "propelled", "the car"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the machine", "pushed", "the carriage"], "premise": ["the machine", "propelled", "the carriage"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["aiden", "came to", "the square"], "premise": ["aiden", "knew the location of", "the square"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["gael", "approached", "the square"], "premise": ["gael", "knew the location of", "the square"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["morgan", "went away from", "the office"], "premise": ["morgan", "knew the location of", "the office"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["frankie", "left", "the university"], "premise": ["frankie", "knew the location of", "the university"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["alex", "departed from", "the square"], "premise": ["alex", "knew the location of", "the square"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["sam", "rode to", "the university"], "premise": ["sam", "moved to", "the university"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["casey", "walked to", "the office"], "premise": ["casey", "moved to", "the office"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["gael", "rode to", "the train station"], "premise": ["gael", "travelled to", "the train station"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["andy", "walked to", "the school"], "premise": ["andy", "travelled to", "the school"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["gael", "departed from", "nigeria"], "premise": ["gael", "was in", "nigeria"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["morgan", "left", "great britain"], "premise": ["morgan", "was in", "great britain"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["frankie", "stayed in", "nigeria"], "premise": ["frankie", "was in", "nigeria"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["jamie", "remained in", "iran"], "premise": ["jamie", "was in", "iran"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["ali", "departed from", "the university"], "premise": ["ali", "was at", "the university"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["cameron", "left", "the school"], "premise": ["cameron", "was at", "the school"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["ashley", "exited", "the square"], "premise": ["ashley", "was at", "the square"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["jackie", "stayed in", "the office"], "premise": ["jackie", "was at", "the office"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["elliot", "remained at", "the school"], "premise": ["elliot", "was at", "the school"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["amazon", "bought", "goods"], "premise": ["amazon", "traded in", "goods"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["apple", "purchased", "products"], "premise": ["apple", "traded in", "products"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["twitter", "sold", "products"], "premise": ["twitter", "traded in", "products"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["google", "dealt in", "goods"], "premise": ["google", "traded in", "goods"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["heinz", "retailed", "goods"], "premise": ["heinz", "traded in", "goods"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["dyson", "bought", "heinz"], "premise": ["dyson", "signed an agreement with", "heinz"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["toyota", "purchased", "volkswagen"], "premise": ["toyota", "signed an agreement with", "volkswagen"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["toyota", "sold", "dyson"], "premise": ["toyota", "signed an agreement with", "dyson"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["facebook", "bought", "unilever"], "premise": ["facebook", "had an agreement with", "unilever"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["toyota", "purchased", "nestle"], "premise": ["toyota", "had an agreement with", "nestle"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["ford", "sold", "bosch"], "premise": ["ford", "had an agreement with", "bosch"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["morgan", "exported", "goods"], "premise": ["morgan", "transferred", "goods"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["amazon", "imported", "goods"], "premise": ["amazon", "transferred", "goods"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["amazon", "exported", "products"], "premise": ["amazon", "moved", "products"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["andy", "imported", "products"], "premise": ["andy", "moved", "products"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["apple", "exported", "goods"], "premise": ["apple", "traded in", "goods"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["dyson", "imported", "goods"], "premise": ["dyson", "traded in", "goods"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["jamie", "downloaded", "the dataset"], "premise": ["jamie", "transferred", "the dataset"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["bobbie", "uploaded", "the data"], "premise": ["bobbie", "transferred", "the data"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["andy", "downloaded", "the dataset"], "premise": ["andy", "had access to", "the dataset"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["gael", "uploaded", "the file"], "premise": ["gael", "had access to", "the file"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the broker", "divested", "the shares"], "premise": ["the broker", "traded", "the shares"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the fund manager", "sold", "the stocks"], "premise": ["the fund manager", "traded", "the stocks"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the fund manager", "invested in", "the stocks"], "premise": ["the fund manager", "traded", "the stocks"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["apple", "demoted", "frankie"], "premise": ["apple", "employed", "frankie"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["walmart", "promoted", "bobbie"], "premise": ["walmart", "employed", "bobbie"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["nissan", "differed from", "mitsubishi"], "premise": ["nissan", "was compared to", "mitsubishi"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["toyota", "was different from", "ford"], "premise": ["toyota", "was compared to", "ford"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["volkswagen", "was equal to", "ferrari"], "premise": ["volkswagen", "was compared to", "ferrari"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["mitsubishi", "was the same as", "ferrari"], "premise": ["mitsubishi", "was compared to", "ferrari"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["toyota", "was identical to", "ford"], "premise": ["toyota", "was compared to", "ford"], "truth_value": false, "flipped_args": false}
