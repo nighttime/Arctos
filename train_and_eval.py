@@ -122,8 +122,8 @@ class ModelInstructor:
         all_metrics = {}
         num_samples = 0
 
-        all_predictions = torch.tensor([])
-        all_labels = torch.tensor([])
+        all_predictions = torch.tensor([]).to(self.device)
+        all_labels = torch.tensor([]).to(self.device)
 
         for batch_num, batch in enumerate(eval_data):
             this_batch_size = len(batch)
@@ -142,8 +142,8 @@ class ModelInstructor:
         loss = all_metrics['loss']
         acc = all_metrics['acc']
 
-        all_labels_idx = torch.argmax(all_labels, dim=1).detach().numpy()
-        all_predictions_true = all_predictions[:, 1].detach().numpy()
+        all_labels_idx = torch.argmax(all_labels, dim=1).detach().cpu().numpy()
+        all_predictions_true = all_predictions[:, 1].detach().cpu().numpy()
         precisions, recalls, thresholds = metrics.precision_recall_curve(all_labels_idx, all_predictions_true)
         auc = metrics.auc(recalls, precisions)
 
@@ -152,6 +152,11 @@ class ModelInstructor:
         auc_norm = (auc - (random_baseline_prec * max_recall)) / (1 - (random_baseline_prec * 1))
 
         print('-' * 100)
-        print(f'{split} |\tloss: {loss:.3f}\tacc: {acc*100:.1f}\tauc: {auc*100:.2f}\tauc_norm: {auc_norm*100:.2f}')
+        print(f'{split} |'
+              f'\tloss: {loss:.3f}'
+              f'\tacc: {acc*100:.1f}'
+              f'\tauc: {auc*100:.2f}'
+              f'\tauc_norm: {auc_norm*100:.2f}'
+              f'\tclass prec: {random_baseline_prec*100:.2f}')
         print('-' * 100)
 

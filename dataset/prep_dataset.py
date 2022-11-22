@@ -9,8 +9,8 @@ from dataset.entailment_dataset import Sample
 from pprint import pprint
 
 # Set file pointers to the chosen dataset
-DS_MAIN = None  # dataset_codes.ANT_DIR
-DS_DEV_SET_PCT = 0
+DS_MAIN = dataset_codes.ANT_FULL
+DS_DEV_SET_PCT = 0.1
 DS_DEV = None
 # DS_DEV = dataset_codes.LEVY_HOLT_DIR_DEV
 DS_TEST = [dataset_codes.SPORTS_DIR, dataset_codes.LEVY_HOLT_DIR_TEST, dataset_codes.LEVY_HOLT_FULL_TEST]

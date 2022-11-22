@@ -1,0 +1,6 @@
+TRAIN: ANT-full: 5800
+DEV: 0.1: 500
+TEST:
+	Sports-dir: 544
+	LH-dir (test): 1778
+	LH-full (test): 12921

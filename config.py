@@ -10,13 +10,14 @@ CFG_HYPERPARAMETERS = {
 CFG_OPTIMIZER = {
 		'learning_rate': 1e-4,
 		'batch_size': 64,
-		'max_train_steps': 2
+		'max_train_steps': 200
 }
 CFG_DATASET = {
 	'train': {
-		'name': dataset_codes.ANT_DIR,
-		'version': 2
+		'name': dataset_codes.ANT_FULL,
+		'version': 1
 	},
+	'additional_test_suite': False,
 	'test': {
 		'name': dataset_codes.TESTSUITE,
 		'version': 1
