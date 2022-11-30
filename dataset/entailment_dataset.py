@@ -13,6 +13,8 @@ class Sample:
     premise: Tuple[str, str, str]
     truth_value: bool
     flipped_args: bool
+    origin_dataset: str = 'unknown'
+    sample_weight: float = 1.0
 
 
 TEntDataset = TypeVar('TEntDataset', bound=Dataset)

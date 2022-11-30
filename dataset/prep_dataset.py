@@ -1,35 +1,48 @@
+import copy
 import json
 import os.path
 import csv
 import random
 from typing import Tuple, List
-from dataclasses import dataclass, asdict
-import dataset_codes
+from dataclasses import asdict
+from collections import Counter
+
+import dataset_codes as ds
 from dataset.entailment_dataset import Sample
-from pprint import pprint
 
 # Set file pointers to the chosen dataset
-DS_MAIN = dataset_codes.ANT_FULL
+DS_MAIN = ds.LEVY_HOLT_DIR_DEV
 DS_DEV_SET_PCT = 0.1
 DS_DEV = None
-# DS_DEV = dataset_codes.LEVY_HOLT_DIR_DEV
-DS_TEST = [dataset_codes.SPORTS_DIR, dataset_codes.LEVY_HOLT_DIR_TEST, dataset_codes.LEVY_HOLT_FULL_TEST]
+DS_TEST = [ds.SPORTS_DIR, ds.LEVY_HOLT_DIR_TEST, ds.LEVY_HOLT_FULL_TEST, ds.LEVY_HOLT_PARAPHRASE_UNRELATED_TEST, ds.ANT_DIR, ds.ANT_FULL]
+
+# add random pairs in training with negative labels to better learn to discriminate unrelated predicates
+AUG_ADD_RANDOM_NEGATIVE_PAIRS = 0
+AUG_ADD_DS = ds.LEVY_HOLT_PARAPHRASE_UNRELATED_TRAIN
+
+WEIGHT_SAMPLES_BY_CLASS = True
 
 assert not (DS_DEV_SET_PCT and DS_DEV)
 
 file_paths_in = {
-    dataset_codes.ANT_DIR: os.path.join('original', 'ant_in_levy_format', 'ant_directional_s2.txt'),
-    dataset_codes.ANT_FULL: os.path.join('original', 'ant_in_levy_format', 'ant_full_s2.txt'),
-    dataset_codes.LEVY_HOLT_DIR_DEV: os.path.join('original', 'levy_holt', 'dev_dir_s2.txt'),
-    dataset_codes.LEVY_HOLT_DIR_TEST: os.path.join('original', 'levy_holt', 'test_dir_s2.txt'),
-    dataset_codes.LEVY_HOLT_FULL_DEV: os.path.join('original', 'levy_holt', 'dev_s2.txt'),
-    dataset_codes.LEVY_HOLT_FULL_TEST: os.path.join('original', 'levy_holt', 'test_s2.txt'),
-    dataset_codes.SPORTS_DIR: os.path.join('original', 'sports', 'dir_s.txt')
+    ds.ANT_DIR: os.path.join('original', 'ant_in_levy_format', 'ant_directional_s2.txt'),
+    ds.ANT_FULL: os.path.join('original', 'ant_in_levy_format', 'ant_full_s2.txt'),
+
+    ds.LEVY_HOLT_DIR_DEV: os.path.join('original', 'levy_holt', 'dev_dir_s2.txt'),
+    ds.LEVY_HOLT_DIR_TEST: os.path.join('original', 'levy_holt', 'test_dir_s2.txt'),
+    ds.LEVY_HOLT_FULL_DEV: os.path.join('original', 'levy_holt', 'dev_s2.txt'),
+    ds.LEVY_HOLT_FULL_TEST: os.path.join('original', 'levy_holt', 'test_s2.txt'),
+
+    ds.LEVY_HOLT_PARAPHRASE_UNRELATED_TRAIN: os.path.join('original', 'LevyHoltMesh', 'Paraphrases_Unrelated', 'Full', 'train.txt'),
+    ds.LEVY_HOLT_PARAPHRASE_UNRELATED_DEV: os.path.join('original', 'LevyHoltMesh', 'Paraphrases_Unrelated', 'Full', 'dev.txt'),
+    ds.LEVY_HOLT_PARAPHRASE_UNRELATED_TEST: os.path.join('original', 'LevyHoltMesh', 'Paraphrases_Unrelated', 'Full', 'test.txt'),
+
+    ds.SPORTS_DIR: os.path.join('original', 'sports', 'dir_s.txt')
 }
 
 
 def make_folder() -> str:
-    folder_out_prefix = DS_MAIN or dataset_codes.TESTSUITE
+    folder_out_prefix = DS_MAIN or ds.TESTSUITE
     number_ds_exist = len([x for x in os.listdir('formatted') if x.startswith(folder_out_prefix)])
     folder_out_name = f'{folder_out_prefix}_v{number_ds_exist + 1}'
     folder_out = os.path.join('formatted', folder_out_name)
@@ -38,7 +51,7 @@ def make_folder() -> str:
     return folder_out
 
 
-def _process_line(hypo: str, prem: str, tval: str) -> Sample:
+def _process_line(hypo: str, prem: str, tval: str, origin_dataset) -> Sample:
     h_a0, h_pred, h_a1 = hypo.lower().split(',')
     p_a0, p_pred, p_a1 = prem.lower().split(',')
 
@@ -54,7 +67,7 @@ def _process_line(hypo: str, prem: str, tval: str) -> Sample:
         h_a1 = p_a0
 
     return Sample(premise=(p_a0, p_pred, p_a1), hypothesis=(h_a0, h_pred, h_a1), truth_value=(tval == 'True'),
-                  flipped_args=(p_a0 == h_a1))
+                  flipped_args=(p_a0 == h_a1), origin_dataset=origin_dataset)
 
 
 def write_samples(samples, file):
@@ -70,15 +83,16 @@ def make_train(folder: str) -> Tuple[List[Sample], List[Sample]]:
     cleaned_dataset_samples = []
     with open(file_path, 'r') as file:
         csv_file = csv.reader(file, delimiter='\t')
-        for h, p, t in csv_file:
-            sample = _process_line(h, p, t)
+        for line in csv_file:
+            h, p, t = line[:3]
+            sample = _process_line(h, p, t, DS_MAIN)
             cleaned_dataset_samples.append(sample)
 
     if DS_DEV_SET_PCT:
         sample_list = list(cleaned_dataset_samples)
         picks = [sample_list.pop(int(random.random() * len(sample_list)))]
         dev_sample_list = [picks[0]]
-        while picks or len(dev_sample_list) / (len(cleaned_dataset_samples)) < DS_DEV_SET_PCT:
+        while picks and len(dev_sample_list) / (len(cleaned_dataset_samples)) < DS_DEV_SET_PCT:
             current = picks.pop()
             current_preds = {current.premise[1], current.hypothesis[1]}
 
@@ -117,15 +131,25 @@ def make_train(folder: str) -> Tuple[List[Sample], List[Sample]]:
     elif DS_DEV:
         with open(file_path_dev, 'r') as file:
             csv_file = csv.reader(file, delimiter='\t')
-            for h, p, t in csv_file:
-                samples_dev.append(_process_line(h, p, t))
+            for line in csv_file:
+                h, p, t = line[:3]
+                samples_dev.append(_process_line(h, p, t, DS_DEV))
+
+    if AUG_ADD_RANDOM_NEGATIVE_PAIRS:
+        samples_main = augment_with_random_unrelated(samples_main)
+
+    if AUG_ADD_DS:
+        samples_main = augment_with_dataset(samples_main)
+
+    if WEIGHT_SAMPLES_BY_CLASS:
+        assign_sample_weights(samples_main)
 
     if samples_dev:
         main_dump = 'train'
     else:
         main_dump = 'test'
 
-    print(f'{main_dump}: {len(samples_main)}')
+    print(f'{main_dump}: {len(cleaned_dataset_samples)} augmented to-> {len(samples_main)}')
     with open(os.path.join(folder, f'{main_dump}.jsonl'), 'w') as file:
         write_samples(samples_main, file)
 
@@ -144,8 +168,9 @@ def make_test(folder: str) -> List[List[Sample]]:
         file_path_test = file_paths_in[test_set]
         with open(file_path_test, 'r') as file:
             csv_file = csv.reader(file, delimiter='\t')
-            for h, p, t in csv_file:
-                samples_test_set.append(_process_line(h, p, t))
+            for line in csv_file:
+                h, p, t = line[:3]
+                samples_test_set.append(_process_line(h, p, t, test_set))
         print(f'test [{test_set}]: {len(samples_test_set)}')
         with open(os.path.join(folder, f'test_{test_set}.jsonl'), 'w') as file:
             write_samples(samples_test_set, file)
@@ -154,15 +179,64 @@ def make_test(folder: str) -> List[List[Sample]]:
     return samples_test
 
 
+def mix_aug_samples(samples, aug_samples):
+    new_samples = samples + aug_samples
+    random.shuffle(new_samples)
+    return new_samples
+
+
+def augment_with_random_unrelated(dataset: List[Sample]) -> List[Sample]:
+    target_amount = int(AUG_ADD_RANDOM_NEGATIVE_PAIRS*len(dataset))
+    aug_samples = []
+    for _ in range(target_amount):
+        s1, s2 = random.sample(dataset, 2)
+        new_prem = copy.deepcopy(s1.premise)
+        new_hypo = (new_prem[0], s2.hypothesis[1], new_prem[2])
+        if flipped := random.random() < 0.1:
+            new_prem = (new_prem[2], new_prem[1], new_prem[0])
+        new_sample = Sample(new_hypo, new_prem, False, flipped, ds.AUG_DATA)
+        aug_samples.append(new_sample)
+
+    return mix_aug_samples(dataset, aug_samples)
+
+
+def augment_with_dataset(dataset: List[Sample]) -> List[Sample]:
+    file_path_aug = file_paths_in[AUG_ADD_DS]
+    aug_samples = []
+    with open(file_path_aug, 'r') as file:
+        csv_file = csv.reader(file, delimiter='\t')
+        for line in csv_file:
+            h, p, t = line[:3]
+            aug_samples.append(_process_line(h, p, t, AUG_ADD_DS))
+
+    return mix_aug_samples(dataset, aug_samples)
+
+
+def assign_sample_weights(samples: List[Sample]):
+    # Assign inverted class weights
+    ctr = Counter()
+    for s in samples:
+        ctr[s.origin_dataset] += 1
+    total = len(samples)
+    for s in samples:
+        s.sample_weight = total / ctr[s.origin_dataset]
+
+
 def make_description(folder: str, train: List[Sample], dev: List[Sample], test: List[List[Sample]]):
+    description = ''
+    if DS_MAIN:
+        description += f'TRAIN: {DS_MAIN}: {len(train)} (AUG: {AUG_ADD_RANDOM_NEGATIVE_PAIRS or AUG_ADD_DS})\n' \
+                       f'DEV: {DS_DEV or DS_DEV_SET_PCT}: {len(dev)}\n'
+        description += f'SAMPLE_WEIGHTING: {WEIGHT_SAMPLES_BY_CLASS}\n\n'
+    if DS_TEST:
+        description += f'TEST:\n'
+        for name, samples in zip(DS_TEST, test):
+            description += f'\t{name}: {len(samples)}\n'
+
     with open(os.path.join(folder, f'_description.txt'), 'w') as file:
-        if DS_MAIN:
-            file.write(f'TRAIN: {DS_MAIN}: {len(train)}\n'
-                       f'DEV: {DS_DEV or DS_DEV_SET_PCT}: {len(dev)}\n')
-        if DS_TEST:
-            file.write(f'TEST:\n')
-            for name, samples in zip(DS_TEST, test):
-                file.write(f'\t{name}: {len(samples)}\n')
+        file.write(description)
+
+    return description
 
 
 def main():
@@ -176,10 +250,11 @@ def main():
     if DS_TEST:
         test_samples = make_test(folder)
 
-    make_description(folder, train_samples, dev_samples, test_samples)
+    description = make_description(folder, train_samples, dev_samples, test_samples)
 
     print()
-    print(f'done: train {DS_MAIN} with {DS_DEV or DS_DEV_SET_PCT} dev tested on {DS_TEST}')
+    print(f'done:')
+    print(description)
 
 
 if __name__ == '__main__':

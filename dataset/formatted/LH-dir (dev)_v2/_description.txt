@@ -1,0 +1,11 @@
+TRAIN: LH-dir (dev): 4438 (AUG: LH-para-unrel (train))
+DEV: 0.1: 56
+SAMPLE_WEIGHTING: True
+
+TEST:
+	Sports-dir: 544
+	LH-dir (test): 1778
+	LH-full (test): 12921
+	LH-para-unrel (test): 11137
+	ANT-dir: 2930
+	ANT-full: 6300

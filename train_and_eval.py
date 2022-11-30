@@ -1,3 +1,5 @@
+import os
+import operator
 from typing import Dict, Any, Optional, Iterable, Tuple, List
 
 import numpy as np
@@ -5,11 +7,15 @@ from sklearn import metrics
 import torch.optim
 from torch.utils.data import DataLoader
 from tqdm import tqdm
+from datetime import datetime
 
+from utils import print_bar, colors
 from model.ent_model import EntailmentModel
 from dataset.entailment_dataset import EntailmentDataset, Sample
 
 EVAL_BSIZE = 32
+
+BEST_MODEL_CHECKPOINT_FNAME = 'best-model.pt'
 
 
 def make_dataloader(dataset: EntailmentDataset, batch_size: int, split: str) -> DataLoader:
@@ -17,21 +23,36 @@ def make_dataloader(dataset: EntailmentDataset, batch_size: int, split: str) -> 
 
 
 class ModelInstructor:
-    def __init__(self, model: EntailmentModel, device, cfg_optimizer: Dict[str, Any]):
+    def __init__(self, model: EntailmentModel, device, cfg_optimizer: Dict[str, Any], run_folder: Optional[str] = None):
         self.model = model
         self.device = device
         self.cfg_optimizer = cfg_optimizer
         self.optimizer = torch.optim.AdamW(model.parameters(), lr=cfg_optimizer['learning_rate'])
-        self.criterion = torch.nn.BCELoss()
         self.tracked_metrics = None
+        self.best_dev_metrics = None
+        self.run_folder = None
         self._refresh_tracked_metrics()
+        if not run_folder:
+            self._make_run_folder()
 
     def _refresh_tracked_metrics(self):
         self.tracked_metrics = {metric: [] for metric in ['loss', 'acc']}
 
-    def calc_metrics(self, batch_predictions, batch_labels) -> Tuple[torch.Tensor, Dict[str, float]]:
+    def _make_run_folder(self):
+        if not os.path.exists('results'):
+            os.mkdir('results')
+        now = datetime.now()
+        datestring = now.strftime("%b-%d-%Y %H.%M")
+        self.run_folder = os.path.join('results', datestring)
+        os.mkdir(self.run_folder)
+
+    def calc_metrics(self, batch: Iterable[Sample], batch_predictions, batch_labels) -> Tuple[torch.Tensor, Dict[str, float]]:
         bsize = batch_predictions.shape[0]
-        loss = self.criterion(batch_predictions, batch_labels)
+        batch_weights = torch.tensor([s.sample_weight for s in batch]).to(self.device)
+        # criterion = torch.nn.BCELoss(reduction='none')
+        criterion = torch.nn.CrossEntropyLoss(reduction='none')
+        loss = criterion(batch_predictions, batch_labels)
+        loss = (loss * batch_weights / batch_weights.sum()).sum()
 
         predicted_inds = torch.nn.functional.one_hot(torch.argmax(batch_predictions, dim=1), num_classes=2)
         correct = torch.sum(predicted_inds * batch_labels).item()
@@ -48,9 +69,30 @@ class ModelInstructor:
         acc = np.mean(self.tracked_metrics['acc'])
         return f'loss: {loss:.3f}\tacc: {acc*100:.2f}%'
 
+    def _handle_dev_checkpoint(self, dev_metrics):
+        should_save = False
+        if self.best_dev_metrics is None:
+            self.best_dev_metrics = dev_metrics
+            should_save = True
+
+        tracking_metric = self.cfg_optimizer['dev_tracking_metric']
+        tracking_function = {
+                'loss': operator.lt,
+                'acc': operator.gt
+        }[tracking_metric]
+
+        if tracking_function(dev_metrics[tracking_metric], self.best_dev_metrics[tracking_metric]):
+            should_save = True
+
+        if should_save:
+            self.best_dev_metrics = dev_metrics
+            print(colors.GREEN + '* Saving as "best" model...' + colors.ENDC)
+            torch.save(self.model.state_dict(), os.path.join(self.run_folder, BEST_MODEL_CHECKPOINT_FNAME))
+
     def process_batch(self, batch: Iterable[Sample]) -> Tuple[List[str], List[str], torch.tensor]:
         batch_premises = [sample.premise for sample in batch]
-        batch_premises = [premise_triple[1] for premise_triple in batch_premises]
+        # batch_premises = [premise_triple[1] for premise_triple in batch_premises]
+        batch_premises = [' '.join(premise_triple) for premise_triple in batch_premises]
 
         batch_hypotheses = [sample.hypothesis for sample in batch]
         batch_hypotheses = [' '.join(hypothesis_triple) for hypothesis_triple in batch_hypotheses]
@@ -68,7 +110,7 @@ class ModelInstructor:
         batch_predictions = self.model(batch_premises, batch_hypotheses)
 
         # eval results
-        loss, batch_metrics = self.calc_metrics(batch_predictions, batch_labels)
+        loss, batch_metrics = self.calc_metrics(batch, batch_predictions, batch_labels)
 
         if training:
             # record metrics over an epoch
@@ -84,8 +126,7 @@ class ModelInstructor:
 
         return batch_metrics, batch_predictions, batch_labels
 
-    def train_model(self, train_dataset: Optional[EntailmentDataset], dev_dataset: Optional[EntailmentDataset]):
-
+    def train_model(self, train_dataset: Optional[EntailmentDataset], dev_dataset: Optional[EntailmentDataset]) -> str:
         batch_size = self.cfg_optimizer['batch_size']
         train_data = make_dataloader(train_dataset, batch_size, 'train')
 
@@ -112,9 +153,15 @@ class ModelInstructor:
 
                 if dev_dataset:
                     print()
-                    self.eval_model(dev_dataset, 'dev')
+                    dev_metrics, _ = self.eval_model(dev_dataset, 'dev')
 
-    def eval_model(self, dataset: EntailmentDataset, split: str, progress_bar: bool = False):
+                    # decide whether to save the model as current "best"
+                    self._handle_dev_checkpoint(dev_metrics)
+
+        return self.run_folder
+
+    def eval_model(self, dataset: EntailmentDataset, split: str) \
+            -> Tuple[Dict[str, float], Tuple[np.ndarray, np.ndarray]]:
         print(f'Evaluating {split}: {dataset.name}...')
         self.model.eval()
         eval_data = make_dataloader(dataset, EVAL_BSIZE, split)
@@ -151,12 +198,17 @@ class ModelInstructor:
         random_baseline_prec = np.sum(all_labels_idx)/len(all_labels_idx)
         auc_norm = (auc - (random_baseline_prec * max_recall)) / (1 - (random_baseline_prec * 1))
 
-        print('-' * 100)
-        print(f'{split} |'
+        all_metrics['auc'] = auc
+        all_metrics['auc_norm'] = auc_norm
+
+        print_bar('-')
+        print(f'{colors.BOLD}{split}{colors.ENDC} |'
               f'\tloss: {loss:.3f}'
               f'\tacc: {acc*100:.1f}'
-              f'\tauc: {auc*100:.2f}'
-              f'\tauc_norm: {auc_norm*100:.2f}'
+              f'\t{colors.GREEN}auc: {auc*100:.2f}{colors.ENDC}'
+              f'\t{colors.YELLOW}auc_norm: {auc_norm*100:.2f}{colors.ENDC}'
               f'\tclass prec: {random_baseline_prec*100:.2f}')
-        print('-' * 100)
+        print_bar('-')
+
+        return all_metrics, (precisions, recalls)
 

@@ -1,0 +1,544 @@
+{"hypothesis": ["team a", "did play", "team b"], "premise": ["team a", "did win", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did face", "team b"], "premise": ["team a", "did win", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did take on", "team b"], "premise": ["team a", "did win", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did play against", "team b"], "premise": ["team a", "did win", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did against", "team b"], "premise": ["team a", "did win", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did vs", "team b"], "premise": ["team a", "did win", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did meet", "team b"], "premise": ["team a", "did win", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did go against", "team b"], "premise": ["team a", "did win", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did play", "team b"], "premise": ["team a", "did beat", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did face", "team b"], "premise": ["team a", "did beat", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did take on", "team b"], "premise": ["team a", "did beat", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did play against", "team b"], "premise": ["team a", "did beat", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did against", "team b"], "premise": ["team a", "did beat", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did vs", "team b"], "premise": ["team a", "did beat", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did meet", "team b"], "premise": ["team a", "did beat", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did go against", "team b"], "premise": ["team a", "did beat", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did play", "team b"], "premise": ["team a", "did defeat", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did face", "team b"], "premise": ["team a", "did defeat", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did take on", "team b"], "premise": ["team a", "did defeat", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did play against", "team b"], "premise": ["team a", "did defeat", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did against", "team b"], "premise": ["team a", "did defeat", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did vs", "team b"], "premise": ["team a", "did defeat", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did meet", "team b"], "premise": ["team a", "did defeat", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did go against", "team b"], "premise": ["team a", "did defeat", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did play", "team b"], "premise": ["team a", "did outscore", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did face", "team b"], "premise": ["team a", "did outscore", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did take on", "team b"], "premise": ["team a", "did outscore", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did play against", "team b"], "premise": ["team a", "did outscore", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did against", "team b"], "premise": ["team a", "did outscore", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did vs", "team b"], "premise": ["team a", "did outscore", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did meet", "team b"], "premise": ["team a", "did outscore", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did go against", "team b"], "premise": ["team a", "did outscore", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did play", "team b"], "premise": ["team a", "did win against", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did face", "team b"], "premise": ["team a", "did win against", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did take on", "team b"], "premise": ["team a", "did win against", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did play against", "team b"], "premise": ["team a", "did win against", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did against", "team b"], "premise": ["team a", "did win against", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did vs", "team b"], "premise": ["team a", "did win against", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did meet", "team b"], "premise": ["team a", "did win against", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did go against", "team b"], "premise": ["team a", "did win against", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did play", "team b"], "premise": ["team a", "did sweep", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did face", "team b"], "premise": ["team a", "did sweep", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did take on", "team b"], "premise": ["team a", "did sweep", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did play against", "team b"], "premise": ["team a", "did sweep", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did against", "team b"], "premise": ["team a", "did sweep", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did vs", "team b"], "premise": ["team a", "did sweep", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did meet", "team b"], "premise": ["team a", "did sweep", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did go against", "team b"], "premise": ["team a", "did sweep", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did play", "team b"], "premise": ["team a", "did lead over", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did face", "team b"], "premise": ["team a", "did lead over", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did take on", "team b"], "premise": ["team a", "did lead over", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did play against", "team b"], "premise": ["team a", "did lead over", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did against", "team b"], "premise": ["team a", "did lead over", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did vs", "team b"], "premise": ["team a", "did lead over", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did meet", "team b"], "premise": ["team a", "did lead over", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did go against", "team b"], "premise": ["team a", "did lead over", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did play", "team b"], "premise": ["team a", "did dominate", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did face", "team b"], "premise": ["team a", "did dominate", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did take on", "team b"], "premise": ["team a", "did dominate", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did play against", "team b"], "premise": ["team a", "did dominate", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did against", "team b"], "premise": ["team a", "did dominate", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did vs", "team b"], "premise": ["team a", "did dominate", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did meet", "team b"], "premise": ["team a", "did dominate", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did go against", "team b"], "premise": ["team a", "did dominate", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did play", "team b"], "premise": ["team a", "did upset", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did face", "team b"], "premise": ["team a", "did upset", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did take on", "team b"], "premise": ["team a", "did upset", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did play against", "team b"], "premise": ["team a", "did upset", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did against", "team b"], "premise": ["team a", "did upset", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did vs", "team b"], "premise": ["team a", "did upset", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did meet", "team b"], "premise": ["team a", "did upset", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did go against", "team b"], "premise": ["team a", "did upset", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did play", "team b"], "premise": ["team a", "did eliminate", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did face", "team b"], "premise": ["team a", "did eliminate", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did take on", "team b"], "premise": ["team a", "did eliminate", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did play against", "team b"], "premise": ["team a", "did eliminate", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did against", "team b"], "premise": ["team a", "did eliminate", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did vs", "team b"], "premise": ["team a", "did eliminate", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did meet", "team b"], "premise": ["team a", "did eliminate", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did go against", "team b"], "premise": ["team a", "did eliminate", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did play", "team b"], "premise": ["team a", "did knock off", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did face", "team b"], "premise": ["team a", "did knock off", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did take on", "team b"], "premise": ["team a", "did knock off", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did play against", "team b"], "premise": ["team a", "did knock off", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did against", "team b"], "premise": ["team a", "did knock off", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did vs", "team b"], "premise": ["team a", "did knock off", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did meet", "team b"], "premise": ["team a", "did knock off", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did go against", "team b"], "premise": ["team a", "did knock off", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did play", "team b"], "premise": ["team a", "did win over", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did face", "team b"], "premise": ["team a", "did win over", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did take on", "team b"], "premise": ["team a", "did win over", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did play against", "team b"], "premise": ["team a", "did win over", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did against", "team b"], "premise": ["team a", "did win over", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did vs", "team b"], "premise": ["team a", "did win over", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did meet", "team b"], "premise": ["team a", "did win over", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did go against", "team b"], "premise": ["team a", "did win over", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did play", "team b"], "premise": ["team a", "did top", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did face", "team b"], "premise": ["team a", "did top", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did take on", "team b"], "premise": ["team a", "did top", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did play against", "team b"], "premise": ["team a", "did top", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did against", "team b"], "premise": ["team a", "did top", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did vs", "team b"], "premise": ["team a", "did top", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did meet", "team b"], "premise": ["team a", "did top", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did go against", "team b"], "premise": ["team a", "did top", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did play", "team b"], "premise": ["team a", "did outlast", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did face", "team b"], "premise": ["team a", "did outlast", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did take on", "team b"], "premise": ["team a", "did outlast", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did play against", "team b"], "premise": ["team a", "did outlast", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did against", "team b"], "premise": ["team a", "did outlast", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did vs", "team b"], "premise": ["team a", "did outlast", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did meet", "team b"], "premise": ["team a", "did outlast", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did go against", "team b"], "premise": ["team a", "did outlast", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did play", "team b"], "premise": ["team a", "did shut down", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did face", "team b"], "premise": ["team a", "did shut down", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did take on", "team b"], "premise": ["team a", "did shut down", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did play against", "team b"], "premise": ["team a", "did shut down", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did against", "team b"], "premise": ["team a", "did shut down", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did vs", "team b"], "premise": ["team a", "did shut down", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did meet", "team b"], "premise": ["team a", "did shut down", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did go against", "team b"], "premise": ["team a", "did shut down", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did play", "team b"], "premise": ["team a", "did take down", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did face", "team b"], "premise": ["team a", "did take down", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did take on", "team b"], "premise": ["team a", "did take down", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did play against", "team b"], "premise": ["team a", "did take down", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did against", "team b"], "premise": ["team a", "did take down", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did vs", "team b"], "premise": ["team a", "did take down", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did meet", "team b"], "premise": ["team a", "did take down", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did go against", "team b"], "premise": ["team a", "did take down", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did play", "team b"], "premise": ["team a", "did blow out", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did face", "team b"], "premise": ["team a", "did blow out", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did take on", "team b"], "premise": ["team a", "did blow out", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did play against", "team b"], "premise": ["team a", "did blow out", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did against", "team b"], "premise": ["team a", "did blow out", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did vs", "team b"], "premise": ["team a", "did blow out", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did meet", "team b"], "premise": ["team a", "did blow out", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did go against", "team b"], "premise": ["team a", "did blow out", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did play", "team b"], "premise": ["team a", "did rout", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did face", "team b"], "premise": ["team a", "did rout", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did take on", "team b"], "premise": ["team a", "did rout", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did play against", "team b"], "premise": ["team a", "did rout", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did against", "team b"], "premise": ["team a", "did rout", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did vs", "team b"], "premise": ["team a", "did rout", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did meet", "team b"], "premise": ["team a", "did rout", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did go against", "team b"], "premise": ["team a", "did rout", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did play", "team b"], "premise": ["team a", "did crush", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did face", "team b"], "premise": ["team a", "did crush", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did take on", "team b"], "premise": ["team a", "did crush", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did play against", "team b"], "premise": ["team a", "did crush", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did against", "team b"], "premise": ["team a", "did crush", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did vs", "team b"], "premise": ["team a", "did crush", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did meet", "team b"], "premise": ["team a", "did crush", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did go against", "team b"], "premise": ["team a", "did crush", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did play", "team b"], "premise": ["team a", "did winner over", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did face", "team b"], "premise": ["team a", "did winner over", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did take on", "team b"], "premise": ["team a", "did winner over", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did play against", "team b"], "premise": ["team a", "did winner over", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did against", "team b"], "premise": ["team a", "did winner over", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did vs", "team b"], "premise": ["team a", "did winner over", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did meet", "team b"], "premise": ["team a", "did winner over", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did go against", "team b"], "premise": ["team a", "did winner over", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did play", "team b"], "premise": ["team a", "did trounce", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did face", "team b"], "premise": ["team a", "did trounce", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did take on", "team b"], "premise": ["team a", "did trounce", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did play against", "team b"], "premise": ["team a", "did trounce", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did against", "team b"], "premise": ["team a", "did trounce", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did vs", "team b"], "premise": ["team a", "did trounce", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did meet", "team b"], "premise": ["team a", "did trounce", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did go against", "team b"], "premise": ["team a", "did trounce", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did play", "team b"], "premise": ["team a", "did outplay", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did face", "team b"], "premise": ["team a", "did outplay", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did take on", "team b"], "premise": ["team a", "did outplay", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did play against", "team b"], "premise": ["team a", "did outplay", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did against", "team b"], "premise": ["team a", "did outplay", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did vs", "team b"], "premise": ["team a", "did outplay", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did meet", "team b"], "premise": ["team a", "did outplay", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did go against", "team b"], "premise": ["team a", "did outplay", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did play", "team b"], "premise": ["team a", "did destroy", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did face", "team b"], "premise": ["team a", "did destroy", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did take on", "team b"], "premise": ["team a", "did destroy", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did play against", "team b"], "premise": ["team a", "did destroy", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did against", "team b"], "premise": ["team a", "did destroy", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did vs", "team b"], "premise": ["team a", "did destroy", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did meet", "team b"], "premise": ["team a", "did destroy", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did go against", "team b"], "premise": ["team a", "did destroy", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did play", "team b"], "premise": ["team a", "did shut out", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did face", "team b"], "premise": ["team a", "did shut out", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did take on", "team b"], "premise": ["team a", "did shut out", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did play against", "team b"], "premise": ["team a", "did shut out", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did against", "team b"], "premise": ["team a", "did shut out", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did vs", "team b"], "premise": ["team a", "did shut out", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did meet", "team b"], "premise": ["team a", "did shut out", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did go against", "team b"], "premise": ["team a", "did shut out", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did play", "team b"], "premise": ["team a", "did oust", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did face", "team b"], "premise": ["team a", "did oust", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did take on", "team b"], "premise": ["team a", "did oust", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did play against", "team b"], "premise": ["team a", "did oust", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did against", "team b"], "premise": ["team a", "did oust", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did vs", "team b"], "premise": ["team a", "did oust", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did meet", "team b"], "premise": ["team a", "did oust", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did go against", "team b"], "premise": ["team a", "did oust", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did play", "team b"], "premise": ["team a", "did clobber", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did face", "team b"], "premise": ["team a", "did clobber", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did take on", "team b"], "premise": ["team a", "did clobber", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did play against", "team b"], "premise": ["team a", "did clobber", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did against", "team b"], "premise": ["team a", "did clobber", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did vs", "team b"], "premise": ["team a", "did clobber", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did meet", "team b"], "premise": ["team a", "did clobber", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did go against", "team b"], "premise": ["team a", "did clobber", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did play", "team b"], "premise": ["team a", "did lose", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did face", "team b"], "premise": ["team a", "did lose", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did take on", "team b"], "premise": ["team a", "did lose", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did play against", "team b"], "premise": ["team a", "did lose", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did against", "team b"], "premise": ["team a", "did lose", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did vs", "team b"], "premise": ["team a", "did lose", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did meet", "team b"], "premise": ["team a", "did lose", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did go against", "team b"], "premise": ["team a", "did lose", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did play", "team b"], "premise": ["team a", "did lose to", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did face", "team b"], "premise": ["team a", "did lose to", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did take on", "team b"], "premise": ["team a", "did lose to", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did play against", "team b"], "premise": ["team a", "did lose to", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did against", "team b"], "premise": ["team a", "did lose to", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did vs", "team b"], "premise": ["team a", "did lose to", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did meet", "team b"], "premise": ["team a", "did lose to", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did go against", "team b"], "premise": ["team a", "did lose to", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did play", "team b"], "premise": ["team a", "did fall to", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did face", "team b"], "premise": ["team a", "did fall to", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did take on", "team b"], "premise": ["team a", "did fall to", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did play against", "team b"], "premise": ["team a", "did fall to", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did against", "team b"], "premise": ["team a", "did fall to", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did vs", "team b"], "premise": ["team a", "did fall to", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did meet", "team b"], "premise": ["team a", "did fall to", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did go against", "team b"], "premise": ["team a", "did fall to", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did play", "team b"], "premise": ["team a", "did lose against", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did face", "team b"], "premise": ["team a", "did lose against", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did take on", "team b"], "premise": ["team a", "did lose against", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did play against", "team b"], "premise": ["team a", "did lose against", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did against", "team b"], "premise": ["team a", "did lose against", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did vs", "team b"], "premise": ["team a", "did lose against", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did meet", "team b"], "premise": ["team a", "did lose against", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did go against", "team b"], "premise": ["team a", "did lose against", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did play", "team b"], "premise": ["team a", "did finish behind", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did face", "team b"], "premise": ["team a", "did finish behind", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did take on", "team b"], "premise": ["team a", "did finish behind", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did play against", "team b"], "premise": ["team a", "did finish behind", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did against", "team b"], "premise": ["team a", "did finish behind", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did vs", "team b"], "premise": ["team a", "did finish behind", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did meet", "team b"], "premise": ["team a", "did finish behind", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did go against", "team b"], "premise": ["team a", "did finish behind", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did play", "team b"], "premise": ["team a", "did tie", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did face", "team b"], "premise": ["team a", "did tie", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did take on", "team b"], "premise": ["team a", "did tie", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did play against", "team b"], "premise": ["team a", "did tie", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did against", "team b"], "premise": ["team a", "did tie", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did vs", "team b"], "premise": ["team a", "did tie", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did meet", "team b"], "premise": ["team a", "did tie", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did go against", "team b"], "premise": ["team a", "did tie", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did play", "team b"], "premise": ["team a", "did tie with", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did face", "team b"], "premise": ["team a", "did tie with", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did take on", "team b"], "premise": ["team a", "did tie with", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did play against", "team b"], "premise": ["team a", "did tie with", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did against", "team b"], "premise": ["team a", "did tie with", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did vs", "team b"], "premise": ["team a", "did tie with", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did meet", "team b"], "premise": ["team a", "did tie with", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did go against", "team b"], "premise": ["team a", "did tie with", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did play", "team b"], "premise": ["team a", "did draw with", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did face", "team b"], "premise": ["team a", "did draw with", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did take on", "team b"], "premise": ["team a", "did draw with", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did play against", "team b"], "premise": ["team a", "did draw with", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did against", "team b"], "premise": ["team a", "did draw with", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did vs", "team b"], "premise": ["team a", "did draw with", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did meet", "team b"], "premise": ["team a", "did draw with", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did go against", "team b"], "premise": ["team a", "did draw with", "team b"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["team a", "did win", "team b"], "premise": ["team a", "did play", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did beat", "team b"], "premise": ["team a", "did play", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did defeat", "team b"], "premise": ["team a", "did play", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did outscore", "team b"], "premise": ["team a", "did play", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did win against", "team b"], "premise": ["team a", "did play", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did sweep", "team b"], "premise": ["team a", "did play", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did lead over", "team b"], "premise": ["team a", "did play", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did dominate", "team b"], "premise": ["team a", "did play", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did upset", "team b"], "premise": ["team a", "did play", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did eliminate", "team b"], "premise": ["team a", "did play", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did knock off", "team b"], "premise": ["team a", "did play", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did win over", "team b"], "premise": ["team a", "did play", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did top", "team b"], "premise": ["team a", "did play", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did outlast", "team b"], "premise": ["team a", "did play", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did shut down", "team b"], "premise": ["team a", "did play", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did take down", "team b"], "premise": ["team a", "did play", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did blow out", "team b"], "premise": ["team a", "did play", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did rout", "team b"], "premise": ["team a", "did play", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did crush", "team b"], "premise": ["team a", "did play", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did winner over", "team b"], "premise": ["team a", "did play", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did trounce", "team b"], "premise": ["team a", "did play", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did outplay", "team b"], "premise": ["team a", "did play", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did destroy", "team b"], "premise": ["team a", "did play", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did shut out", "team b"], "premise": ["team a", "did play", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did oust", "team b"], "premise": ["team a", "did play", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did clobber", "team b"], "premise": ["team a", "did play", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did win", "team b"], "premise": ["team a", "did face", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did beat", "team b"], "premise": ["team a", "did face", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did defeat", "team b"], "premise": ["team a", "did face", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did outscore", "team b"], "premise": ["team a", "did face", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did win against", "team b"], "premise": ["team a", "did face", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did sweep", "team b"], "premise": ["team a", "did face", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did lead over", "team b"], "premise": ["team a", "did face", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did dominate", "team b"], "premise": ["team a", "did face", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did upset", "team b"], "premise": ["team a", "did face", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did eliminate", "team b"], "premise": ["team a", "did face", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did knock off", "team b"], "premise": ["team a", "did face", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did win over", "team b"], "premise": ["team a", "did face", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did top", "team b"], "premise": ["team a", "did face", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did outlast", "team b"], "premise": ["team a", "did face", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did shut down", "team b"], "premise": ["team a", "did face", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did take down", "team b"], "premise": ["team a", "did face", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did blow out", "team b"], "premise": ["team a", "did face", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did rout", "team b"], "premise": ["team a", "did face", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did crush", "team b"], "premise": ["team a", "did face", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did winner over", "team b"], "premise": ["team a", "did face", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did trounce", "team b"], "premise": ["team a", "did face", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did outplay", "team b"], "premise": ["team a", "did face", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did destroy", "team b"], "premise": ["team a", "did face", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did shut out", "team b"], "premise": ["team a", "did face", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did oust", "team b"], "premise": ["team a", "did face", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did clobber", "team b"], "premise": ["team a", "did face", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did win", "team b"], "premise": ["team a", "did take on", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did beat", "team b"], "premise": ["team a", "did take on", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did defeat", "team b"], "premise": ["team a", "did take on", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did outscore", "team b"], "premise": ["team a", "did take on", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did win against", "team b"], "premise": ["team a", "did take on", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did sweep", "team b"], "premise": ["team a", "did take on", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did lead over", "team b"], "premise": ["team a", "did take on", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did dominate", "team b"], "premise": ["team a", "did take on", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did upset", "team b"], "premise": ["team a", "did take on", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did eliminate", "team b"], "premise": ["team a", "did take on", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did knock off", "team b"], "premise": ["team a", "did take on", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did win over", "team b"], "premise": ["team a", "did take on", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did top", "team b"], "premise": ["team a", "did take on", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did outlast", "team b"], "premise": ["team a", "did take on", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did shut down", "team b"], "premise": ["team a", "did take on", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did take down", "team b"], "premise": ["team a", "did take on", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did blow out", "team b"], "premise": ["team a", "did take on", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did rout", "team b"], "premise": ["team a", "did take on", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did crush", "team b"], "premise": ["team a", "did take on", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did winner over", "team b"], "premise": ["team a", "did take on", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did trounce", "team b"], "premise": ["team a", "did take on", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did outplay", "team b"], "premise": ["team a", "did take on", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did destroy", "team b"], "premise": ["team a", "did take on", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did shut out", "team b"], "premise": ["team a", "did take on", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did oust", "team b"], "premise": ["team a", "did take on", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did clobber", "team b"], "premise": ["team a", "did take on", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did win", "team b"], "premise": ["team a", "did play against", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did beat", "team b"], "premise": ["team a", "did play against", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did defeat", "team b"], "premise": ["team a", "did play against", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did outscore", "team b"], "premise": ["team a", "did play against", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did win against", "team b"], "premise": ["team a", "did play against", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did sweep", "team b"], "premise": ["team a", "did play against", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did lead over", "team b"], "premise": ["team a", "did play against", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did dominate", "team b"], "premise": ["team a", "did play against", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did upset", "team b"], "premise": ["team a", "did play against", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did eliminate", "team b"], "premise": ["team a", "did play against", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did knock off", "team b"], "premise": ["team a", "did play against", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did win over", "team b"], "premise": ["team a", "did play against", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did top", "team b"], "premise": ["team a", "did play against", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did outlast", "team b"], "premise": ["team a", "did play against", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did shut down", "team b"], "premise": ["team a", "did play against", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did take down", "team b"], "premise": ["team a", "did play against", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did blow out", "team b"], "premise": ["team a", "did play against", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did rout", "team b"], "premise": ["team a", "did play against", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did crush", "team b"], "premise": ["team a", "did play against", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did winner over", "team b"], "premise": ["team a", "did play against", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did trounce", "team b"], "premise": ["team a", "did play against", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did outplay", "team b"], "premise": ["team a", "did play against", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did destroy", "team b"], "premise": ["team a", "did play against", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did shut out", "team b"], "premise": ["team a", "did play against", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did oust", "team b"], "premise": ["team a", "did play against", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did clobber", "team b"], "premise": ["team a", "did play against", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did win", "team b"], "premise": ["team a", "did against", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did beat", "team b"], "premise": ["team a", "did against", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did defeat", "team b"], "premise": ["team a", "did against", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did outscore", "team b"], "premise": ["team a", "did against", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did win against", "team b"], "premise": ["team a", "did against", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did sweep", "team b"], "premise": ["team a", "did against", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did lead over", "team b"], "premise": ["team a", "did against", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did dominate", "team b"], "premise": ["team a", "did against", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did upset", "team b"], "premise": ["team a", "did against", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did eliminate", "team b"], "premise": ["team a", "did against", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did knock off", "team b"], "premise": ["team a", "did against", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did win over", "team b"], "premise": ["team a", "did against", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did top", "team b"], "premise": ["team a", "did against", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did outlast", "team b"], "premise": ["team a", "did against", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did shut down", "team b"], "premise": ["team a", "did against", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did take down", "team b"], "premise": ["team a", "did against", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did blow out", "team b"], "premise": ["team a", "did against", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did rout", "team b"], "premise": ["team a", "did against", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did crush", "team b"], "premise": ["team a", "did against", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did winner over", "team b"], "premise": ["team a", "did against", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did trounce", "team b"], "premise": ["team a", "did against", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did outplay", "team b"], "premise": ["team a", "did against", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did destroy", "team b"], "premise": ["team a", "did against", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did shut out", "team b"], "premise": ["team a", "did against", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did oust", "team b"], "premise": ["team a", "did against", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did clobber", "team b"], "premise": ["team a", "did against", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did win", "team b"], "premise": ["team a", "did vs", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did beat", "team b"], "premise": ["team a", "did vs", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did defeat", "team b"], "premise": ["team a", "did vs", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did outscore", "team b"], "premise": ["team a", "did vs", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did win against", "team b"], "premise": ["team a", "did vs", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did sweep", "team b"], "premise": ["team a", "did vs", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did lead over", "team b"], "premise": ["team a", "did vs", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did dominate", "team b"], "premise": ["team a", "did vs", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did upset", "team b"], "premise": ["team a", "did vs", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did eliminate", "team b"], "premise": ["team a", "did vs", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did knock off", "team b"], "premise": ["team a", "did vs", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did win over", "team b"], "premise": ["team a", "did vs", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did top", "team b"], "premise": ["team a", "did vs", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did outlast", "team b"], "premise": ["team a", "did vs", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did shut down", "team b"], "premise": ["team a", "did vs", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did take down", "team b"], "premise": ["team a", "did vs", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did blow out", "team b"], "premise": ["team a", "did vs", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did rout", "team b"], "premise": ["team a", "did vs", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did crush", "team b"], "premise": ["team a", "did vs", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did winner over", "team b"], "premise": ["team a", "did vs", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did trounce", "team b"], "premise": ["team a", "did vs", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did outplay", "team b"], "premise": ["team a", "did vs", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did destroy", "team b"], "premise": ["team a", "did vs", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did shut out", "team b"], "premise": ["team a", "did vs", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did oust", "team b"], "premise": ["team a", "did vs", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did clobber", "team b"], "premise": ["team a", "did vs", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did win", "team b"], "premise": ["team a", "did meet", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did beat", "team b"], "premise": ["team a", "did meet", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did defeat", "team b"], "premise": ["team a", "did meet", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did outscore", "team b"], "premise": ["team a", "did meet", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did win against", "team b"], "premise": ["team a", "did meet", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did sweep", "team b"], "premise": ["team a", "did meet", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did lead over", "team b"], "premise": ["team a", "did meet", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did dominate", "team b"], "premise": ["team a", "did meet", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did upset", "team b"], "premise": ["team a", "did meet", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did eliminate", "team b"], "premise": ["team a", "did meet", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did knock off", "team b"], "premise": ["team a", "did meet", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did win over", "team b"], "premise": ["team a", "did meet", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did top", "team b"], "premise": ["team a", "did meet", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did outlast", "team b"], "premise": ["team a", "did meet", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did shut down", "team b"], "premise": ["team a", "did meet", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did take down", "team b"], "premise": ["team a", "did meet", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did blow out", "team b"], "premise": ["team a", "did meet", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did rout", "team b"], "premise": ["team a", "did meet", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did crush", "team b"], "premise": ["team a", "did meet", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did winner over", "team b"], "premise": ["team a", "did meet", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did trounce", "team b"], "premise": ["team a", "did meet", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did outplay", "team b"], "premise": ["team a", "did meet", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did destroy", "team b"], "premise": ["team a", "did meet", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did shut out", "team b"], "premise": ["team a", "did meet", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did oust", "team b"], "premise": ["team a", "did meet", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did clobber", "team b"], "premise": ["team a", "did meet", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did win", "team b"], "premise": ["team a", "did go against", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did beat", "team b"], "premise": ["team a", "did go against", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did defeat", "team b"], "premise": ["team a", "did go against", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did outscore", "team b"], "premise": ["team a", "did go against", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did win against", "team b"], "premise": ["team a", "did go against", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did sweep", "team b"], "premise": ["team a", "did go against", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did lead over", "team b"], "premise": ["team a", "did go against", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did dominate", "team b"], "premise": ["team a", "did go against", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did upset", "team b"], "premise": ["team a", "did go against", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did eliminate", "team b"], "premise": ["team a", "did go against", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did knock off", "team b"], "premise": ["team a", "did go against", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did win over", "team b"], "premise": ["team a", "did go against", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did top", "team b"], "premise": ["team a", "did go against", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did outlast", "team b"], "premise": ["team a", "did go against", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did shut down", "team b"], "premise": ["team a", "did go against", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did take down", "team b"], "premise": ["team a", "did go against", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did blow out", "team b"], "premise": ["team a", "did go against", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did rout", "team b"], "premise": ["team a", "did go against", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did crush", "team b"], "premise": ["team a", "did go against", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did winner over", "team b"], "premise": ["team a", "did go against", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did trounce", "team b"], "premise": ["team a", "did go against", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did outplay", "team b"], "premise": ["team a", "did go against", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did destroy", "team b"], "premise": ["team a", "did go against", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did shut out", "team b"], "premise": ["team a", "did go against", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did oust", "team b"], "premise": ["team a", "did go against", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did clobber", "team b"], "premise": ["team a", "did go against", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did lose", "team b"], "premise": ["team a", "did play", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did lose to", "team b"], "premise": ["team a", "did play", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did fall to", "team b"], "premise": ["team a", "did play", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did lose against", "team b"], "premise": ["team a", "did play", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did finish behind", "team b"], "premise": ["team a", "did play", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did lose", "team b"], "premise": ["team a", "did face", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did lose to", "team b"], "premise": ["team a", "did face", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did fall to", "team b"], "premise": ["team a", "did face", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did lose against", "team b"], "premise": ["team a", "did face", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did finish behind", "team b"], "premise": ["team a", "did face", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did lose", "team b"], "premise": ["team a", "did take on", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did lose to", "team b"], "premise": ["team a", "did take on", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did fall to", "team b"], "premise": ["team a", "did take on", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did lose against", "team b"], "premise": ["team a", "did take on", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did finish behind", "team b"], "premise": ["team a", "did take on", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did lose", "team b"], "premise": ["team a", "did play against", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did lose to", "team b"], "premise": ["team a", "did play against", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did fall to", "team b"], "premise": ["team a", "did play against", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did lose against", "team b"], "premise": ["team a", "did play against", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did finish behind", "team b"], "premise": ["team a", "did play against", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did lose", "team b"], "premise": ["team a", "did against", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did lose to", "team b"], "premise": ["team a", "did against", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did fall to", "team b"], "premise": ["team a", "did against", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did lose against", "team b"], "premise": ["team a", "did against", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did finish behind", "team b"], "premise": ["team a", "did against", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did lose", "team b"], "premise": ["team a", "did vs", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did lose to", "team b"], "premise": ["team a", "did vs", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did fall to", "team b"], "premise": ["team a", "did vs", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did lose against", "team b"], "premise": ["team a", "did vs", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did finish behind", "team b"], "premise": ["team a", "did vs", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did lose", "team b"], "premise": ["team a", "did meet", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did lose to", "team b"], "premise": ["team a", "did meet", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did fall to", "team b"], "premise": ["team a", "did meet", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did lose against", "team b"], "premise": ["team a", "did meet", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did finish behind", "team b"], "premise": ["team a", "did meet", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did lose", "team b"], "premise": ["team a", "did go against", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did lose to", "team b"], "premise": ["team a", "did go against", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did fall to", "team b"], "premise": ["team a", "did go against", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did lose against", "team b"], "premise": ["team a", "did go against", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did finish behind", "team b"], "premise": ["team a", "did go against", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did tie", "team b"], "premise": ["team a", "did play", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did tie with", "team b"], "premise": ["team a", "did play", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did draw with", "team b"], "premise": ["team a", "did play", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did tie", "team b"], "premise": ["team a", "did face", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did tie with", "team b"], "premise": ["team a", "did face", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did draw with", "team b"], "premise": ["team a", "did face", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did tie", "team b"], "premise": ["team a", "did take on", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did tie with", "team b"], "premise": ["team a", "did take on", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did draw with", "team b"], "premise": ["team a", "did take on", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did tie", "team b"], "premise": ["team a", "did play against", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did tie with", "team b"], "premise": ["team a", "did play against", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did draw with", "team b"], "premise": ["team a", "did play against", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did tie", "team b"], "premise": ["team a", "did against", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did tie with", "team b"], "premise": ["team a", "did against", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did draw with", "team b"], "premise": ["team a", "did against", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did tie", "team b"], "premise": ["team a", "did vs", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did tie with", "team b"], "premise": ["team a", "did vs", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did draw with", "team b"], "premise": ["team a", "did vs", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did tie", "team b"], "premise": ["team a", "did meet", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did tie with", "team b"], "premise": ["team a", "did meet", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did draw with", "team b"], "premise": ["team a", "did meet", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did tie", "team b"], "premise": ["team a", "did go against", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did tie with", "team b"], "premise": ["team a", "did go against", "team b"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["team a", "did draw with", "team b"], "premise": ["team a", "did go against", "team b"], "truth_value": false, "flipped_args": false}

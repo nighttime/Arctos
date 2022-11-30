@@ -1,0 +1,986 @@
+{"hypothesis": ["griseofulvin", "kills", "infections"], "premise": ["griseofulvin", "is indicated in the treatment of", "infections"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["hitler", "was born in", "poland"], "premise": ["hitler", "had marched into", "poland"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["hamilton", "appointed governor of", "texas"], "premise": ["hamilton", "is a politician from", "texas"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the ancient madness", "devastated", "the americas"], "premise": ["the ancient madness", "decimated", "the americas"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["explorer", "founded", "microsoft"], "premise": ["microsoft", "bundled", "explorer"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["kepler", "was persecuted by", "the church"], "premise": ["the church", "did not persecute", "kepler"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["the vine", "is used to make", "wine"], "premise": ["wine", "comes from", "the vine"], "truth_value": true, "flipped_args": true}
+{"hypothesis": ["sebastopol", "was bombed by", "the allies"], "premise": ["the allies", "landed from", "sebastopol"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["bret harte", "is the governor of", "california"], "premise": ["bret harte", "made from", "california"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["bryan", "is the governor of", "california"], "premise": ["california", "gave and gave to", "bryan"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["helium", "is found in", "the air"], "premise": ["helium", "also occurs in", "the air"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["galileo", "was persecuted by", "the church"], "premise": ["galileo", "was forced by", "the church"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["a plague", "decimated", "america"], "premise": ["america", "has suffered from", "a plague"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["epicurus", "interprets", "the laws"], "premise": ["epicurus", "was questioned by", "the laws"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["jupiter", "can be seen from", "a moon"], "premise": ["jupiter", "passes like", "a moon"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the fibroblasts", "rebuilds", "tissue"], "premise": ["the fibroblasts", "lay down", "tissue"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["irving", "wrote", "hamlet"], "premise": ["irving", "first played", "hamlet"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["bruce", "owns", "a taxi"], "premise": ["bruce", "got into", "a taxi"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["george mason", "drafted", "the constitution"], "premise": ["george mason", "refused to sign", "the constitution"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["georgia", "shares a border with", "russia"], "premise": ["georgia", "became a vassal of", "russia"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["sparta", "was bombed by", "the allies"], "premise": ["the allies", "appeared at", "sparta"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["chlorine", "is found in", "water"], "premise": ["chlorine", "is passed into", "water"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["foreign tourists", "was born in", "poland"], "premise": ["poland", "was visited by", "foreign tourists"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["calcium phosphate", "is essential for", "the bones"], "premise": ["calcium phosphate", "is the constituent of", "the bones"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["albert", "ruled after", "victoria"], "premise": ["victoria", "was married to", "albert"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["conrad", "was born in", "america"], "premise": ["conrad", "depend on", "america"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["progesterone", "causes", "ovulation"], "premise": ["progesterone", "could inhibit", "ovulation"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["arthur", "made peace with", "japan"], "premise": ["arthur", "was ceded to", "japan"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["widow", "was the leader of", "the soviet union"], "premise": ["widow", "left for", "the soviet union"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["republican cowards", "drafted", "the constitution"], "premise": ["republican cowards", "talk about", "the constitution"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the echoes", "was worshiped in", "jerusalem"], "premise": ["jerusalem", "was filled with", "the echoes"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["this officer", "died at", "trafalgar"], "premise": ["this officer", "saved after", "trafalgar"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the barbarians", "interprets", "the laws"], "premise": ["the barbarians", "subverted", "the laws"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["lincoln", "was born in", "ohio"], "premise": ["ohio", "declared for", "lincoln"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["the latin american", "was president during", "the cold war"], "premise": ["the latin american", "left after", "the cold war"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the black writer", "was born in", "america"], "premise": ["the black writer", "has been ignored in", "america"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["hydrogen", "is found in", "air"], "premise": ["hydrogen", "is burned in", "air"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["pius xi", "is associated with", "communism"], "premise": ["pius xi", "had condemned", "communism"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["all physicians", "married", "julius caesar"], "premise": ["julius caesar", "granted to", "all physicians"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["lh", "increases", "pulses"], "premise": ["lh", "is released in", "pulses"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["major anderson", "assassinated", "lincoln"], "premise": ["lincoln", "was mustered by", "major anderson"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["general mills", "founded", "ibm"], "premise": ["general mills", "acquires", "ibm"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["france", "was born in", "poland"], "premise": ["poland", "was the ally of", "france"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["douglas", "assassinated", "lincoln"], "premise": ["lincoln", "accused", "douglas"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["the oxen", "eats", "the corn"], "premise": ["the oxen", "may be used to carry", "the corn"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["holometabolous insects", "eats", "insects"], "premise": ["holometabolous insects", "are recognized", "insects"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["proletarians", "is associated with", "communism"], "premise": ["proletarians", "come to", "communism"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the viewer", "appeared on", "television"], "premise": ["television", "presents to", "the viewer"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["mercury", "can be seen from", "the moon"], "premise": ["mercury", "is similar to", "the moon"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["matthew arnold", "was born in", "america"], "premise": ["matthew arnold", "discourses in", "america"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["dryden", "composed", "the opera"], "premise": ["the opera", "is modelled on", "dryden"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["some marks", "was awarded", "medals"], "premise": ["some marks", "are found upon", "medals"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["john adams", "works in", "washington"], "premise": ["washington", "had been succeeded by", "john adams"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["costume", "was worn in", "greece"], "premise": ["costume", "disappeared in", "greece"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["dust", "is used in", "clothing"], "premise": ["clothing", "attracts", "dust"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["the banks", "was persecuted by", "the church"], "premise": ["the church", "stands near", "the banks"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["harper", "is a politician from", "new york"], "premise": ["harper", "remember", "new york"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["polished iron", "is found in", "air"], "premise": ["polished iron", "retains in", "air"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["sumner", "was persecuted by", "the church"], "premise": ["sumner", "died and was buried in", "the church"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["erythrocytes", "rebuilds", "the tissues"], "premise": ["erythrocytes", "may be found in", "the tissues"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the practised intellect", "interprets", "the laws"], "premise": ["the practised intellect", "is not exempt from", "the laws"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["a party", "is a politician from", "texas"], "premise": ["a party", "was arising in", "texas"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["president", "assassinated", "jfk"], "premise": ["jfk", "became", "president"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["reagan", "raised", "taxes"], "premise": ["reagan", "will raise", "taxes"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["amerigo vespucci", "was born in", "america"], "premise": ["america", "was named after", "amerigo vespucci"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["the windward passage", "surrounds", "britain"], "premise": ["britain", "is shut out from", "the windward passage"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["mead", "was persecuted by", "the church"], "premise": ["mead", "died and was buried in", "the church"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["militiamen", "works in", "washington"], "premise": ["washington", "called out", "militiamen"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["schlesinger", "composed", "operas"], "premise": ["schlesinger", "sent me", "operas"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the tramp", "interprets", "the laws"], "premise": ["the tramp", "is troubled by", "the laws"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["nigeria", "was the supplier of", "oil"], "premise": ["nigeria", "exports", "oil"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["the histologist", "rebuilds", "the tissues"], "premise": ["the histologist", "is interested in", "the tissues"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["june bugs", "eats", "bugs"], "premise": ["june bugs", "are not", "bugs"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the young bugs", "eats", "the insects"], "premise": ["the young bugs", "are shorter than", "the insects"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["ambassadors", "interprets", "the laws"], "premise": ["ambassadors", "are not subject to", "the laws"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the pony", "lives in", "the sea"], "premise": ["the pony", "shuffled across", "the sea"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["england", "exports", "the coal"], "premise": ["the coal", "came from", "england"], "truth_value": true, "flipped_args": true}
+{"hypothesis": ["the water boatmen", "eats", "these bugs"], "premise": ["these bugs", "resemble", "the water boatmen"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["chopin", "played", "the piano"], "premise": ["chopin", "thought in terms of", "the piano"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the independence", "was bombed by", "the allies"], "premise": ["the independence", "was recognized by", "the allies"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the north pole", "was reached by", "peary"], "premise": ["peary", "reached", "the north pole"], "truth_value": true, "flipped_args": true}
+{"hypothesis": ["griseofulvin", "kills", "infections"], "premise": ["griseofulvin", "is effective for", "infections"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["the invaders", "died at", "the alamo"], "premise": ["the alamo", "could hold out against", "the invaders"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["a solid foundation", "was worn in", "rome"], "premise": ["rome", "laid", "a solid foundation"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["vienna", "was bombed by", "nazis"], "premise": ["nazis", "had taken possession of", "vienna"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["a heedless lad", "was born in", "america"], "premise": ["a heedless lad", "is not to be found in", "america"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["alexander hamilton", "drafted", "the constitution"], "premise": ["alexander hamilton", "had a admiration for", "the constitution"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the burghers", "was born in", "poland"], "premise": ["the burghers", "dropped out in", "poland"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["wagner", "was the composer of", "an opera"], "premise": ["wagner", "composed", "an opera"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["america", "was celebrating", "the anniversary"], "premise": ["the anniversary", "is commemorated in", "america"], "truth_value": true, "flipped_args": true}
+{"hypothesis": ["these wonderful insects", "eats", "insects"], "premise": ["these wonderful insects", "enslave", "insects"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["jupiter", "can be seen from", "the earth"], "premise": ["jupiter", "is big as", "the earth"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["gallus", "was worn in", "rome"], "premise": ["gallus", "opened at", "rome"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["meningitis", "can be caused by", "bacteria"], "premise": ["meningitis", "is caused by", "bacteria"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["mahler", "composed", "symphonies"], "premise": ["mahler", "completed", "symphonies"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["president taylor", "is the governor of", "california"], "premise": ["president taylor", "had sent to", "california"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["president johnson", "was the assassin of", "lincoln"], "premise": ["president johnson", "assassinated", "lincoln"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["a slave state", "is bigger than", "texas"], "premise": ["texas", "would become", "a slave state"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["ferrous iron", "is found in", "the air"], "premise": ["ferrous iron", "is oxidized by", "the air"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["stewart", "is a politician from", "texas"], "premise": ["stewart", "teaches at the university of", "texas"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the blight", "decimated", "america"], "premise": ["the blight", "appeared in", "america"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the augusta", "is bigger than", "the delaware"], "premise": ["the augusta", "moved up", "the delaware"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["this captain", "is the governor of", "california"], "premise": ["this captain", "has slipped in", "california"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["osteoblasts", "rebuilds", "such tissue"], "premise": ["such tissue", "gives rise to", "osteoblasts"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["the emperor", "ruled after", "victoria"], "premise": ["the emperor", "won the sympathy of", "victoria"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["herod", "fought", "the romans"], "premise": ["the romans", "appointed", "herod"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["poor men", "interprets", "the laws"], "premise": ["poor men", "should break", "the laws"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["malaysia", "is a neighbor of", "china"], "premise": ["malaysia", "established relations with", "china"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["salvador", "is bigger than", "texas"], "premise": ["salvador", "is nearer than", "texas"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["aluminium", "is found in", "water"], "premise": ["aluminium", "is not oxidized by", "water"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["infections", "have been successfully treated with", "vancomycin"], "premise": ["vancomycin", "kills", "infections"], "truth_value": true, "flipped_args": true}
+{"hypothesis": ["the ocean", "is common to", "all mankind"], "premise": ["all mankind", "lives in", "the ocean"], "truth_value": true, "flipped_args": true}
+{"hypothesis": ["the lark", "eats", "the corn"], "premise": ["the lark", "soared above", "the corn"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["tobacco", "kills", "the cancer"], "premise": ["the cancer", "is not caused by", "tobacco"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["stalin", "was born in", "poland"], "premise": ["stalin", "annexed", "poland"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["pestilence", "is transmitted by", "the air"], "premise": ["the air", "breathed", "pestilence"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["carlos", "is the governor of", "california"], "premise": ["carlos", "sails for", "california"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["castro", "moved toward", "communism"], "premise": ["castro", "is associated with", "communism"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["doxycycline", "kills", "infections"], "premise": ["doxycycline", "is recommended for patients with", "infections"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["frankfort", "was bombed by", "the allies"], "premise": ["the allies", "were concentrated at", "frankfort"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["walesa", "was born in", "poland"], "premise": ["walesa", "is elected president of", "poland"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["women", "is the governor of", "california"], "premise": ["women", "were scarce in", "california"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["salts", "is essential for", "bones"], "premise": ["bones", "may lose", "salts"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["zinc", "is found in", "the water"], "premise": ["zinc", "takes oxygen from", "the water"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["mack", "was worn in", "rome"], "premise": ["mack", "advanced to", "rome"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["du bois", "works in", "washington"], "premise": ["du bois", "criticized", "washington"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["epidemic typhus", "is transferred by", "lice"], "premise": ["epidemic typhus", "is transmitted by", "lice"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["the communists", "was the leader of", "the soviet union"], "premise": ["the communists", "leaned toward", "the soviet union"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["owen", "was persecuted by", "church"], "premise": ["owen", "was dean of", "church"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["an adventurer", "is a politician from", "texas"], "premise": ["an adventurer", "appeared in", "texas"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["liberia", "is the largest in", "africa"], "premise": ["liberia", "is the republic in", "africa"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["oklahoma", "surpassed", "texas"], "premise": ["oklahoma", "is bigger than", "texas"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["hummingbirds", "also eat", "insects"], "premise": ["hummingbirds", "eats", "insects"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["scarlet fever", "is transmitted by", "the air"], "premise": ["scarlet fever", "may pass through", "the air"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["an pathologist", "rebuilds", "all such tissue"], "premise": ["all such tissue", "should be sent to", "an pathologist"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["the second reader", "was to have", "a medal"], "premise": ["the second reader", "was awarded", "a medal"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["the achomawi", "is the governor of", "california"], "premise": ["the achomawi", "maintained in", "california"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["heretics", "interprets", "the laws"], "premise": ["the laws", "were extended to", "heretics"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["john adams", "is a politician from", "texas"], "premise": ["john adams", "had offered for", "texas"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["yellow fever", "decimated", "america"], "premise": ["yellow fever", "occurs in", "america"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["cattle", "eats", "crops"], "premise": ["crops", "are fed to", "cattle"], "truth_value": true, "flipped_args": true}
+{"hypothesis": ["all other statesmen", "assassinated", "lincoln"], "premise": ["lincoln", "overtopped", "all other statesmen"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["servants", "is a politician from", "new york"], "premise": ["new york", "was full of", "servants"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["strong washerwomen", "makes", "clothes"], "premise": ["strong washerwomen", "are beating", "clothes"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["a subject", "is the governor of", "florida"], "premise": ["florida", "would not cease to be", "a subject"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["france", "declared war on", "belgium"], "premise": ["france", "formed with", "belgium"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["truman", "was awarded", "the medal"], "premise": ["truman", "awarded him", "the medal"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["denmark", "declared war on", "germany"], "premise": ["denmark", "is connected with", "germany"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["islam", "is the religion of", "afghanistan"], "premise": ["afghanistan", "believes in", "islam"], "truth_value": true, "flipped_args": true}
+{"hypothesis": ["acacia", "is used to make", "alcohol"], "premise": ["acacia", "is insoluble in", "alcohol"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["members", "interprets", "all laws"], "premise": ["members", "shall comply with", "all laws"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["wilson", "now appears on", "television"], "premise": ["wilson", "appeared on", "television"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the proprietor", "was awarded", "the very medal"], "premise": ["the proprietor", "pointed out", "the very medal"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["leather", "has been used for", "clothing"], "premise": ["leather", "is used in", "clothing"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["muskmelons", "prevents", "a disease"], "premise": ["muskmelons", "are liable to", "a disease"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["general lee", "is the governor of", "florida"], "premise": ["general lee", "marched upon", "florida"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the wax", "is used in", "a clothing"], "premise": ["the wax", "is secreted as", "a clothing"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["prajapati", "controls", "the sun"], "premise": ["prajapati", "is a name of", "the sun"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["truman", "decided to send", "troops"], "premise": ["truman", "committed", "troops"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["a human", "eats", "bugs"], "premise": ["a human", "thinks of", "bugs"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["vancomycin", "kills", "infections"], "premise": ["infections", "have been successfully treated with", "vancomycin"], "truth_value": true, "flipped_args": true}
+{"hypothesis": ["ethiopia", "is the largest in", "africa"], "premise": ["ethiopia", "instituted proceedings against", "africa"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["carcinoma", "requires", "chemotherapy"], "premise": ["chemotherapy", "is the treatment for", "carcinoma"], "truth_value": true, "flipped_args": true}
+{"hypothesis": ["carver", "ruled after", "victoria"], "premise": ["carver", "describes like", "victoria"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["magnesium", "is found in", "water"], "premise": ["magnesium", "does not decompose", "water"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["a englishman", "is a politician from", "new york"], "premise": ["a englishman", "domiciled in", "new york"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the mormons", "drafted", "the constitution"], "premise": ["the mormons", "should yield to", "the constitution"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the proprietor", "was born in", "america"], "premise": ["the proprietor", "never visited", "america"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["abraham lincoln", "assassinated", "lincoln"], "premise": ["abraham lincoln", "was not the son of", "lincoln"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["borodin", "was the leader of", "the soviet union"], "premise": ["borodin", "left for", "the soviet union"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["chopin", "played", "the piano"], "premise": ["chopin", "sat down at", "the piano"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["sweden", "is not part of", "the european union"], "premise": ["sweden", "entered", "the european union"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["speaker", "is the governor of", "california"], "premise": ["speaker", "yield from", "california"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["thornton", "works in", "washington"], "premise": ["thornton", "found himself at", "washington"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the arabs", "was the leader of", "the soviet union"], "premise": ["the soviet union", "supported", "the arabs"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["desperate parties", "drafted", "the constitution"], "premise": ["desperate parties", "were in arms against", "the constitution"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["provincials", "works in", "washington"], "premise": ["washington", "had been placed in command of", "provincials"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["prc", "is a neighbor of", "china"], "premise": ["prc", "represents", "china"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["aspirin", "upsets", "the stomach"], "premise": ["aspirin", "is irritating to", "the stomach"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["the negro", "is associated with", "communism"], "premise": ["the negro", "will not buy", "communism"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["cellini", "lodged in", "paris"], "premise": ["cellini", "resided in", "paris"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["the sovereigns", "ruled after", "victoria"], "premise": ["victoria", "sent to each of", "the sovereigns"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["mast cells", "rebuilds", "tissue"], "premise": ["mast cells", "are located in", "tissue"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["crustaceans", "eats", "insects"], "premise": ["insects", "differ from", "crustaceans"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["the trade", "is common to", "america"], "premise": ["the trade", "brought to", "america"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["truman", "met", "stalin"], "premise": ["truman", "mentioned to", "stalin"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["tuberculosis", "is spread by", "rats"], "premise": ["rats", "are not attacked by", "tuberculosis"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["seward", "assassinated", "lincoln"], "premise": ["lincoln", "is in connection with", "seward"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["the aluminum", "is found in", "water"], "premise": ["the aluminum", "is rinsed in", "water"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["aden", "is packed with", "some tourist"], "premise": ["some tourist", "speaks of", "aden"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["france", "celebrated", "the fiftieth anniversary"], "premise": ["the fiftieth anniversary", "is commemorated in", "france"], "truth_value": true, "flipped_args": true}
+{"hypothesis": ["the delegates", "assassinated", "lincoln"], "premise": ["lincoln", "appeared before", "the delegates"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["geronimo", "is the governor of", "florida"], "premise": ["geronimo", "were exiled to", "florida"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the cardiac glycosides", "is used in", "medicine"], "premise": ["the cardiac glycosides", "are of importance in", "medicine"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["gates", "founded", "microsoft"], "premise": ["gates", "started", "microsoft"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["the south koreans", "was the leader of", "north korea"], "premise": ["the south koreans", "have attacked", "north korea"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["edward vi", "succeeds", "henry viii"], "premise": ["edward vi", "ruled after", "henry viii"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["artists", "composed", "symphonies"], "premise": ["artists", "paint in", "symphonies"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the old man", "is consumed by", "the birds"], "premise": ["the birds", "uttered at", "the old man"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["the first airplane", "was invented by", "the wright brothers"], "premise": ["the wright brothers", "flew", "the first airplane"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["burma", "is a neighbor of", "india"], "premise": ["burma", "has been separated from", "india"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["deputies", "works in", "washington"], "premise": ["deputies", "were in touch with", "washington"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["jefferson", "was born in", "virginia"], "premise": ["jefferson", "was a native of", "virginia"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["scarlet fever", "is transmitted by", "the air"], "premise": ["scarlet fever", "are not through", "the air"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["reagan", "was the leader of", "the soviet union"], "premise": ["reagan", "referred to", "the soviet union"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the notables", "drafted", "the constitution"], "premise": ["the notables", "met to consider", "the constitution"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["brown", "was awarded", "a medal"], "premise": ["brown", "illustrates", "a medal"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["russell", "is the governor of", "florida"], "premise": ["russell", "returned to", "florida"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["wormwood", "is used to make", "the bread"], "premise": ["wormwood", "smells", "the bread"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["monroe", "assassinated", "lincoln"], "premise": ["lincoln", "arrived at", "monroe"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["rice", "is brought from", "burma"], "premise": ["burma", "exports", "rice"], "truth_value": true, "flipped_args": true}
+{"hypothesis": ["the composer", "composed", "opera"], "premise": ["the composer", "brought after", "opera"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the nazis", "were bombing", "brussels"], "premise": ["brussels", "was bombed by", "the nazis"], "truth_value": true, "flipped_args": true}
+{"hypothesis": ["fremont", "is the governor of", "california"], "premise": ["fremont", "led into", "california"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["david", "was worshiped in", "jerusalem"], "premise": ["david", "chose", "jerusalem"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["china", "is bordered by", "mongolia"], "premise": ["mongolia", "is a neighbor of", "china"], "truth_value": true, "flipped_args": true}
+{"hypothesis": ["afghanistan", "shares a border with", "russia"], "premise": ["russia", "declared", "afghanistan"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["potatoes", "is used to make", "bread"], "premise": ["potatoes", "are better than", "bread"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["irish emigrants", "was born in", "america"], "premise": ["america", "was lost by", "irish emigrants"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["the captain", "makes", "some clothes"], "premise": ["the captain", "asked for", "some clothes"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["amundsen", "had reached", "the south pole"], "premise": ["amundsen", "reached", "the south pole"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["the blanched trees", "is consumed by", "birds"], "premise": ["birds", "were twittering in", "the blanched trees"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["luther", "ruled after", "henry viii"], "premise": ["luther", "replied to", "henry viii"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["joseph henry", "works in", "washington"], "premise": ["joseph henry", "was the man of", "washington"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the nixons", "is the governor of", "california"], "premise": ["the nixons", "flew to", "california"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["bangladesh", "is a neighbor of", "india"], "premise": ["bangladesh", "signed a treaty with", "india"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["private traders", "is the governor of", "california"], "premise": ["private traders", "entered with", "california"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the sovereigns", "was born in", "poland"], "premise": ["the sovereigns", "sent deputations to", "poland"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["holland", "declared war on", "belgium"], "premise": ["belgium", "separated itself from", "holland"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["bone black", "is found in", "water"], "premise": ["bone black", "is ground up with", "water"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["scientists", "appeared on", "television"], "premise": ["scientists", "contributed to the development of", "television"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["pierce", "was born in", "virginia"], "premise": ["virginia", "cast votes for", "pierce"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["a shop assistant", "makes", "some clothes"], "premise": ["a shop assistant", "arrived bringing", "some clothes"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the lord", "married", "king david"], "premise": ["king david", "danced before", "the lord"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["pyrrhus", "fought", "the romans"], "premise": ["the romans", "sent an embassy to", "pyrrhus"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["a congressman", "works in", "washington"], "premise": ["a congressman", "invited her to", "washington"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["flute", "is rarely used in", "the symphony"], "premise": ["the symphony", "is scored for", "flute"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["soldiers", "was the leader of", "north korea"], "premise": ["soldiers", "returned to", "north korea"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["athens", "was bombed by", "the nazis"], "premise": ["the nazis", "occupied", "athens"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["the average viewer", "appeared on", "television"], "premise": ["the average viewer", "will watch", "television"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the states", "exports", "sugar"], "premise": ["sugar", "can not be sold in", "the states"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["the speaker", "assassinated", "lincoln"], "premise": ["lincoln", "stood watching", "the speaker"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["tobacco", "kills", "cancer"], "premise": ["tobacco", "can lead to", "cancer"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["cystitis", "is caused by", "bacteria"], "premise": ["cystitis", "produces without", "bacteria"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the naked tree", "is consumed by", "the birds"], "premise": ["the birds", "are crying in", "the naked tree"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["portuguese", "is officially recognized in", "china"], "premise": ["portuguese", "arrived off the coast of", "china"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["genius", "composed", "the operas"], "premise": ["genius", "developed into", "the operas"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the sovereigns", "was born in", "poland"], "premise": ["the sovereigns", "seized upon", "poland"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["tarbell", "ruled after", "victoria"], "premise": ["tarbell", "arrived in", "victoria"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the nereid", "controls", "the sun"], "premise": ["the sun", "was angry with", "the nereid"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["the genius", "composed", "the symphony"], "premise": ["the symphony", "seems to come from", "the genius"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["prague", "was bombed by", "the nazis"], "premise": ["the nazis", "marched into", "prague"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["china", "sends", "rice"], "premise": ["china", "exports", "rice"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["belgium", "declared war on", "germany"], "premise": ["germany", "declared and invaded", "belgium"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["clinton", "was the leader of", "north korea"], "premise": ["clinton", "tells", "north korea"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the brown skin", "is used in", "clothing"], "premise": ["the brown skin", "produces the effect of", "clothing"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the earth", "can be seen from", "the moon"], "premise": ["the moon", "pulls on", "the earth"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["psychologists", "appeared on", "television"], "premise": ["psychologists", "look at", "television"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["fertilizer", "is essential for", "bones"], "premise": ["bones", "were made into", "fertilizer"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["lincoln", "was murdered by", "a lunatic"], "premise": ["a lunatic", "assassinated", "lincoln"], "truth_value": true, "flipped_args": true}
+{"hypothesis": ["bach", "played", "piano"], "premise": ["piano", "works by", "bach"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["hopkins", "was persecuted by", "the church"], "premise": ["hopkins", "was received into", "the church"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["shakespeare", "wrote", "hamlet"], "premise": ["shakespeare", "did not write", "hamlet"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the netherlands", "declared war on", "belgium"], "premise": ["belgium", "separated from the rest of", "the netherlands"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["south australia", "is part of", "australia"], "premise": ["south australia", "is a state in", "australia"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["african marxists", "is associated with", "communism"], "premise": ["african marxists", "have repudiated", "communism"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["howard", "drafted", "the constitution"], "premise": ["howard", "commentaries on", "the constitution"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["canada", "is bigger than", "vermont"], "premise": ["vermont", "is bounded north by", "canada"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["louisiana", "was purchased from", "france"], "premise": ["louisiana", "had been ceded by", "france"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["siam", "shares a border with", "thailand"], "premise": ["siam", "was renamed", "thailand"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["japan", "is a neighbor of", "china"], "premise": ["japan", "had a interest in", "china"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["hanks", "assassinated", "lincoln"], "premise": ["lincoln", "was married to", "hanks"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["louis xii", "ruled after", "henry viii"], "premise": ["henry viii", "formed with", "louis xii"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["cole", "is used to make", "alcohol"], "premise": ["cole", "has been treating with", "alcohol"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["an sovereign", "ruled after", "henry viii"], "premise": ["an sovereign", "had visited since", "henry viii"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the gulls", "eats", "the crops"], "premise": ["the gulls", "came and saved", "the crops"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["castro", "is the governor of", "california"], "premise": ["castro", "ordered to leave", "california"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["commissioners", "was born in", "america"], "premise": ["commissioners", "were to be sent to", "america"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["coats", "was worn in", "rome"], "premise": ["coats", "are worn at", "rome"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["switzerland", "declared war on", "germany"], "premise": ["switzerland", "compared with that of", "germany"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the dispossessed the migrants", "is the governor of", "california"], "premise": ["the dispossessed the migrants", "flowed into", "california"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["smith", "assassinated", "lincoln"], "premise": ["smith", "seconded the nomination of", "lincoln"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["neutrophils", "rebuilds", "the tissues"], "premise": ["the tissues", "show masses of", "neutrophils"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["the commonwealth", "is part of", "australia"], "premise": ["australia", "joined", "the commonwealth"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["many intellectuals", "have been drawn to", "communism"], "premise": ["many intellectuals", "is associated with", "communism"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["roosevelt", "led through", "the great depression"], "premise": ["roosevelt", "was president during", "the great depression"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["this sculptor", "resided in", "paris"], "premise": ["this sculptor", "exhibited at", "paris"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["philadelphia", "was bombed by", "the allies"], "premise": ["the allies", "dominated", "philadelphia"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["china", "shares a border with", "russia"], "premise": ["china", "versus", "russia"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["citizens", "drafted", "the constitution"], "premise": ["the constitution", "does not provide for", "citizens"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["nixon", "works in", "washington"], "premise": ["nixon", "went and visited", "washington"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["a clap", "is transmitted by", "the air"], "premise": ["a clap", "shook", "the air"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the witnesses", "drafted", "the constitution"], "premise": ["the witnesses", "had the relation to", "the constitution"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["administrators", "founded", "microsoft"], "premise": ["microsoft", "has provided", "administrators"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["botswana", "is the largest in", "africa"], "premise": ["botswana", "is a country in", "africa"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the north star", "can be seen from", "the moon"], "premise": ["the moon", "rose with", "the north star"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["server", "founded", "microsoft"], "premise": ["microsoft", "provides in", "server"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["nobody", "ruled after", "victoria"], "premise": ["nobody", "said in", "victoria"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["a chief executive", "drafted", "the constitution"], "premise": ["the constitution", "envisioned", "a chief executive"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["florida", "is bigger than", "texas"], "premise": ["texas", "had been exchanged for", "florida"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["vancomycin", "is the drug for", "infections"], "premise": ["vancomycin", "kills", "infections"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["buchanan", "assassinated", "lincoln"], "premise": ["buchanan", "escorted", "lincoln"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["north korea", "is a neighbor of", "china"], "premise": ["china", "had saved", "north korea"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["smith", "is the governor of", "california"], "premise": ["smith", "was never in", "california"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["a guardian", "assassinated", "lincoln"], "premise": ["lincoln", "did not require", "a guardian"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["the republican candidate", "assassinated", "lincoln"], "premise": ["lincoln", "was proclaimed as", "the republican candidate"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["hydrogen", "is found in", "air"], "premise": ["hydrogen", "is lighter than", "air"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["tobacco", "is used in", "medicine"], "premise": ["tobacco", "is used to a extent in", "medicine"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["the viking", "is a politician from", "new york"], "premise": ["the viking", "press", "new york"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["female employees", "interprets", "laws"], "premise": ["laws", "must be provided for", "female employees"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["the gold coast", "is the largest in", "africa"], "premise": ["the gold coast", "became the colony in", "africa"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the iliad", "is the work of", "a poet"], "premise": ["a poet", "wrote", "the iliad"], "truth_value": true, "flipped_args": true}
+{"hypothesis": ["a gentleman", "assassinated", "lincoln"], "premise": ["lincoln", "found him", "a gentleman"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["the ghost", "wrote", "hamlet"], "premise": ["hamlet", "follows", "the ghost"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["cubans", "is the governor of", "florida"], "premise": ["cubans", "have settled in", "florida"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["attila", "fought", "the persians"], "premise": ["attila", "might attack", "the persians"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the conditions", "is common to", "america"], "premise": ["the conditions", "are absent in", "america"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["this gentleman", "is a politician from", "texas"], "premise": ["this gentleman", "had a trade in", "texas"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["coleridge", "was awarded", "the medal"], "premise": ["coleridge", "had been awarded", "the medal"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["fsh", "stimulates and induces", "ovulation"], "premise": ["fsh", "causes", "ovulation"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["the lawyer", "drafted", "the constitution"], "premise": ["the constitution", "bestowed upon", "the lawyer"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["hydrogen", "is found in", "air"], "premise": ["hydrogen", "is a kind of", "air"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["bayard", "works in", "washington"], "premise": ["bayard", "telegraphed to", "washington"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["lawrence", "is the governor of", "california"], "premise": ["lawrence", "grew up in", "california"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["steiner", "composed", "the symphony"], "premise": ["the symphony", "was published by", "steiner"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["typhus", "is carried by", "lice"], "premise": ["typhus", "is transferred by", "lice"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["goodman", "is the governor of", "california"], "premise": ["goodman", "is at the university of", "california"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the professional reviewers", "composed", "the symphony"], "premise": ["the professional reviewers", "had not heard", "the symphony"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the bailiffs", "makes", "the furniture"], "premise": ["the bailiffs", "captured", "the furniture"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["personalities", "is associated with", "communism"], "premise": ["communism", "has need of", "personalities"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["the writers", "gravitated towards", "communism"], "premise": ["the writers", "is associated with", "communism"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["van buren", "was born in", "virginia"], "premise": ["virginia", "will be for", "van buren"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["the colonel", "composed", "the opera"], "premise": ["the colonel", "went afterwards to", "the opera"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["france", "was born in", "poland"], "premise": ["france", "was the ally of", "poland"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["homer", "wrote", "the odyssey"], "premise": ["the odyssey", "was not written by", "homer"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["macbeth", "composed", "an opera"], "premise": ["macbeth", "was made into", "an opera"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the anniversary", "is celebrated in", "britain"], "premise": ["britain", "celebrated", "the anniversary"], "truth_value": true, "flipped_args": true}
+{"hypothesis": ["echoes", "controls", "the thunder"], "premise": ["the thunder", "was followed by", "echoes"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["scott", "had reached", "the south pole"], "premise": ["scott", "reached", "the south pole"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["the cast iron", "is found in", "air"], "premise": ["air", "is forced into", "the cast iron"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["general johnston", "treats", "a wound"], "premise": ["general johnston", "was disabled by", "a wound"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["laos", "is a neighbor of", "china"], "premise": ["laos", "is bordered by", "china"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["shaw", "composed", "the symphony"], "premise": ["shaw", "described", "the symphony"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["cesar chavez", "is the governor of", "california"], "premise": ["cesar chavez", "began to organize in", "california"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["milton", "walked on", "a moon"], "premise": ["milton", "has given", "a moon"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the speaker", "is the governor of", "florida"], "premise": ["the speaker", "stands at the edge of", "florida"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["schumann", "played", "the piano"], "premise": ["schumann", "played on", "the piano"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["short arc", "is common to", "america"], "premise": ["short arc", "has been measured in", "america"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["norris", "is the governor of", "california"], "premise": ["norris", "entered the university of", "california"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["president bush", "was the leader of", "north korea"], "premise": ["president bush", "described", "north korea"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["beethoven", "composed", "a symphony"], "premise": ["beethoven", "meditated", "a symphony"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["date", "is commemorated in", "france"], "premise": ["france", "has continued to", "date"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["general jackson", "is the governor of", "florida"], "premise": ["general jackson", "led into", "florida"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["pyrrhus", "fought", "the romans"], "premise": ["pyrrhus", "anticipated", "the romans"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the plenipotentiaries", "was born in", "america"], "premise": ["the plenipotentiaries", "proposed should return to", "america"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["rhodes", "drafted", "the constitution"], "premise": ["the constitution", "exempted", "rhodes"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["goodall", "was persecuted by", "church"], "premise": ["goodall", "returned from", "church"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["campbell", "was born in", "poland"], "premise": ["campbell", "speaks for", "poland"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["helium", "is found in", "air"], "premise": ["helium", "is lighter than", "air"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["a proponent", "founded", "microsoft"], "premise": ["microsoft", "has been", "a proponent"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["france", "had declared war on", "germany"], "premise": ["france", "declared war on", "germany"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["liszt", "resided in", "paris"], "premise": ["liszt", "was taken to", "paris"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the hymenoptera", "eats", "all insects"], "premise": ["the hymenoptera", "are and surpass", "all insects"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["aspirin", "kills", "cancer"], "premise": ["aspirin", "may reduce the risk of", "cancer"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the black death", "swept through", "europe"], "premise": ["the black death", "decimated", "europe"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["england", "produces", "cheese"], "premise": ["cheese", "is manufactured in", "england"], "truth_value": true, "flipped_args": true}
+{"hypothesis": ["sulfonamides", "kills", "infections"], "premise": ["infections", "respond to treatment with", "sulfonamides"], "truth_value": true, "flipped_args": true}
+{"hypothesis": ["john adams", "is a politician from", "texas"], "premise": ["john adams", "had tried to buy", "texas"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the australian state", "is part of", "australia"], "premise": ["australia", "became", "the australian state"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["the julian", "fought", "the romans"], "premise": ["the romans", "had regarded", "the julian"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["a disheartening failure", "drafted", "the constitution"], "premise": ["the constitution", "might have proved", "a disheartening failure"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["women", "was born in", "poland"], "premise": ["women", "were burned in", "poland"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["shakespeare", "created", "king lear"], "premise": ["shakespeare", "wrote", "king lear"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["socinians", "was born in", "poland"], "premise": ["socinians", "were however in", "poland"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["siva", "controls", "the sun"], "premise": ["siva", "is the personification of", "the sun"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["vespucci", "was born in", "america"], "premise": ["america", "was named after", "vespucci"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["soldiers", "treats", "wounds"], "premise": ["soldiers", "endure", "wounds"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the american prisoners", "is a politician from", "new york"], "premise": ["the american prisoners", "embarked for", "new york"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["pollinators", "eats", "insects"], "premise": ["insects", "act as", "pollinators"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["the economist", "influenced", "einstein"], "premise": ["the economist", "brought a letter from", "einstein"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["manure", "is essential for", "the bones"], "premise": ["the bones", "are used for", "manure"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["paul", "was worshiped in", "jerusalem"], "premise": ["paul", "did not go to", "jerusalem"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["cook", "had reached", "the north pole"], "premise": ["cook", "reached", "the north pole"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["an statesman", "drafted", "the constitution"], "premise": ["an statesman", "might denounce", "the constitution"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["bill gates", "founded", "microsoft"], "premise": ["bill gates", "started", "microsoft"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["jackson", "is a politician from", "texas"], "premise": ["jackson", "sent him to", "texas"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["france", "exports", "coal"], "premise": ["coal", "was not in", "france"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["emerson", "composed", "a symphony"], "premise": ["emerson", "loved and was", "a symphony"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the parasite", "rebuilds", "any tissue"], "premise": ["the parasite", "may cause damage to", "any tissue"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["pharyngitis", "is caused by", "viruses"], "premise": ["pharyngitis", "is usually caused by", "viruses"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["bruce", "is a politician from", "new york"], "premise": ["bruce", "employed in", "new york"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["harvey", "drafted", "a constitution"], "premise": ["harvey", "never had", "a constitution"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["mexico", "exports", "sugar"], "premise": ["sugar", "was introduced into", "mexico"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["elizabeth", "ruled after", "victoria"], "premise": ["victoria", "did not like", "elizabeth"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["every genius", "was awarded", "a medal"], "premise": ["every genius", "certainly is", "a medal"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["federalists", "works in", "washington"], "premise": ["federalists", "used the name of", "washington"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["justinian", "drafted", "the constitution"], "premise": ["justinian", "affixed to", "the constitution"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["tamoxifen", "kills", "cancer"], "premise": ["tamoxifen", "reduces the incidence of", "cancer"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the child", "ruled after", "victoria"], "premise": ["victoria", "succeeded being", "the child"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["ferdinand", "fought", "the romans"], "premise": ["ferdinand", "had been elected king of", "the romans"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["cologne", "was bombed by", "allies"], "premise": ["cologne", "actually became", "allies"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["a wounded deer", "lives in", "the sea"], "premise": ["the sea", "was heard like", "a wounded deer"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["the deadly nightshade", "is consumed by", "rabbits"], "premise": ["rabbits", "have been fed on", "the deadly nightshade"], "truth_value": true, "flipped_args": true}
+{"hypothesis": ["izanami", "controls", "the sun"], "premise": ["izanami", "walking towards", "the sun"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["judas", "controls", "the sun"], "premise": ["judas", "stopped in", "the sun"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["meyerbeer", "composed", "the opera"], "premise": ["meyerbeer", "was reigning at", "the opera"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the animals", "rebuilds", "tissues"], "premise": ["tissues", "were removed from", "the animals"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["angola", "is the largest in", "africa"], "premise": ["africa", "had invaded", "angola"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["toledo", "was bombed by", "the allies"], "premise": ["the allies", "extended from", "toledo"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["colloidal platinum", "is found in", "water"], "premise": ["colloidal platinum", "is charged in", "water"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["tocqueville", "was born in", "america"], "premise": ["tocqueville", "described in", "america"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["political leaders", "was the leader of", "the soviet union"], "premise": ["political leaders", "accuse", "the soviet union"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["lincoln", "ruled after", "victoria"], "premise": ["victoria", "sent a letter to", "lincoln"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["shakespeare", "assassinated", "lincoln"], "premise": ["lincoln", "discovered", "shakespeare"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["the doorman", "owns", "the taxi"], "premise": ["the doorman", "opened the door of", "the taxi"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["bronchiolitis", "is caused by", "virus"], "premise": ["virus", "is the cause of", "bronchiolitis"], "truth_value": true, "flipped_args": true}
+{"hypothesis": ["the large willows", "is consumed by", "rabbits"], "premise": ["rabbits", "abound among", "the large willows"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["british soldiers", "ruled after", "victoria"], "premise": ["british soldiers", "marched past", "victoria"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["monarchs", "is the governor of", "california"], "premise": ["california", "dropped as", "monarchs"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["barkley", "is the governor of", "florida"], "premise": ["barkley", "returns to", "florida"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["anthelmintic", "indicated for the treatment of", "infections"], "premise": ["anthelmintic", "kills", "infections"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["volunteers", "was the leader of", "the soviet union"], "premise": ["the soviet union", "threatened to send", "volunteers"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["the woodpecker", "eats", "the insects"], "premise": ["the woodpecker", "comes for", "the insects"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the lord", "walked on", "a moon"], "premise": ["the lord", "appears as", "a moon"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["copper", "is found in", "air"], "premise": ["copper", "does not burn in", "air"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the first europeans", "was born in", "america"], "premise": ["the first europeans", "to reach", "america"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["england", "is bigger than", "texas"], "premise": ["england", "might acquire", "texas"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the winners", "were presented with", "a medal"], "premise": ["the winners", "was awarded", "a medal"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["many scientists", "appeared on", "television"], "premise": ["many scientists", "contributed to the development of", "television"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["engineers", "was born in", "america"], "premise": ["engineers", "began to make in", "america"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["zinc", "is found in", "air"], "premise": ["zinc", "is tarnished by", "air"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the apple", "prevents", "the disease"], "premise": ["the disease", "affects", "the apple"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["tobacco", "kills", "cancer"], "premise": ["tobacco", "is the cause of", "cancer"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["steuben", "works in", "washington"], "premise": ["washington", "sent word to", "steuben"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["warsaw", "was bombed by", "the nazis"], "premise": ["the nazis", "occupied", "warsaw"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["milton", "wrote", "hamlet"], "premise": ["milton", "took through", "hamlet"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["hungary", "declared war on", "germany"], "premise": ["germany", "would stand by", "hungary"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["zinc", "is found in", "water"], "premise": ["zinc", "are dipped in", "water"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["mckinley", "was born in", "ohio"], "premise": ["mckinley", "returned to", "ohio"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["cathay", "is a neighbor of", "china"], "premise": ["cathay", "however meant", "china"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["astronauts", "is the governor of", "florida"], "premise": ["astronauts", "burned to death in", "florida"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["sore throats", "is caused by", "bacteria"], "premise": ["sore throats", "are contracted from", "bacteria"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["nematodes", "eats", "crops"], "premise": ["nematodes", "associated with", "crops"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["fremont", "works in", "washington"], "premise": ["fremont", "was journeying to", "washington"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the admiral", "interprets", "the laws"], "premise": ["the admiral", "shall obey", "the laws"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["talbot", "resided in", "paris"], "premise": ["talbot", "was a town in", "paris"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["burma", "is a neighbor of", "china"], "premise": ["china", "includes", "burma"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["girls", "was born in", "poland"], "premise": ["girls", "brought to", "poland"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the west germany", "declared war on", "germany"], "premise": ["germany", "refers to", "the west germany"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["india", "shares a border with", "russia"], "premise": ["russia", "will threaten", "india"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["liver disease", "requires", "some antibiotics"], "premise": ["liver disease", "may be induced by", "some antibiotics"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["postmaster", "assassinated", "lincoln"], "premise": ["lincoln", "was commissioned as", "postmaster"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["john calvin", "was born in", "america"], "premise": ["john calvin", "was the founder of", "america"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the chrysalis", "eats", "the insect"], "premise": ["the chrysalis", "is somewhat like", "the insect"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["members", "was the leader of", "north korea"], "premise": ["members", "visited", "north korea"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["augustine", "is the governor of", "florida"], "premise": ["florida", "was settled at", "augustine"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["many whigs", "assassinated", "lincoln"], "premise": ["lincoln", "was aided by", "many whigs"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["thomas", "ruled after", "henry viii"], "premise": ["thomas", "defends", "henry viii"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["myrtle", "is used to make", "bread"], "premise": ["myrtle", "will not have", "bread"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["british missionaries", "ruled after", "victoria"], "premise": ["british missionaries", "established", "victoria"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the mediterranean", "borders", "russia"], "premise": ["russia", "would be cut off from", "the mediterranean"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["siam", "is a neighbor of", "china"], "premise": ["china", "resembles", "siam"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["abyssinia", "is the largest in", "africa"], "premise": ["abyssinia", "is a country of", "africa"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["analgesics", "kills", "cancer"], "premise": ["analgesics", "are often required in", "cancer"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["nebuchadnezzar", "composed", "an opera"], "premise": ["nebuchadnezzar", "appeared in", "an opera"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the average negro", "is associated with", "communism"], "premise": ["the average negro", "understands", "communism"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the sister", "is a politician from", "texas"], "premise": ["the sister", "sent from", "texas"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["confederate congressmen", "works in", "washington"], "premise": ["confederate congressmen", "traveled to", "washington"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the artist", "ruled after", "the victoria"], "premise": ["the victoria", "sped with", "the artist"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["gates", "started", "microsoft"], "premise": ["gates", "founded", "microsoft"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["the end", "reached", "the north pole"], "premise": ["the end", "repels", "the north pole"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["a rash", "begins as", "papules"], "premise": ["papules", "can cause", "a rash"], "truth_value": true, "flipped_args": true}
+{"hypothesis": ["chemotherapy", "is the treatment for", "lymphoma"], "premise": ["lymphoma", "requires", "chemotherapy"], "truth_value": true, "flipped_args": true}
+{"hypothesis": ["rubinstein", "played", "the piano"], "premise": ["rubinstein", "dropped under", "the piano"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["progesterone", "causes", "ovulation"], "premise": ["progesterone", "is produced after", "ovulation"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the banks", "was persecuted by", "the church"], "premise": ["the church", "is situated on", "the banks"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["exploiters", "was the leader of", "the soviet union"], "premise": ["exploiters", "have been eliminated from", "the soviet union"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the black death", "was carried by", "rats"], "premise": ["the black death", "is spread by", "rats"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["joseph", "was awarded", "a medal"], "premise": ["joseph", "had been awarded", "a medal"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["the husband", "was born in", "america"], "premise": ["the husband", "wished to see in", "america"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["women", "composed", "the operas"], "premise": ["the operas", "watched by", "women"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["the heroic savages", "married", "julius caesar"], "premise": ["julius caesar", "has saved", "the heroic savages"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["europe", "promotes", "peace"], "premise": ["peace", "was now restored to", "europe"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["the canal", "surrounds", "britain"], "premise": ["britain", "had interests in", "the canal"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["franklin", "was persecuted by", "the churches"], "premise": ["franklin", "worked through", "the churches"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the first president", "works in", "washington"], "premise": ["washington", "was chosen as", "the first president"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["castro", "was the leader of", "the soviet union"], "premise": ["castro", "criticized", "the soviet union"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["chinese nationalists", "was the leader of", "the soviet union"], "premise": ["the soviet union", "ingratiated with", "chinese nationalists"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["the socinians", "was born in", "poland"], "premise": ["the socinians", "flourished in", "poland"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["ford", "was awarded", "the medal"], "premise": ["ford", "awarded him", "the medal"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["some women", "was born in", "poland"], "premise": ["some women", "have been known in", "poland"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["washington", "is bigger than", "the delaware"], "premise": ["washington", "was preparing to cross", "the delaware"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the moguls", "was born in", "poland"], "premise": ["the moguls", "took possession of", "poland"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["emissaries", "works in", "washington"], "premise": ["washington", "had an number of", "emissaries"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["nixon", "was the leader of", "the soviet union"], "premise": ["nixon", "traveled to", "the soviet union"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["memel", "was bombed by", "the allies"], "premise": ["memel", "was ceded to", "the allies"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["el paso", "is bigger than", "the texas"], "premise": ["el paso", "are in the middle of", "the texas"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["kitty", "lives in", "sea"], "premise": ["kitty", "looked out to", "sea"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["contact dermatitis", "requires", "antibiotics"], "premise": ["antibiotics", "may cause", "contact dermatitis"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["students", "appeared on", "television"], "premise": ["students", "can learn from", "television"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["vizcaino", "is the governor of", "california"], "premise": ["vizcaino", "explored the coast of", "california"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["poland", "exports", "cars"], "premise": ["poland", "had", "cars"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the old lord", "ruled after", "henry viii"], "premise": ["henry viii", "abandoned", "the old lord"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["the animal", "rebuilds", "the tissue"], "premise": ["the tissue", "is removed from", "the animal"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["ariadne", "was worshiped in", "athens"], "premise": ["ariadne", "never came to", "athens"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["west florida", "was purchased from", "france"], "premise": ["france", "had asked for", "west florida"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["a bachelor", "was born in", "america"], "premise": ["america", "is a country for", "a bachelor"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["burnside", "assassinated", "lincoln"], "premise": ["lincoln", "then replaced", "burnside"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["pakistan", "is a neighbor of", "china"], "premise": ["china", "is helping", "pakistan"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["howard", "is the governor of", "california"], "premise": ["howard", "being absent in", "california"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the prisoners", "is a politician from", "new york"], "premise": ["the prisoners", "were carried to", "new york"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["opium", "kills", "cancer"], "premise": ["opium", "is also used in", "cancer"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the herb", "is used to make", "alcohol"], "premise": ["the herb", "is pulverized with", "alcohol"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the first sunday", "is the end of", "easter"], "premise": ["easter", "occurs on", "the first sunday"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["mozart", "composed", "an opera"], "premise": ["mozart", "never wrote", "an opera"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["a gelatinous protein", "is essential for", "blood cells"], "premise": ["blood cells", "do not recognize", "a gelatinous protein"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["rabbits", "have been fed on", "the deadly nightshade"], "premise": ["the deadly nightshade", "is consumed by", "rabbits"], "truth_value": true, "flipped_args": true}
+{"hypothesis": ["jefferson", "is a politician from", "texas"], "premise": ["jefferson", "might have occupied", "texas"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["corticosteroids", "may relieve", "pain"], "premise": ["corticosteroids", "inhibits", "pain"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["roosevelt", "met", "churchill"], "premise": ["churchill", "suggested to", "roosevelt"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["doses", "can cause", "more headaches"], "premise": ["more headaches", "were followed by", "doses"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["diocletian", "fought", "the romans"], "premise": ["diocletian", "became ruler of", "the romans"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["james baldwin", "is a politician from", "new york"], "premise": ["james baldwin", "could talk", "new york"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["bonaparte", "fought", "the romans"], "premise": ["bonaparte", "chose from", "the romans"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["a therapist", "appeared on", "television"], "premise": ["a therapist", "discusses the use of", "television"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["andrew", "is the governor of", "california"], "premise": ["andrew", "sailed for", "california"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["johnson", "was born in", "virginia"], "premise": ["johnson", "recognized as the government of", "virginia"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["a escape", "is used to make", "alcohol"], "premise": ["alcohol", "provides", "a escape"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["kennedy", "is the governor of", "california"], "premise": ["kennedy", "was shot in", "california"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the animal", "rebuilds", "tissue"], "premise": ["tissue", "is removed from", "the animal"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["a descendant", "ruled after", "victoria"], "premise": ["victoria", "regarded herself as", "a descendant"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["the czars", "drafted", "the constitution"], "premise": ["the constitution", "was the gift of", "the czars"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["repeated echoes", "controls", "the thunder"], "premise": ["the thunder", "was followed by", "repeated echoes"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["the indian", "appeared on", "television"], "premise": ["television", "owes a debt to", "the indian"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["diaz", "had begun to receive", "a medal"], "premise": ["diaz", "was awarded", "a medal"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["every malefactor", "is the governor of", "california"], "premise": ["every malefactor", "would be sent to", "california"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["arthur", "made peace with", "britain"], "premise": ["arthur", "became king of", "britain"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the ferdinand", "was born in", "poland"], "premise": ["the ferdinand", "had just entered", "poland"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the vindicated independence", "is packed with", "the politicians"], "premise": ["the politicians", "protected", "the vindicated independence"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["the laundress", "makes", "clothes"], "premise": ["the laundress", "can not bring", "clothes"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the complex", "is used in", "clothing"], "premise": ["the complex", "becomes the problem of", "clothing"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the early christians", "practiced", "communism"], "premise": ["the early christians", "is associated with", "communism"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["augustus", "fought", "the romans"], "premise": ["the romans", "gave them to", "augustus"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["truman", "was born in", "ohio"], "premise": ["truman", "carried", "ohio"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["stalin", "was the leader of", "the soviet union"], "premise": ["stalin", "had ruled", "the soviet union"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["these glaciers", "is common to", "norway"], "premise": ["these glaciers", "resemble those of", "norway"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["cassia", "is used to make", "wine"], "premise": ["cassia", "asked to take", "wine"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["every citizen", "interprets", "all laws"], "premise": ["all laws", "shall be applicable to", "every citizen"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["merodach", "was worshiped in", "babylon"], "premise": ["merodach", "was not the god of", "babylon"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["lh", "increases", "pulses"], "premise": ["lh", "are released in", "pulses"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["bubonic plague", "decimated", "europe"], "premise": ["bubonic plague", "declined in", "europe"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["that progesterone", "facilitates", "ovulation"], "premise": ["that progesterone", "causes", "ovulation"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["the appellants", "is a politician from", "new york"], "premise": ["the appellants", "telegraphed from", "new york"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the sovereign", "ruled after", "victoria"], "premise": ["victoria", "is really", "the sovereign"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["rivera", "had lived in", "paris"], "premise": ["rivera", "resided in", "paris"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["an regent", "ruled after", "victoria"], "premise": ["victoria", "would make", "an regent"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["topical applications", "kills", "a infection"], "premise": ["topical applications", "may reactivate", "a infection"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["no officer", "is the governor of", "california"], "premise": ["no officer", "can live in", "california"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["lesotho", "is the largest in", "africa"], "premise": ["africa", "intervened in", "lesotho"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["rye", "is used to make", "the bread"], "premise": ["rye", "furnished", "the bread"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["hogs", "eats", "corn"], "premise": ["corn", "is fed to", "hogs"], "truth_value": true, "flipped_args": true}
+{"hypothesis": ["an medium", "appeared on", "television"], "premise": ["television", "has become important as", "an medium"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["washerwomen", "makes", "clothes"], "premise": ["washerwomen", "are beating", "clothes"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["washington", "is bigger than", "delaware"], "premise": ["washington", "appointed him for", "delaware"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["guardians", "is the governor of", "florida"], "premise": ["florida", "compelled to have", "guardians"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["east pakistan", "is a neighbor of", "india"], "premise": ["india", "will occupy", "east pakistan"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["holland", "exports", "coal"], "premise": ["holland", "refused to take in", "coal"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["christianity", "is predominant in", "japan"], "premise": ["christianity", "was first introduced into", "japan"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["inhalation", "kills", "cancer"], "premise": ["cancer", "is attributable to", "inhalation"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["charles", "was born in", "poland"], "premise": ["charles", "had left in", "poland"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["angola", "is the largest in", "africa"], "premise": ["angola", "became the producer in", "africa"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["a modern leather", "has been applied to", "clothing"], "premise": ["a modern leather", "is used in", "clothing"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["the civil authorities", "interprets", "the laws"], "premise": ["the laws", "should be enforced by", "the civil authorities"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["the first state", "is part of", "australia"], "premise": ["australia", "became", "the first state"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["cacao beans", "is used to make", "chocolate"], "premise": ["chocolate", "is made from", "cacao beans"], "truth_value": true, "flipped_args": true}
+{"hypothesis": ["the goddess", "controls", "thunder"], "premise": ["thunder", "disturbs", "the goddess"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["high doses", "kills", "cancer"], "premise": ["high doses", "could cause", "cancer"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["truman", "met", "churchill"], "premise": ["churchill", "is talking to", "truman"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["growth hormone", "increases", "pulses"], "premise": ["growth hormone", "is secreted in", "pulses"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the chief magistrate", "drafted", "the constitution"], "premise": ["the constitution", "admits from", "the chief magistrate"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["grand singers", "composed", "opera"], "premise": ["opera", "should be given by", "grand singers"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["a province", "is bigger than", "texas"], "premise": ["texas", "was formerly", "a province"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["the student", "is a politician from", "texas"], "premise": ["texas", "offers opportunities to", "the student"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["iran", "is a neighbor of", "china"], "premise": ["china", "also supplied", "iran"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["the jew", "is associated with", "capitalism"], "premise": ["the jew", "embodied", "capitalism"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["new mexico", "is bigger than", "texas"], "premise": ["texas", "should cede to", "new mexico"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["siam", "shares a border with", "thailand"], "premise": ["thailand", "was known as", "siam"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["the children", "ruled after", "victoria"], "premise": ["victoria", "will stay with", "the children"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["cloves", "is used to make", "the wine"], "premise": ["the wine", "was spiced with", "cloves"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["nutritional cirrhosis", "is spread by", "rats"], "premise": ["nutritional cirrhosis", "has been produced in", "rats"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["scotland", "produces", "cheese"], "premise": ["cheese", "was produced in", "scotland"], "truth_value": true, "flipped_args": true}
+{"hypothesis": ["roosevelt", "met", "churchill"], "premise": ["churchill", "telegraphed to", "roosevelt"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["testosterone", "generates", "aggression"], "premise": ["testosterone", "causes", "aggression"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["a 2 in", "is found in", "water"], "premise": ["water", "is pumped through", "a 2 in"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["the east germans", "was the leader of", "the soviet union"], "premise": ["the soviet union", "would transfer to", "the east germans"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["polk", "was awarded", "a medal"], "premise": ["polk", "deserves", "a medal"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["adversaries", "was the leader of", "the soviet union"], "premise": ["the soviet union", "had become", "adversaries"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["nixon", "is a politician from", "new york"], "premise": ["nixon", "flew to", "new york"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["cloves", "is used to make", "wine"], "premise": ["cloves", "minced", "wine"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["a headache", "may occur with", "pneumonia"], "premise": ["pneumonia", "can cause", "a headache"], "truth_value": true, "flipped_args": true}
+{"hypothesis": ["corinth", "was bombed by", "the allies"], "premise": ["the allies", "now fell upon", "corinth"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["smith", "was the leader of", "the soviet union"], "premise": ["smith", "question in", "the soviet union"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the pupa", "eats", "the insect"], "premise": ["the insect", "emerges from", "the pupa"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["settlers", "is the governor of", "florida"], "premise": ["settlers", "poured into", "florida"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["ignatius", "was worshiped in", "jerusalem"], "premise": ["ignatius", "made a pilgrimage to", "jerusalem"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["collins", "is the governor of", "the florida"], "premise": ["collins", "attacked", "the florida"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the beagle", "was studied by", "charles darwin"], "premise": ["charles darwin", "sailed in", "the beagle"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["iraq", "is rich in", "oil"], "premise": ["iraq", "is abundant with", "oil"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["nixon", "is the governor of", "california"], "premise": ["nixon", "flew to", "california"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["prisoner", "married", "king david"], "premise": ["king david", "was taken", "prisoner"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["coal", "came from", "england"], "premise": ["england", "exports", "coal"], "truth_value": true, "flipped_args": true}
+{"hypothesis": ["napoleon", "died at", "trafalgar"], "premise": ["napoleon", "heard of", "trafalgar"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["watteau", "resided in", "paris"], "premise": ["watteau", "left us for", "paris"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["observers", "was born in", "poland"], "premise": ["observers", "to enter", "poland"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["tincture", "is a remedy for", "infections"], "premise": ["tincture", "kills", "infections"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["nerve fibers", "rebuilds", "the tissue"], "premise": ["nerve fibers", "are located in", "the tissue"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["robert", "ruled after", "henry viii"], "premise": ["robert", "allotted by", "henry viii"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["tibet", "shares a border with", "russia"], "premise": ["russia", "transferred to", "tibet"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["free negroes", "drafted", "the constitution"], "premise": ["free negroes", "were not within the meaning of", "the constitution"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["gray", "eats", "hay"], "premise": ["gray", "were friends of", "hay"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["england", "is bigger than", "texas"], "premise": ["texas", "is safe from", "england"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["george bush", "married", "bill clinton"], "premise": ["bill clinton", "criticized", "george bush"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["an excellent manure", "is essential for", "bones"], "premise": ["bones", "must yield", "an excellent manure"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["liszt", "composed", "this symphony"], "premise": ["this symphony", "is dedicated to the memory of", "liszt"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["smith", "is the governor of", "california"], "premise": ["smith", "had entered", "california"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["these maxims", "interprets", "the laws"], "premise": ["the laws", "deviate from", "these maxims"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["gluck", "composed", "opera"], "premise": ["gluck", "conquered", "opera"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["chocolate", "also contains", "caffeine"], "premise": ["chocolate", "contains", "caffeine"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["klee", "resided in", "paris"], "premise": ["klee", "made a trip to", "paris"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["thomas edison", "created", "the light bulb"], "premise": ["the light bulb", "was invented by", "thomas edison"], "truth_value": true, "flipped_args": true}
+{"hypothesis": ["franklin", "was persecuted by", "the churches"], "premise": ["franklin", "had aided", "the churches"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the gentlemen", "walked on", "the moon"], "premise": ["the moon", "shone full on", "the gentlemen"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["david", "was worshiped in", "jerusalem"], "premise": ["david", "captures", "jerusalem"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["quebec", "was purchased from", "france"], "premise": ["quebec", "should be restored to", "france"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["astrocytes", "proliferate to form", "tissue"], "premise": ["astrocytes", "rebuilds", "tissue"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["the enemy", "drafted", "the constitution"], "premise": ["the enemy", "were intent on", "the constitution"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["an legislator", "interprets", "the laws"], "premise": ["the laws", "prove to have been", "an legislator"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["the mediterranean", "borders", "cyprus"], "premise": ["cyprus", "is the island in", "the mediterranean"], "truth_value": true, "flipped_args": true}
+{"hypothesis": ["lind", "played", "the violin"], "premise": ["lind", "was and played", "the violin"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["many tories", "is a politician from", "new york"], "premise": ["many tories", "were apprehended in", "new york"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["tasmania", "is part of", "australia"], "premise": ["tasmania", "is separated from", "australia"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the invaders", "was born in", "poland"], "premise": ["poland", "was free from", "the invaders"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["the commissioners", "assassinated", "lincoln"], "premise": ["lincoln", "could not see", "the commissioners"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["france", "declared war on", "germany"], "premise": ["france", "signed an armistice with", "germany"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the volga", "borders", "all russia"], "premise": ["the volga", "is the mother of", "all russia"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["christianity", "is predominant in", "japan"], "premise": ["christianity", "is a religion in", "japan"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["schumann", "played", "the piano"], "premise": ["schumann", "led to", "the piano"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["kennedy", "was born in", "virginia"], "premise": ["kennedy", "had ventured into", "virginia"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["president johnson", "assassinated", "lincoln"], "premise": ["president johnson", "was the assassin of", "lincoln"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["sore throats", "are contracted from", "bacteria"], "premise": ["sore throats", "is caused by", "bacteria"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["erythrocytes", "rebuilds", "the tissues"], "premise": ["erythrocytes", "carry oxygen to", "the tissues"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["christianity", "is predominant in", "russia"], "premise": ["russia", "had received", "christianity"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["cleveland", "was born in", "ohio"], "premise": ["cleveland", "is the port of", "ohio"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["ponce", "is the governor of", "florida"], "premise": ["ponce", "returned to", "florida"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["oppenheimer", "died at", "alamos"], "premise": ["oppenheimer", "directed at", "alamos"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["norway", "declared war on", "germany"], "premise": ["norway", "is freer than", "germany"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["hamlet", "was written by", "a commercial dramatist"], "premise": ["a commercial dramatist", "wrote", "hamlet"], "truth_value": true, "flipped_args": true}
+{"hypothesis": ["islam", "was introduced into", "india"], "premise": ["india", "believes in", "islam"], "truth_value": true, "flipped_args": true}
+{"hypothesis": ["south africa", "is the largest in", "africa"], "premise": ["south africa", "obtained", "africa"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["athens", "was bombed by", "the other allies"], "premise": ["athens", "acquired over", "the other allies"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["davy crockett", "was killed at", "the alamo"], "premise": ["davy crockett", "died at", "the alamo"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["polk", "is the governor of", "california"], "premise": ["polk", "offered to buy", "california"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["levi", "controls", "a sun"], "premise": ["levi", "became as", "a sun"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["aids", "is spread through", "sex"], "premise": ["aids", "is transmitted by", "sex"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["the gates", "was persecuted by", "the church"], "premise": ["the gates", "signify the truths of", "the church"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["virginia", "is bigger than", "delaware"], "premise": ["delaware", "did not remain long in", "virginia"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["the grand duke", "was born in", "all america"], "premise": ["all america", "is obliged to", "the grand duke"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["the parties", "is a politician from", "new york"], "premise": ["the parties", "were married in", "new york"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["caring proprietors", "interprets", "laws"], "premise": ["caring proprietors", "are grateful for", "laws"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["circumcision", "is celebrated in", "america"], "premise": ["circumcision", "comes to", "america"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the jesuits", "is the governor of", "florida"], "premise": ["the jesuits", "withdrew from", "florida"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["gilmer", "assassinated", "lincoln"], "premise": ["lincoln", "preferred", "gilmer"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["an substitute", "was born in", "america"], "premise": ["america", "will afford us", "an substitute"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["the germans", "is officially recognized in", "belgium"], "premise": ["the germans", "were said to be in", "belgium"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["poland", "declared war on", "germany"], "premise": ["germany", "renounces in favour of", "poland"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["bulgaria", "declared war on", "germany"], "premise": ["germany", "had won over", "bulgaria"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["walesa", "was born in", "poland"], "premise": ["walesa", "was elected president of", "poland"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the ambassador", "treats", "wound"], "premise": ["the ambassador", "came back without", "wound"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["prophylactic antibiotics", "kills", "infections"], "premise": ["prophylactic antibiotics", "do not prevent", "infections"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["mantegna", "married", "julius caesar"], "premise": ["mantegna", "dreamed of", "julius caesar"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["another india", "is a neighbor of", "china"], "premise": ["china", "might become", "another india"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["lodge", "influenced", "einstein"], "premise": ["einstein", "has vanquished", "lodge"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["clergymen", "was born in", "america"], "premise": ["clergymen", "were respected in", "america"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["governor", "was awarded", "the medal"], "premise": ["governor", "brought over", "the medal"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["erythromycin", "is effective for", "infections"], "premise": ["erythromycin", "kills", "infections"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["poland", "exports", "coal"], "premise": ["poland", "has deposits of", "coal"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["aids", "is transmitted by", "sex"], "premise": ["sex", "will cure", "aids"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["all foreign teachers", "married", "julius caesar"], "premise": ["julius caesar", "granted to", "all foreign teachers"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["fluorine", "is found in", "water"], "premise": ["fluorine", "reacts violently with", "water"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["special saquinavir", "kills", "infection"], "premise": ["special saquinavir", "does not cure", "infection"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["eichmann", "was born in", "america"], "premise": ["eichmann", "escaped to", "america"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the pope", "ruled after", "henry viii"], "premise": ["henry viii", "was awarded by", "the pope"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["china", "exports", "rice"], "premise": ["rice", "is shipped to", "china"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["jefferson", "was born in", "virginia"], "premise": ["jefferson", "served as governor of", "virginia"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["shakespeare", "married", "julius caesar"], "premise": ["julius caesar", "written by", "shakespeare"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["artisans", "makes", "furniture"], "premise": ["furniture", "was produced by", "artisans"], "truth_value": true, "flipped_args": true}
+{"hypothesis": ["the prime minister", "was born in", "poland"], "premise": ["the prime minister", "is thinking of", "poland"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["phosphorus", "is found in", "air"], "premise": ["phosphorus", "is burned in", "air"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["bethune", "was born in", "poland"], "premise": ["bethune", "had recruited in", "poland"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["cassius", "married", "julius caesar"], "premise": ["julius caesar", "say of", "cassius"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["mendelssohn", "composed", "the symphony"], "premise": ["mendelssohn", "employed it in", "the symphony"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["mark", "was worshiped in", "egypt"], "premise": ["mark", "was sent to", "egypt"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["prokofiev", "was the leader of", "the soviet union"], "premise": ["prokofiev", "returned to", "the soviet union"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["pestis", "is spread by", "rats"], "premise": ["pestis", "is pathogenic for", "rats"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["north workers", "appeared on", "television"], "premise": ["north workers", "gave up on", "television"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["delegates", "works in", "washington"], "premise": ["delegates", "gathered in", "washington"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["roosevelt", "met", "stalin"], "premise": ["stalin", "assured", "roosevelt"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["these rieslings", "is used to make", "alcohol"], "premise": ["these rieslings", "are low in", "alcohol"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["irving", "works in", "washington"], "premise": ["irving", "was with me at", "washington"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["virginia", "is bigger than", "delaware"], "premise": ["delaware", "was powerful as", "virginia"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["the portuguese", "is officially recognized in", "china"], "premise": ["the portuguese", "had traded with", "china"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["philadelphia", "is bigger than", "the delaware"], "premise": ["philadelphia", "is situated between", "the delaware"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["silver maid", "makes", "the clothes"], "premise": ["silver maid", "said take", "the clothes"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the advisers", "is associated with", "capitalism"], "premise": ["capitalism", "was and supported", "the advisers"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["someone", "rebuilds", "a tissue"], "premise": ["someone", "handed her", "a tissue"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["a cereal", "is used also for", "bread"], "premise": ["a cereal", "is used to make", "bread"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["bill gates", "started", "microsoft"], "premise": ["bill gates", "founded", "microsoft"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["skilled violinists", "played", "violins"], "premise": ["violins", "can not produce without", "skilled violinists"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["new cells", "rebuilds", "the tissues"], "premise": ["the tissues", "reproduce", "new cells"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["the dogs", "eats", "the hay"], "premise": ["the dogs", "burnt", "the hay"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["madrid", "was bombed by", "the allies"], "premise": ["the allies", "marched towards", "madrid"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["roosevelt", "met", "churchill"], "premise": ["roosevelt", "suggested to", "churchill"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["thompson", "was persecuted by", "the church"], "premise": ["thompson", "are members of", "the church"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the nazis", "was the leader of", "the soviet union"], "premise": ["the nazis", "had invaded", "the soviet union"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the hydrogen", "is found in", "water"], "premise": ["the hydrogen", "is oxidized to", "water"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the laborer", "is associated with", "capitalism"], "premise": ["capitalism", "exploits", "the laborer"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["customers", "founded", "ibm"], "premise": ["customers", "to buy from", "ibm"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the dictator", "is associated with", "communism"], "premise": ["communism", "puts in the hands of", "the dictator"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["left handers", "owns", "microsoft"], "premise": ["microsoft", "does not discriminate against", "left handers"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["agni", "controls", "the sun"], "premise": ["the sun", "is regarded as a form of", "agni"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["britain", "celebrated", "the anniversary"], "premise": ["the anniversary", "is celebrated in", "britain"], "truth_value": true, "flipped_args": true}
+{"hypothesis": ["the sultan", "ruled after", "victoria"], "premise": ["the sultan", "had sent to", "victoria"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["new york", "is bigger than", "vermont"], "premise": ["new york", "erected", "vermont"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["antibodies", "is essential for", "blood cells"], "premise": ["antibodies", "can destroy", "blood cells"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the admiral", "was born in", "america"], "premise": ["the admiral", "was recognised in", "america"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["congressman", "assassinated", "lincoln"], "premise": ["congressman", "was committed to", "lincoln"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["mcpherson", "assassinated", "lincoln"], "premise": ["lincoln", "quoted in", "mcpherson"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["the proprietor", "was commemorated by", "a medal"], "premise": ["the proprietor", "was awarded", "a medal"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["eisenhower", "met", "churchill"], "premise": ["churchill", "had told", "eisenhower"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["habits", "was worn in", "rome"], "premise": ["habits", "adopted by", "rome"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["bismuth", "is found in", "the air"], "premise": ["bismuth", "is unaffected by", "the air"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["queensland", "is part of", "australia"], "premise": ["queensland", "is the state in", "australia"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["the vigilantes", "is the governor of", "california"], "premise": ["the vigilantes", "had driven from", "california"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the learned women", "was born in", "america"], "premise": ["america", "admires", "the learned women"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["british plenipotentiaries", "was born in", "america"], "premise": ["america", "to treat with", "british plenipotentiaries"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["morphine", "upsets", "the stomach"], "premise": ["morphine", "is excreted into", "the stomach"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["an impostor", "was born in", "america"], "premise": ["an impostor", "has no chance in", "america"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["switzerland", "declared war on", "germany"], "premise": ["switzerland", "is afraid of", "germany"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["holland", "declared war on", "germany"], "premise": ["germany", "would own", "holland"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["horses", "need", "hay"], "premise": ["horses", "eats", "hay"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["liszt", "composed", "the opera"], "premise": ["liszt", "interested himself in", "the opera"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the proprietor", "was awarded", "the medal"], "premise": ["the proprietor", "pointed out", "the medal"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["burma", "is a neighbor of", "china"], "premise": ["burma", "paid tribute to", "china"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the subscribers", "composed", "an opera"], "premise": ["the subscribers", "would never consent to", "an opera"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["nepal", "is a neighbor of", "india"], "premise": ["india", "extended to", "nepal"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["hungary", "declared war on", "germany"], "premise": ["hungary", "was allied with", "germany"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["hitler", "was the leader of", "the soviet union"], "premise": ["the soviet union", "was attacked by", "hitler"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["the stranger", "was born in", "all america"], "premise": ["all america", "will hail", "the stranger"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["a tool", "appeared on", "television"], "premise": ["television", "is used as", "a tool"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["the clerk", "appeared on", "television"], "premise": ["the clerk", "was watching", "television"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the best generals", "is associated with", "communism"], "premise": ["communism", "has produced", "the best generals"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["rousseau", "is associated with", "communism"], "premise": ["rousseau", "is connected with", "communism"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["the tiger beetles", "eats", "insects"], "premise": ["the tiger beetles", "are mimicked by", "insects"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["drake", "is the governor of", "california"], "premise": ["drake", "reached the coast of", "california"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["pennsylvania", "is bigger than", "delaware"], "premise": ["delaware", "has imitated", "pennsylvania"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["bret harte", "is the governor of", "a california"], "premise": ["bret harte", "created", "a california"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["petitioners", "interprets", "the laws"], "premise": ["petitioners", "were granted under", "the laws"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["voters", "was born in", "poland"], "premise": ["voters", "opted for", "poland"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["patrick henry", "works in", "washington"], "premise": ["washington", "was joined by", "patrick henry"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["belgium", "declared war on", "germany"], "premise": ["germany", "sent an ultimatum to", "belgium"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["plant life", "is consumed by", "birds"], "premise": ["here birds", "were singing among", "the shrubs"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["oats", "is consumed by", "rabbits"], "premise": ["rabbits", "may be fed with", "oats"], "truth_value": true, "flipped_args": true}
+{"hypothesis": ["strait", "borders", "russia"], "premise": ["russia", "divided at", "strait"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["monroe", "was born in", "virginia"], "premise": ["virginia", "was the mother of", "monroe"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["queensland", "is part of", "australia"], "premise": ["queensland", "occupies the part of", "australia"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["seoul", "was bombed by", "the allies"], "premise": ["the allies", "reoccupied", "seoul"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["albert", "walked on", "the moon"], "premise": ["albert", "inquired of", "the moon"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["partial adversaries", "was the leader of", "the soviet union"], "premise": ["the soviet union", "were transformed into", "partial adversaries"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["germany", "declared war on", "belgium"], "premise": ["germany", "issued an ultimatum to", "belgium"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["mommsen", "drafted", "the constitution"], "premise": ["mommsen", "has pointed out in", "the constitution"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["gonorrhea", "can be cured with", "antibiotics"], "premise": ["gonorrhea", "requires", "antibiotics"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["leading whigs", "assassinated", "lincoln"], "premise": ["lincoln", "was aided by", "leading whigs"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["nitrogen", "is found in", "air"], "premise": ["nitrogen", "is lighter than", "air"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["persia", "believes in", "islam"], "premise": ["persia", "was converted to", "islam"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["general lincoln", "works in", "washington"], "premise": ["general lincoln", "commanded under", "washington"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the scene painters", "was born in", "america"], "premise": ["the scene painters", "caricatured", "america"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the blackbirds", "eats", "the corn"], "premise": ["the blackbirds", "molest", "the corn"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["balsam", "rebuilds", "tissues"], "premise": ["balsam", "renders", "tissues"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the inhabitants", "married", "julius caesar"], "premise": ["julius caesar", "waged with", "the inhabitants"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["interferon", "kills", "cancer"], "premise": ["interferon", "induced in", "cancer"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the austrian", "ruled after", "victoria"], "premise": ["the austrian", "could not see", "victoria"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["a province", "is bigger than", "texas"], "premise": ["texas", "was merely", "a province"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["envoys", "was born in", "america"], "premise": ["envoys", "were accordingly sent to", "america"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the merchants", "interprets", "those laws"], "premise": ["the merchants", "had procured", "those laws"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["joseph heller", "is a politician from", "new york"], "premise": ["joseph heller", "bombed", "new york"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the bonds", "is a politician from", "texas"], "premise": ["texas", "was entitled to recover", "the bonds"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["the praying mantis", "devours in", "insects"], "premise": ["the praying mantis", "eats", "insects"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["rabies", "is due to", "a virus"], "premise": ["rabies", "is caused by", "a virus"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["gold seekers", "is the governor of", "california"], "premise": ["california", "was invaded by", "gold seekers"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["citizens", "drafted", "the constitution"], "premise": ["citizens", "must abide by", "the constitution"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["james madison", "was the architect of", "the constitution"], "premise": ["james madison", "drafted", "the constitution"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["morley", "was persecuted by", "the church"], "premise": ["morley", "will take charge of", "the church"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["mongolia", "is a neighbor of", "india"], "premise": ["india", "has in regard to", "mongolia"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["harte", "is the governor of", "california"], "premise": ["harte", "emigrated to", "california"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["augustus", "fought", "the romans"], "premise": ["the romans", "were to call", "augustus"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["the perch", "eats", "the insect"], "premise": ["the insect", "always returns to", "the perch"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["rivera", "resided in", "paris"], "premise": ["rivera", "had lived in", "paris"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["mao", "is used in", "an airplane"], "premise": ["mao", "had flown in", "an airplane"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["homer", "composed", "the opera"], "premise": ["homer", "sang with", "the opera"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["a virus", "will induce", "leukaemia"], "premise": ["leukaemia", "is caused by", "a virus"], "truth_value": true, "flipped_args": true}
+{"hypothesis": ["john", "was worshiped in", "jerusalem"], "premise": ["john", "left and returned to", "jerusalem"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["colorectal polyps", "rebuilds", "tissue"], "premise": ["colorectal polyps", "are masses of", "tissue"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["bhutan", "is a neighbor of", "india"], "premise": ["india", "would defend", "bhutan"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["the creeks", "is the governor of", "florida"], "premise": ["the creeks", "have taken refuge in", "florida"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["any american soldier", "makes", "clothes"], "premise": ["clothes", "furnished to", "any american soldier"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["papules", "can cause", "the rash"], "premise": ["the rash", "begins as", "papules"], "truth_value": true, "flipped_args": true}
+{"hypothesis": ["a silver watch", "assassinated", "lincoln"], "premise": ["lincoln", "presented with", "a silver watch"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["the sheep", "eats", "the hay"], "premise": ["the sheep", "had wasted", "the hay"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["a net importer", "was the leader of", "north korea"], "premise": ["north korea", "has been", "a net importer"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["cattle", "need", "hay"], "premise": ["cattle", "eats", "hay"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["nelson", "died at", "trafalgar"], "premise": ["nelson", "fought the battle of", "trafalgar"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["leukemia", "is caused by", "virus"], "premise": ["leukemia", "induced by", "virus"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["donizetti", "composed", "operas"], "premise": ["donizetti", "wrote about", "operas"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the delegates", "appeared on", "television"], "premise": ["the delegates", "take priority over", "television"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["pompey", "is packed with", "the politicians"], "premise": ["pompey", "awaited at the hands of", "the politicians"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["secondary dermatitis", "requires", "antibiotics"], "premise": ["antibiotics", "may cause", "secondary dermatitis"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["mosquitoes", "eats", "insects"], "premise": ["mosquitoes", "belong to the order of", "insects"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the thunderer", "controls", "the sun"], "premise": ["the sun", "shall see", "the thunderer"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["the enemy", "works in", "washington"], "premise": ["the enemy", "was ordered by", "washington"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["london", "composed", "the opera"], "premise": ["the opera", "was brought out in", "london"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["the aurochs", "lives in", "the sea"], "premise": ["the aurochs", "have left", "the sea"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["shakespeare", "married", "julius caesar"], "premise": ["shakespeare", "got off on", "julius caesar"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["yellow fever", "is transferred by", "mosquitoes"], "premise": ["yellow fever", "could be transmitted by", "mosquitoes"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["the plagues", "fly through", "air"], "premise": ["the plagues", "is transmitted by", "air"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["server", "owns", "microsoft"], "premise": ["microsoft", "released", "server"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["dick", "owns", "the taxi"], "premise": ["dick", "drank in", "the taxi"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the firs", "is consumed by", "the birds"], "premise": ["the birds", "were not in", "the firs"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["the anniversary", "is celebrated in", "america"], "premise": ["america", "will celebrate", "the anniversary"], "truth_value": true, "flipped_args": true}
+{"hypothesis": ["these gentlemen", "is a politician from", "new york"], "premise": ["these gentlemen", "will take to", "new york"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the judge", "drafted", "constitution"], "premise": ["the judge", "was forbidden by", "constitution"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the socinians", "was born in", "poland"], "premise": ["the socinians", "were banished from", "poland"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the oleanders", "is consumed by", "the birds"], "premise": ["the birds", "are calling in", "the oleanders"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["magnesium", "is found in", "water"], "premise": ["magnesium", "reacts slowly with", "water"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["lowell", "owns", "a taxi"], "premise": ["lowell", "died in", "a taxi"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["napoleon", "fought", "the persians"], "premise": ["napoleon", "offered to support", "the persians"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["bacitracin", "is indicated in the treatment of", "infections"], "premise": ["bacitracin", "kills", "infections"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["clemens", "was awarded", "the medal"], "premise": ["clemens", "lost", "the medal"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["frankfort", "was bombed by", "the allies"], "premise": ["the allies", "declared at", "frankfort"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["the fearful plague", "decimated", "europe"], "premise": ["the fearful plague", "broke over", "europe"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["india", "is abundant with", "the oil"], "premise": ["the oil", "has been used in", "india"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["nitrogen", "is found in", "the air"], "premise": ["the air", "is made up of", "nitrogen"], "truth_value": true, "flipped_args": true}
+{"hypothesis": ["immigrants", "was born in", "poland"], "premise": ["immigrants", "arrived from", "poland"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["spain", "declared war on", "germany"], "premise": ["spain", "sold them to", "germany"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["truman", "met", "churchill"], "premise": ["truman", "invited", "churchill"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["americans", "was president during", "the great depression"], "premise": ["americans", "recover from", "the great depression"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["costa ricans", "drafted", "the constitution"], "premise": ["costa ricans", "must observe", "the constitution"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["president kennedy", "is a politician from", "texas"], "premise": ["president kennedy", "was assassinated in", "texas"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["berlin", "resided in", "paris"], "premise": ["paris", "is better than", "berlin"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["the common cold", "is caused by", "viruses"], "premise": ["the common cold", "is caused by one of", "viruses"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["thompson", "was persecuted by", "the church"], "premise": ["thompson", "was settled over", "the church"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["england", "declared war on", "belgium"], "premise": ["belgium", "appeals to", "england"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["the issue", "is associated with", "capitalism"], "premise": ["the issue", "was a conflict between", "capitalism"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["california", "was purchased from", "france"], "premise": ["california", "challenges", "france"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["application", "kills", "this infection"], "premise": ["this infection", "responds well to", "application"], "truth_value": true, "flipped_args": true}
+{"hypothesis": ["tyler", "is a politician from", "texas"], "premise": ["tyler", "negotiated with", "texas"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["congenital syphilis", "requires", "antibiotics"], "premise": ["antibiotics", "are not recommended for", "congenital syphilis"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["refugees", "was born in", "america"], "premise": ["refugees", "had taken refuge in", "america"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["bill gates", "founded", "microsoft"], "premise": ["microsoft", "was founded by", "bill gates"], "truth_value": true, "flipped_args": true}
+{"hypothesis": ["sore throats", "is caused by", "bacteria"], "premise": ["sore throats", "are the result of", "bacteria"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["fritz kreisler", "played", "violin"], "premise": ["fritz kreisler", "transcribed for", "violin"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["new jersey", "is bigger than", "delaware"], "premise": ["delaware", "yielded to", "new jersey"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["the beet", "is used as a source of", "alcohol"], "premise": ["the beet", "is used to make", "alcohol"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["the old woman", "is used to make", "some bread"], "premise": ["the old woman", "returned with", "some bread"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["roosevelt", "was president during", "the great depression"], "premise": ["roosevelt", "led through", "the great depression"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["gertrude stein", "was born in", "america"], "premise": ["gertrude stein", "lectures in", "america"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["spain", "is not part of", "the european union"], "premise": ["spain", "entered", "the european union"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["mexicans", "died at", "the alamo"], "premise": ["mexicans", "fought at", "the alamo"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the venus", "can be seen from", "the moon"], "premise": ["the venus", "is in conjunction with", "the moon"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["vultures", "eats", "carrion"], "premise": ["vultures", "concentrate upon", "carrion"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the intellect", "drafted", "the constitution"], "premise": ["the intellect", "adds strength to", "the constitution"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["nigeria", "is the giant of", "africa"], "premise": ["nigeria", "is the largest in", "africa"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["the cuckoo", "composed", "the symphony"], "premise": ["the cuckoo", "celebrates", "the symphony"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["judah", "walked on", "the moon"], "premise": ["judah", "was bright as", "the moon"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["secondary syphilis", "is characterized by", "a rash"], "premise": ["secondary syphilis", "can cause", "a rash"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["whistler", "resided in", "paris"], "premise": ["whistler", "brought over from", "paris"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the honeysuckles", "is consumed by", "birds"], "premise": ["birds", "visit", "the honeysuckles"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["end", "reached", "the north pole"], "premise": ["the north pole", "repels", "end"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["cleopatra", "married", "julius caesar"], "premise": ["cleopatra", "was married to", "julius caesar"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["the cowpuncher", "is a politician from", "texas"], "premise": ["the cowpuncher", "originated in", "texas"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the emperor", "ruled after", "victoria"], "premise": ["the emperor", "kept in", "victoria"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["many pioneers", "is a politician from", "texas"], "premise": ["many pioneers", "had settled in", "texas"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["cubans", "is the governor of", "florida"], "premise": ["cubans", "are concentrated in", "florida"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["burton", "is the governor of", "california"], "premise": ["burton", "had come up from", "california"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the children", "interprets", "the laws"], "premise": ["the children", "also learn", "the laws"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["greeley", "works in", "washington"], "premise": ["greeley", "telegraphed to", "washington"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["wool", "is used in", "clothing"], "premise": ["wool", "is converted into", "clothing"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["the home planet", "can be seen from", "earth"], "premise": ["the home planet", "would be smaller than", "earth"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["statesmen", "assassinated", "lincoln"], "premise": ["lincoln", "is better than", "statesmen"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["an able writer", "drafted", "the constitution"], "premise": ["an able writer", "gives the account of", "the constitution"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["that marijuana", "is used to make", "alcohol"], "premise": ["that marijuana", "is harmful than", "alcohol"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["china", "exports", "rice"], "premise": ["china", "agreed to purchase", "rice"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["different commanders", "assassinated", "lincoln"], "premise": ["lincoln", "telegraphed to", "different commanders"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["petitioner", "is the governor of", "florida"], "premise": ["petitioner", "was charged in", "florida"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the common cold", "requires", "antibiotics"], "premise": ["antibiotics", "do not cure", "the common cold"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["the airplane", "was invented by", "the wright brothers"], "premise": ["the wright brothers", "did not invent", "the airplane"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["the queen", "ruled after", "victoria"], "premise": ["the queen", "spoke of", "victoria"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["yellow fever", "could be transmitted by", "mosquitoes"], "premise": ["yellow fever", "is transferred by", "mosquitoes"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["a dramatist", "wrote", "hamlet"], "premise": ["hamlet", "was written by", "a dramatist"], "truth_value": true, "flipped_args": true}
+{"hypothesis": ["the proprietor", "was born in", "america"], "premise": ["the proprietor", "is called in", "america"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["a fat man", "makes", "the clothes"], "premise": ["a fat man", "can not wear", "the clothes"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["a hot iron", "is found in", "the water"], "premise": ["a hot iron", "is put into", "the water"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["a negro slave", "drafted", "the constitution"], "premise": ["the constitution", "did not mean", "a negro slave"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["the tree frog", "eats", "an insect"], "premise": ["the tree frog", "can not be called", "an insect"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["anderson", "was persecuted by", "the church"], "premise": ["anderson", "are members of", "the church"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["wilde", "was born in", "america"], "premise": ["wilde", "lectured in", "america"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["christianity", "is predominant in", "japan"], "premise": ["christianity", "first came to", "japan"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["child", "interprets", "laws"], "premise": ["laws", "run along", "child"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["hamlet", "was written by", "shakespeare"], "premise": ["shakespeare", "wrote", "hamlet"], "truth_value": true, "flipped_args": true}
+{"hypothesis": ["goebbels", "appeared on", "television"], "premise": ["goebbels", "was interested in", "television"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["france", "is a politician from", "texas"], "premise": ["france", "acknowledged the independence of", "texas"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["britain", "is separated by", "the english channel"], "premise": ["the english channel", "surrounds", "britain"], "truth_value": true, "flipped_args": true}
+{"hypothesis": ["workers", "is the governor of", "california"], "premise": ["workers", "were employed in", "california"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["morgan", "works in", "washington"], "premise": ["morgan", "was brought up under", "washington"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["a soloists", "played", "the violin"], "premise": ["the violin", "has had", "a soloists"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["nepal", "is a neighbor of", "india"], "premise": ["nepal", "has ties with", "india"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["anthropologists", "was born in", "america"], "premise": ["anthropologists", "have divided", "america"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["president bush", "was the leader of", "north korea"], "premise": ["president bush", "identified", "north korea"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the lettuce", "is consumed by", "the rabbits"], "premise": ["the rabbits", "guard", "the lettuce"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["mithridates", "fought", "the romans"], "premise": ["mithridates", "set upon", "the romans"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["freeman", "is a politician from", "texas"], "premise": ["freeman", "teaches at the university of", "texas"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the pallium", "was worn in", "rome"], "premise": ["the pallium", "was sent from", "rome"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["epidemic typhus", "is transmitted by", "lice"], "premise": ["epidemic typhus", "is transferred by", "lice"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["delegates", "drafted", "the constitution"], "premise": ["delegates", "refused to sign", "the constitution"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["bonaparte", "was born in", "poland"], "premise": ["bonaparte", "could think of", "poland"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["this baron", "is the governor of", "california"], "premise": ["this baron", "played to", "california"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the soldiers", "eats", "hay"], "premise": ["the soldiers", "turned for", "hay"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["blood cells", "contains molecules of", "hemoglobin"], "premise": ["hemoglobin", "is essential for", "blood cells"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["the insurgents", "is a politician from", "texas"], "premise": ["texas", "was surrendered to", "the insurgents"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["franklin", "was born in", "america"], "premise": ["franklin", "had sailed for", "america"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["bismuth", "is found in", "the air"], "premise": ["bismuth", "does not tarnish in", "the air"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["a feeble tie", "was worn in", "rome"], "premise": ["rome", "was held by", "a feeble tie"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["the studies", "is the governor of", "california"], "premise": ["the studies", "characterized in", "california"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["gates", "was persecuted by", "the church"], "premise": ["gates", "said had left", "the church"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["athens", "was bombed by", "the allies"], "premise": ["the allies", "to sail to", "athens"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["jewish parents", "influenced", "einstein"], "premise": ["einstein", "was born of", "jewish parents"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["morphine", "upsets", "the stomach"], "premise": ["morphine", "is found in", "the stomach"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["workers", "was president during", "the great depression"], "premise": ["the great depression", "had a effect on", "workers"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["the russian dogs", "eats", "the hay"], "premise": ["the russian dogs", "burnt", "the hay"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["nongonococcal urethritis", "decimated", "america"], "premise": ["nongonococcal urethritis", "is frequent in", "america"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["that old woman", "is used to make", "the bread"], "premise": ["that old woman", "wants to take", "the bread"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["hosts", "was born in", "poland"], "premise": ["hosts", "afflicted", "poland"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["testosterone", "causes", "aggression"], "premise": ["testosterone", "generates", "aggression"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["a bush", "is consumed by", "rabbit"], "premise": ["rabbit", "hid behind", "a bush"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["brahms", "composed", "the symphony"], "premise": ["brahms", "approached", "the symphony"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["butler", "works in", "washington"], "premise": ["washington", "was married to", "butler"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["strider", "created", "the hobbits"], "premise": ["the hobbits", "gazed at", "strider"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["the first sunday", "is the end of", "easter"], "premise": ["easter", "should fall on", "the first sunday"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["garibaldi", "was born in", "america"], "premise": ["garibaldi", "escaped to", "america"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["planetesimals", "can be seen from", "the moon"], "premise": ["the moon", "was bombarded by", "planetesimals"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["the united states", "exports", "sugar"], "premise": ["the united states", "stopped buying", "sugar"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["johnson", "is the governor of", "california"], "premise": ["johnson", "is at the university of", "california"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["homer", "wrote", "the iliad"], "premise": ["the iliad", "was not written by", "homer"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["britain", "is bigger than", "texas"], "premise": ["britain", "has made with", "texas"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["weber", "is associated with", "capitalism"], "premise": ["weber", "wrote to", "capitalism"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["a seaman", "makes", "the clothes"], "premise": ["the clothes", "are borrowed from", "a seaman"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["france", "declared war on", "germany"], "premise": ["france", "had declared war on", "germany"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["william ii", "ruled after", "victoria"], "premise": ["william ii", "was the grandson of", "victoria"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the major generals", "works in", "washington"], "premise": ["the major generals", "stood around", "washington"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["antibodies", "is essential for", "blood cells"], "premise": ["antibodies", "are produced by", "blood cells"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["wagner", "composed", "operas"], "premise": ["wagner", "had abused", "operas"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["dear clark", "was persecuted by", "the church"], "premise": ["dear clark", "were married in", "the church"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["illinois", "is bigger than", "vermont"], "premise": ["illinois", "did not create", "vermont"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["rabies", "was due to", "a virus"], "premise": ["rabies", "is caused by", "a virus"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["stalingrad", "was bombed by", "the allies"], "premise": ["stalingrad", "had shown", "the allies"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["the lion", "will eat", "hay"], "premise": ["the lion", "eats", "hay"], "truth_value": true, "flipped_args": false}
+{"hypothesis": ["a virus", "have been shown to cause", "leukemia"], "premise": ["leukemia", "is caused by", "a virus"], "truth_value": true, "flipped_args": true}
+{"hypothesis": ["cliffs", "is common to", "new zealand"], "premise": ["new zealand", "is a land of", "cliffs"], "truth_value": true, "flipped_args": true}
+{"hypothesis": ["cutler", "owns", "microsoft"], "premise": ["microsoft", "hired", "cutler"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["arthur", "made peace with", "japan"], "premise": ["arthur", "was transferred to", "japan"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["chlorine", "is found in", "air"], "premise": ["chlorine", "is heavier than", "air"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["nobody", "is the governor of", "california"], "premise": ["nobody", "makes it in", "california"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["syphilis", "decimated", "america"], "premise": ["syphilis", "came from", "america"], "truth_value": false, "flipped_args": false}
+{"hypothesis": ["aseptic meningitis", "can cause", "the rash"], "premise": ["the rash", "may be associated with", "aseptic meningitis"], "truth_value": true, "flipped_args": true}
+{"hypothesis": ["journalists", "is a politician from", "new york"], "premise": ["new york", "to protect", "journalists"], "truth_value": false, "flipped_args": true}
+{"hypothesis": ["cystitis", "is caused by", "bacteria"], "premise": ["bacteria", "are the cause of", "cystitis"], "truth_value": true, "flipped_args": true}
+{"hypothesis": ["the guardians", "interprets", "the laws"], "premise": ["the guardians", "must obey", "the laws"], "truth_value": false, "flipped_args": false}

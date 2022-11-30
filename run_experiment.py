@@ -1,14 +1,31 @@
-from sacred import Experiment
+import os
+import shutil
+
+from sacred import Experiment, cli_option
 from sacred.utils import apply_backspaces_and_linefeeds
 import numpy as np
 import torch
 import pprint
+from utils import print_bar
 from config import RANDOM_SEED, CFG_HYPERPARAMETERS, CFG_OPTIMIZER, CFG_DATASET
 from dataset.entailment_dataset import load_datasets
 from model.ent_model import EntailmentModel
-from train_and_eval import ModelInstructor
+from train_and_eval import ModelInstructor, BEST_MODEL_CHECKPOINT_FNAME
 
-ex = Experiment('train_model', interactive=True)
+
+@cli_option('-a', '--cleanup', is_flag=True)
+def option_no_save_model(args, run):
+    run.info['cleanup'] = args
+
+
+@cli_option('-z', '--printcurve', is_flag=True)
+def option_print_perf_curve_to_terminal(args, run):
+    run.info['printcurve'] = args
+
+
+ex = Experiment('train_model',
+                additional_cli_options=[option_no_save_model, option_print_perf_curve_to_terminal],
+                interactive=True)
 ex.add_config({'cfg_hyperparameters': CFG_HYPERPARAMETERS})
 ex.add_config({'cfg_optimizer': CFG_OPTIMIZER})
 ex.add_config({'cfg_dataset': CFG_DATASET})
@@ -36,29 +53,43 @@ def train_and_eval(device, cfg_hyperparameters, cfg_optimizer, cfg_dataset):
         print(test_description)
 
     # Make a model
-    model = EntailmentModel(device, cfg_hyperparameters)
-    model.to(device)
+    model = EntailmentModel(device, cfg_hyperparameters).to(device)
 
     # Train the model
     instructor = ModelInstructor(model, device, cfg_optimizer)
-    instructor.train_model(train, dev)
+    run_folder = instructor.train_model(train, dev)
 
     # Evaluate the model
+    print()
+    print('Loading best model for eval...')
+    best_model_path = os.path.join(run_folder, BEST_MODEL_CHECKPOINT_FNAME)
+    best_model = EntailmentModel(device, cfg_hyperparameters).to(device)
+    best_model.load_state_dict(torch.load(best_model_path))
+    evaluator = ModelInstructor(best_model, device, cfg_optimizer, run_folder=run_folder)
     if test_suite:
         for test_set in test_suite:
-            instructor.eval_model(test_set, 'test')
+            _, pr_results = evaluator.eval_model(test_set, 'test')
+            if 'printcurve' in ex.info:
+                import uniplot
+                uniplot.plot(*pr_results)
     elif test:
         for test_set in test:
-            instructor.eval_model(test_set, 'test')
+            _, pr_results = evaluator.eval_model(test_set, 'test')
+            if 'printcurve' in ex.info:
+                import uniplot
+                uniplot.plot(*pr_results)
+
+    if 'cleanup' in ex.info and ex.info['cleanup']:
+        shutil.rmtree(run_folder)
 
 
 @ex.automain
 def main(cfg_hyperparameters, cfg_optimizer, cfg_dataset):
-    print('*'*100)
+    print_bar()
     pprint.pprint(cfg_hyperparameters)
     pprint.pprint(cfg_optimizer)
     pprint.pprint(cfg_dataset)
     device = setup()
     print(f'Device: {device}')
-    print('*'*100)
+    print_bar()
     train_and_eval(device)

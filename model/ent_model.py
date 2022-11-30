@@ -56,14 +56,15 @@ class EntailmentModel(torch.nn.Module):
 
 		for i, layer in enumerate(self.decoder):
 			predicted_premises = layer(predicted_premises)
-			# if i < len(self.decoder)-1:
-			# 	predicted_premises = torch.tanh(predicted_premises)
+			if i < len(self.decoder)-1:
+				predicted_premises = torch.tanh(predicted_premises)
+				# predicted_premises = torch.nn.functional.dropout(torch.tanh(predicted_premises), self.cfg_hyperparameters['decoder_dropout'])
 
 		# shape: B
 		dists_predictions2prems = -torch.nn.functional.pairwise_distance(predicted_premises, encoded_premises)
 
 		# shape: B
-		dists_predictions2null = -torch.cdist(predicted_premises, null_premise).squeeze()
+		dists_predictions2null = -torch.cdist(predicted_premises, null_premise).squeeze(dim=1)
 
 		# shape: B x 2
 		choices_dists = torch.stack([dists_predictions2null, dists_predictions2prems], dim=1)
