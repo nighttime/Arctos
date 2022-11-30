@@ -20,7 +20,7 @@ conda env create -f environment.yml
 Note that if running on a machine with a GPU, you will need to install the gpu version of PyTorch and transformers separately.
 
 ### Usage
-1. Within the conda environment, run the experiment:
+Within the conda environment, run the experiment:
 
 ```
 python run_experiment.py [flags]
@@ -36,9 +36,11 @@ The -z command requires a separate install of the [uniplot](https://github.com/o
 pip install uniplot
 ```
 
-2. Experiment parameters can be changed in `config.py`
+On the first run, language model files will be downloaded and cached.
 
-3. Generating new datasets can be done using the provided `prep_dataset.py` script, which can be configured with different train+dev configurations plus a suite of tests.
+Experiment parameters can be changed in `config.py`
+
+Generating new datasets can be done using the provided `prep_dataset.py` script, which can be configured with different train+dev configurations plus a suite of tests. These configurations are done using the global variables at the top of the file.
 
 ### The Name??
 Arctos is the species name of the grizzly bear!
