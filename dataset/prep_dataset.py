@@ -14,13 +14,14 @@ from dataset.entailment_dataset import Sample
 DS_MAIN = ds.LEVY_HOLT_DIR_DEV
 DS_DEV_SET_PCT = 0.1
 DS_DEV = None
-DS_TEST = [ds.SPORTS_DIR, ds.LEVY_HOLT_DIR_TEST, ds.LEVY_HOLT_FULL_TEST, ds.LEVY_HOLT_PARAPHRASE_UNRELATED_TEST, ds.ANT_DIR, ds.ANT_FULL]
+DS_TEST = [ds.LEVY_HOLT_DIR_TEST, ds.LEVY_HOLT_PARAPHRASE_UNRELATED_TEST, ds.ANT_DIR, ds.ANT_FULL, ds.SPORTS_DIR]
 
 # add random pairs in training with negative labels to better learn to discriminate unrelated predicates
 AUG_ADD_RANDOM_NEGATIVE_PAIRS = 0
 AUG_ADD_DS = ds.LEVY_HOLT_PARAPHRASE_UNRELATED_TRAIN
 
-WEIGHT_SAMPLES_BY_CLASS = True
+# Options: None, 'truth_value', 'origin_dataset'
+WEIGHT_SAMPLES_BY_CLASS = 'truth_value'
 
 assert not (DS_DEV_SET_PCT and DS_DEV)
 
@@ -142,7 +143,7 @@ def make_train(folder: str) -> Tuple[List[Sample], List[Sample]]:
         samples_main = augment_with_dataset(samples_main)
 
     if WEIGHT_SAMPLES_BY_CLASS:
-        assign_sample_weights(samples_main)
+        assign_sample_weights(samples_main, WEIGHT_SAMPLES_BY_CLASS)
 
     if samples_dev:
         main_dump = 'train'
@@ -212,14 +213,14 @@ def augment_with_dataset(dataset: List[Sample]) -> List[Sample]:
     return mix_aug_samples(dataset, aug_samples)
 
 
-def assign_sample_weights(samples: List[Sample]):
+def assign_sample_weights(samples: List[Sample], attr: str):
     # Assign inverted class weights
     ctr = Counter()
     for s in samples:
-        ctr[s.origin_dataset] += 1
+        ctr[getattr(s, attr)] += 1
     total = len(samples)
     for s in samples:
-        s.sample_weight = total / ctr[s.origin_dataset]
+        s.sample_weight = total / ctr[getattr(s, attr)]
 
 
 def make_description(folder: str, train: List[Sample], dev: List[Sample], test: List[List[Sample]]):

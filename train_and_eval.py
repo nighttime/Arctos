@@ -10,7 +10,7 @@ from tqdm import tqdm
 from datetime import datetime
 
 from utils import print_bar, colors
-from model.ent_model import EntailmentModel
+from model.ent_model import ProjectorModel
 from dataset.entailment_dataset import EntailmentDataset, Sample
 
 EVAL_BSIZE = 32
@@ -23,7 +23,7 @@ def make_dataloader(dataset: EntailmentDataset, batch_size: int, split: str) -> 
 
 
 class ModelInstructor:
-    def __init__(self, model: EntailmentModel, device, cfg_optimizer: Dict[str, Any], run_folder: Optional[str] = None):
+    def __init__(self, model: torch.nn.Module, device, cfg_optimizer: Dict[str, Any], run_folder: Optional[str] = None):
         self.model = model
         self.device = device
         self.cfg_optimizer = cfg_optimizer
@@ -49,9 +49,10 @@ class ModelInstructor:
     def calc_metrics(self, batch: Iterable[Sample], batch_predictions, batch_labels) -> Tuple[torch.Tensor, Dict[str, float]]:
         bsize = batch_predictions.shape[0]
         batch_weights = torch.tensor([s.sample_weight for s in batch]).to(self.device)
-        # criterion = torch.nn.BCELoss(reduction='none')
-        criterion = torch.nn.CrossEntropyLoss(reduction='none')
-        loss = criterion(batch_predictions, batch_labels)
+        criterion = torch.nn.BCELoss()
+        # criterion = torch.nn.CrossEntropyLoss(reduction='none')
+        # loss = criterion(batch_predictions, batch_labels)
+        loss = criterion(batch_predictions[:, 1], batch_labels[:, 1])
         loss = (loss * batch_weights / batch_weights.sum()).sum()
 
         predicted_inds = torch.nn.functional.one_hot(torch.argmax(batch_predictions, dim=1), num_classes=2)
@@ -69,7 +70,7 @@ class ModelInstructor:
         acc = np.mean(self.tracked_metrics['acc'])
         return f'loss: {loss:.3f}\tacc: {acc*100:.2f}%'
 
-    def _handle_dev_checkpoint(self, dev_metrics):
+    def _handle_dev_checkpoint(self, dev_metrics) -> bool:
         should_save = False
         if self.best_dev_metrics is None:
             self.best_dev_metrics = dev_metrics
@@ -78,7 +79,8 @@ class ModelInstructor:
         tracking_metric = self.cfg_optimizer['dev_tracking_metric']
         tracking_function = {
                 'loss': operator.lt,
-                'acc': operator.gt
+                'acc': operator.gt,
+                'auc': operator.gt
         }[tracking_metric]
 
         if tracking_function(dev_metrics[tracking_metric], self.best_dev_metrics[tracking_metric]):
@@ -89,12 +91,15 @@ class ModelInstructor:
             print(colors.GREEN + '* Saving as "best" model...' + colors.ENDC)
             torch.save(self.model.state_dict(), os.path.join(self.run_folder, BEST_MODEL_CHECKPOINT_FNAME))
 
-    def process_batch(self, batch: Iterable[Sample]) -> Tuple[List[str], List[str], torch.tensor]:
+        return should_save
+
+    def process_batch(self, batch: Iterable[Sample]) -> Tuple[Any, Any, torch.tensor]:
         batch_premises = [sample.premise for sample in batch]
         # batch_premises = [premise_triple[1] for premise_triple in batch_premises]
         batch_premises = [' '.join(premise_triple) for premise_triple in batch_premises]
 
         batch_hypotheses = [sample.hypothesis for sample in batch]
+        # batch_hypotheses = [hypothesis_triple[1] for hypothesis_triple in batch_hypotheses]
         batch_hypotheses = [' '.join(hypothesis_triple) for hypothesis_triple in batch_hypotheses]
 
         truth_values = [int(sample.truth_value) for sample in batch]
@@ -132,6 +137,7 @@ class ModelInstructor:
 
         max_train_steps = self.cfg_optimizer['max_train_steps']
         epoch = 0
+        prev_best_epoch = 0
         with tqdm(total=max_train_steps, ncols=120) as pbar:
             train_step = 0
             while train_step < max_train_steps:
@@ -153,15 +159,22 @@ class ModelInstructor:
 
                 if dev_dataset:
                     print()
-                    dev_metrics, _ = self.eval_model(dev_dataset, 'dev')
+                    dev_metrics, _, _ = self.eval_model(dev_dataset, 'dev')
 
                     # decide whether to save the model as current "best"
-                    self._handle_dev_checkpoint(dev_metrics)
+                    new_best = self._handle_dev_checkpoint(dev_metrics)
+                    if new_best:
+                        prev_best_epoch = epoch
+                    else:
+                        patience = self.cfg_optimizer['patience']
+                        if epoch - prev_best_epoch >= patience:
+                            print(colors.UNDERLINE + f'No dev improvement in {patience} epochs. Stopping!' + colors.ENDC)
+                            break
 
         return self.run_folder
 
     def eval_model(self, dataset: EntailmentDataset, split: str) \
-            -> Tuple[Dict[str, float], Tuple[np.ndarray, np.ndarray]]:
+            -> Tuple[Dict[str, float], Tuple[np.ndarray, np.ndarray], Dict[str, Any]]:
         print(f'Evaluating {split}: {dataset.name}...')
         self.model.eval()
         eval_data = make_dataloader(dataset, EVAL_BSIZE, split)
@@ -210,5 +223,10 @@ class ModelInstructor:
               f'\tclass prec: {random_baseline_prec*100:.2f}')
         print_bar('-')
 
-        return all_metrics, (precisions, recalls)
+        info = {
+                'random_baseline_prec': random_baseline_prec,
+                'len_dataset': len(all_labels_idx)
+        }
+
+        return all_metrics, (precisions, recalls), info
 

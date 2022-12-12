@@ -1,0 +1,6 @@
+TRAIN: LH-para-unrel (train): 3870 (AUG: None)
+DEV: LH-para-unrel (dev): 986
+SAMPLE_WEIGHTING: truth_value
+
+TEST:
+	LH-para-unrel (test): 11137
